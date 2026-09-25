@@ -1,0 +1,8 @@
+# Python 3.11. Versions used to produce and check the committed results.
+numpy==2.4.4
+matplotlib==3.10.9
+pyarrow==25.0.1
+# Needed only to rerun the identifiers (analysis/predict.py, score_openlid_v3.py, training_file.py --v1/--v2)
+fasttext-wheel==0.9.2
+py3langid==0.4.0
+gcld3==3.0.13

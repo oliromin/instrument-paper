@@ -1,0 +1,18 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Romin Oli
+
+The contents of data/, results/ and protocols/ are licensed under the Creative
+Commons Attribution 4.0 International License. This covers the unit
+identifiers, text hashes, predictions, scores, counts, marker lists, results
+and protocols.
+
+To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+This license does not extend to the external corpora or model binaries named in
+data/external_inputs.json and data/model_identities.json. None of them is
+redistributed here, and each remains under its own terms.
+
+The paper in paper/ is covered by the license under which it is posted on
+arXiv.

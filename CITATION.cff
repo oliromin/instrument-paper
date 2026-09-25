@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper."
+title: "What Language Labels Leave Out: reproduction package"
+type: software
+authors:
+  - family-names: Oli
+    given-names: Romin
+repository-code: "https://github.com/oliromin/instrument-paper"
+license: MIT
+preferred-citation:
+  type: article
+  title: "What Language Labels Leave Out: An Absorbing Class in Corpus Language Identification"
+  authors:
+    - family-names: Oli
+      given-names: Romin
+  year: 2026
+  url: "https://github.com/oliromin/instrument-paper"
