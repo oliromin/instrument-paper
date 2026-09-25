@@ -1,0 +1,330 @@
+{
+ "description": "External inputs from which analysis/rebuild_texts.py reconstructs every unit text. None is redistributed here. Each is identified by SHA-256; the rebuild script finds a file by this name or, failing that, by its hash.",
+ "inputs": [
+  {
+   "name": "hin_wikipedia_2021_300K.tar.gz",
+   "sha256": "2e9eb19c017197f8094bd75fe7624fda19df1dae89ff6c328cbdc859c02c7d0e",
+   "bytes": 64366307,
+   "origin": {
+    "collection": "Leipzig Corpora Collection",
+    "release": "hin_wikipedia_2021_300K",
+    "url": "https://downloads.wortschatz-leipzig.de/corpora/hin_wikipedia_2021_300K.tar.gz"
+   },
+   "used_for": [
+    "panel1_units",
+    "panel1_l20_units",
+    "nested_units",
+    "register templates",
+    "source clusters"
+   ]
+  },
+  {
+   "name": "nep_wikipedia_2021_100K.tar.gz",
+   "sha256": "e551dae86688e8dfcaa4c83442194744a287f4c1af8aaf4d41f7b99625b186aa",
+   "bytes": 19028482,
+   "origin": {
+    "collection": "Leipzig Corpora Collection",
+    "release": "nep_wikipedia_2021_100K",
+    "url": "https://downloads.wortschatz-leipzig.de/corpora/nep_wikipedia_2021_100K.tar.gz"
+   },
+   "used_for": [
+    "panel1_units",
+    "panel1_l20_units"
+   ]
+  },
+  {
+   "name": "mar_wikipedia_2021_30K.tar.gz",
+   "sha256": "96c420b474a5e0899a25a9fc0e25fb415ea2282080ee56827a1f703789d1159b",
+   "bytes": 4727501,
+   "origin": {
+    "collection": "Leipzig Corpora Collection",
+    "release": "mar_wikipedia_2021_30K",
+    "url": "https://downloads.wortschatz-leipzig.de/corpora/mar_wikipedia_2021_30K.tar.gz"
+   },
+   "used_for": [
+    "panel1_units",
+    "panel1_l20_units"
+   ]
+  },
+  {
+   "name": "san_wikipedia_2021_30K.tar.gz",
+   "sha256": "057ff0fa892a71a5752ecb3fb3b3e5ec51c304c5b01666832cc7be1457c08c90",
+   "bytes": 3894379,
+   "origin": {
+    "collection": "Leipzig Corpora Collection",
+    "release": "san_wikipedia_2021_30K",
+    "url": "https://downloads.wortschatz-leipzig.de/corpora/san_wikipedia_2021_30K.tar.gz"
+   },
+   "used_for": [
+    "panel1_units",
+    "panel1_l20_units"
+   ]
+  },
+  {
+   "name": "new_wikipedia_2021_30K.tar.gz",
+   "sha256": "28c0c73644a80ef4d58060e45e8d1e301bd8ec69b9bf51a742ff5d7918469b91",
+   "bytes": 3901604,
+   "origin": {
+    "collection": "Leipzig Corpora Collection",
+    "release": "new_wikipedia_2021_30K",
+    "url": "https://downloads.wortschatz-leipzig.de/corpora/new_wikipedia_2021_30K.tar.gz"
+   },
+   "used_for": [
+    "panel1_units",
+    "panel1_l20_units"
+   ]
+  },
+  {
+   "name": "mai_wikipedia_2021_10K.tar.gz",
+   "sha256": "6a882f73dab576aa06f7d33ccb7b7a5c2d4c5086a0ac22402b640a4420a008f5",
+   "bytes": 1680941,
+   "origin": {
+    "collection": "Leipzig Corpora Collection",
+    "release": "mai_wikipedia_2021_10K",
+    "url": "https://downloads.wortschatz-leipzig.de/corpora/mai_wikipedia_2021_10K.tar.gz"
+   },
+   "used_for": [
+    "panel1_units",
+    "panel1_l20_units"
+   ]
+  },
+  {
+   "name": "hin_news_2022_1M.tar.gz",
+   "sha256": "4c66f96c4e99e1d4277f183320457acae0597f4d314243e65ec371059eecec63",
+   "bytes": 202150900,
+   "origin": {
+    "collection": "Leipzig Corpora Collection",
+    "release": "hin_news_2022_1M",
+    "url": "https://downloads.wortschatz-leipzig.de/corpora/hin_news_2022_1M.tar.gz"
+   },
+   "used_for": [
+    "panel2_units (regime A)",
+    "nested_units"
+   ]
+  },
+  {
+   "name": "nep_news_2020_300K.tar.gz",
+   "sha256": "0ab72f0c91bc10b65ad30b95d0dd92766f306747c52d9f93c556cd78634cad78",
+   "bytes": 64001628,
+   "origin": {
+    "collection": "Leipzig Corpora Collection",
+    "release": "nep_news_2020_300K",
+    "url": "https://downloads.wortschatz-leipzig.de/corpora/nep_news_2020_300K.tar.gz"
+   },
+   "used_for": [
+    "panel2_units (regime A)"
+   ]
+  },
+  {
+   "name": "mar_news_2020_300K.tar.gz",
+   "sha256": "c95824bc878874571a5ac4a349c8c1f47f7c4528ab57688e5c530d9de8d28112",
+   "bytes": 53139571,
+   "origin": {
+    "collection": "Leipzig Corpora Collection",
+    "release": "mar_news_2020_300K",
+    "url": "https://downloads.wortschatz-leipzig.de/corpora/mar_news_2020_300K.tar.gz"
+   },
+   "used_for": [
+    "panel2_units (regime A)"
+   ]
+  },
+  {
+   "name": "vardial2018_train.txt",
+   "sha256": "1bd3ae96dc17ce44278cff256972649b510d6d8595f420e95bc8284f207e2678",
+   "bytes": 13870509,
+   "origin": {
+    "collection": "VarDial 2018 Indo-Aryan Language Identification (ILI) shared task",
+    "repository": "https://github.com/kmi-linguistics/vardial2018",
+    "path": "dataset/train.txt",
+    "commit": "8df3d42858d9ec914a65707dfb9ee45c813a373b"
+   },
+   "used_for": [
+    "panel2_units (regime B)",
+    "released_split_units (ILI Awadhi references)"
+   ]
+  },
+  {
+   "name": "vardial2018_dev.txt",
+   "sha256": "2ef7944502bb2ee49358873e5d9de241f0a8a8b8a9b88e3e8c37873afd783797",
+   "bytes": 2335332,
+   "origin": {
+    "collection": "VarDial 2018 Indo-Aryan Language Identification (ILI) shared task",
+    "repository": "https://github.com/kmi-linguistics/vardial2018",
+    "path": "dataset/dev.txt",
+    "commit": "8df3d42858d9ec914a65707dfb9ee45c813a373b"
+   },
+   "used_for": [
+    "panel2_units (regime B)",
+    "released_split_units (ILI Awadhi references)"
+   ]
+  },
+  {
+   "name": "vardial2018_gold.txt",
+   "sha256": "72909da09ed1c1f3710c879ca5b69282e483ce60fe7d90497cfbca46016da704",
+   "bytes": 2079009,
+   "origin": {
+    "collection": "VarDial 2018 Indo-Aryan Language Identification (ILI) shared task",
+    "repository": "https://github.com/kmi-linguistics/vardial2018",
+    "path": "dataset/gold.txt",
+    "commit": "8df3d42858d9ec914a65707dfb9ee45c813a373b"
+   },
+   "used_for": [
+    "panel2_units (regime B)",
+    "ili_test_units",
+    "released_split_units (ILI Awadhi references)"
+   ]
+  },
+  {
+   "name": "anp_Deva_wikipedia.txt",
+   "sha256": "c0fe59f59829bd43e21f8d1d80a152ad5b31d06c52616a7bc8a40860a21df804",
+   "bytes": 1232680,
+   "origin": {
+    "collection": "GlotLID corpus v3.1 (gated)",
+    "repository": "https://huggingface.co/datasets/cis-lmu/glotlid-corpus",
+    "path": "v3.1/anp_Deva/anp_Deva_wikipedia.txt",
+    "read": "2026-09-16"
+   },
+   "used_for": [
+    "register and n-gram instruments"
+   ],
+   "note": "Repository revision not recorded at read time; identified by SHA-256."
+  },
+  {
+   "name": "hin_Deva_leipzigwiki.txt",
+   "sha256": "e51c29addb764aa1c370c77fef97abbce6b002a8ffe97ca65e10d98f14176b6c",
+   "bytes": 233956634,
+   "origin": {
+    "collection": "GlotLID corpus v3.1 (gated)",
+    "repository": "https://huggingface.co/datasets/cis-lmu/glotlid-corpus",
+    "path": "v3.1/hin_Deva/hin_Deva_leipzigwiki.txt",
+    "read": "2026-09-16"
+   },
+   "used_for": [
+    "register, n-gram and overlap instruments"
+   ],
+   "note": "Repository revision not recorded at read time; identified by SHA-256."
+  },
+  {
+   "name": "fineweb2_anp_Deva_train_000_00000.parquet",
+   "sha256": "e0cad8593b49065a745aab9b125ce38d65c40decd09aefda0801d1d0951abcfc",
+   "bytes": 84196283,
+   "origin": {
+    "collection": "FineWeb-2",
+    "repository": "https://huggingface.co/datasets/HuggingFaceFW/fineweb-2",
+    "revision": "af9c13333eb981300149d5ca60a8e9d659b276b9",
+    "path": "data/anp_Deva/train/000_00000.parquet"
+   },
+   "used_for": [
+    "released_split_units (anp_split)"
+   ]
+  },
+  {
+   "name": "fineweb2_awa_Deva_train_000_00000.parquet",
+   "sha256": "d9e0c1f35f5ba285738e81bb7d36208b9752896db68576c01b5b4447d704e35a",
+   "bytes": 3092247,
+   "origin": {
+    "collection": "FineWeb-2",
+    "repository": "https://huggingface.co/datasets/HuggingFaceFW/fineweb-2",
+    "revision": "af9c13333eb981300149d5ca60a8e9d659b276b9",
+    "path": "data/awa_Deva/train/000_00000.parquet"
+   },
+   "used_for": [
+    "released_split_units (awa_split)"
+   ]
+  },
+  {
+   "name": "angika_wikipedia_extracts.json",
+   "sha256": "a3984e71a567330b242a801cbecf1968261046eb487cf3626189dcc5f01c29d7",
+   "bytes": 1435699,
+   "origin": {
+    "collection": "Angika Wikipedia (anp.wikipedia.org)",
+    "method": "MediaWiki API plain-text extracts of 1,028 articles; titles in data/angika_extract_articles.csv"
+   },
+   "used_for": [
+    "panel2_units (regime C)",
+    "angika_extract_articles",
+    "angika_extract_sentences",
+    "released_split_units (angika)"
+   ],
+   "note": "A pull made later from the live wiki can differ; the stored hashes say whether it matches."
+  },
+  {
+   "name": "wikipedia_hi_extracts.json",
+   "sha256": "47f77ccbf246b759e76f0e4d56bd8bd8a620b7b12f582ef63c98aff2a50e4d51",
+   "bytes": 680801,
+   "origin": {
+    "collection": "hi.wikipedia.org, random articles, MediaWiki API introductory plain-text extracts",
+    "harvested": "2026-08-31T06:46:33.796Z"
+   },
+   "used_for": [
+    "reader_sample"
+   ],
+   "note": "A harvested pull: rows are located by record index; a new harvest can differ, and the stored hashes say whether it matches."
+  },
+  {
+   "name": "wikipedia_hi_extracts_b.json",
+   "sha256": "0c06c13fa8daedc227f4b2c5d58e3d66d2d4aaa47b1eb67f35a42132f31378d9",
+   "bytes": 761971,
+   "origin": {
+    "collection": "hi.wikipedia.org, a second random draw by the same method",
+    "harvested": "2026-08-31T06:46:57.384Z"
+   },
+   "used_for": [
+    "reader_sample"
+   ],
+   "note": "A harvested pull: rows are located by record index; a new harvest can differ, and the stored hashes say whether it matches."
+  },
+  {
+   "name": "wikipedia_ne_extracts.json",
+   "sha256": "e4a63ddc6835b2a00de301dc64c2da9f2bd1add99071407686d0031dfe03c8e3",
+   "bytes": 924332,
+   "origin": {
+    "collection": "ne.wikipedia.org, random articles, MediaWiki API introductory plain-text extracts",
+    "harvested": "2026-08-31T06:44:14.682Z"
+   },
+   "used_for": [
+    "reader_sample"
+   ],
+   "note": "A harvested pull: rows are located by record index; a new harvest can differ, and the stored hashes say whether it matches."
+  },
+  {
+   "name": "fleurs_hi_transcripts.json",
+   "sha256": "2290c9084ae4c57dd033a41f07f4c1c288e6a6a2a9c0f08711a72d120ce2c900",
+   "bytes": 237947,
+   "origin": {
+    "collection": "FLEURS (google/fleurs), hi_in, transcription column",
+    "harvested": "2026-08-31T06:54:06.589Z"
+   },
+   "used_for": [
+    "reader_sample"
+   ],
+   "note": "A harvested pull: rows are located by record index; a new harvest can differ, and the stored hashes say whether it matches."
+  },
+  {
+   "name": "fleurs_ne_transcripts.json",
+   "sha256": "584215abc04696c8317ad62a17cd606719c92f9cd72af5964bf03aeb10c7f254",
+   "bytes": 384126,
+   "origin": {
+    "collection": "FLEURS (google/fleurs), ne_np, transcription column",
+    "harvested": "2026-08-31T06:54:03.839Z"
+   },
+   "used_for": [
+    "reader_sample"
+   ],
+   "note": "A harvested pull: rows are located by record index; a new harvest can differ, and the stored hashes say whether it matches."
+  },
+  {
+   "name": "indicvoices_rows.json",
+   "sha256": "8cde7601b3bc6f453e9a4b7e04677f95db20adb649deb64aefcf0df1bc8d12b5",
+   "bytes": 1969805,
+   "origin": {
+    "collection": "IndicVoices (ai4bharat/IndicVoices), hindi and nepali train split, text columns only",
+    "harvested": "2026-08-31T18:03:42.516Z"
+   },
+   "used_for": [
+    "reader_sample"
+   ],
+   "note": "A harvested pull: rows are located by record index; a new harvest can differ, and the stored hashes say whether it matches."
+  }
+ ]
+}

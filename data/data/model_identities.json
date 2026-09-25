@@ -1,0 +1,102 @@
+{
+ "v1": {
+  "name": "GlotLID v1",
+  "source": "https://huggingface.co/cis-lmu/glotlid",
+  "file": "model_v1.bin",
+  "labels_emitted": 1795,
+  "sha256": "8624f1d95916209e6f0973757f8ab704570bd7f589d9ec454d76187bb6035c41",
+  "bytes": 1382536178,
+  "fasttext_args": {
+   "dim": 256,
+   "minn": 2,
+   "maxn": 5,
+   "wordNgrams": 1,
+   "loss": "loss_name.softmax"
+  }
+ },
+ "v2": {
+  "name": "GlotLID v2",
+  "source": "https://huggingface.co/cis-lmu/glotlid",
+  "file": "model_v2.bin",
+  "labels_emitted": 1848,
+  "sha256": "7b186ecd9c78dca5b8ee5bcd29f35e0cfbd6258b1512484efddd0a6329c6be38",
+  "bytes": 1697042258,
+  "fasttext_args": {
+   "dim": 256,
+   "minn": 2,
+   "maxn": 5,
+   "wordNgrams": 1,
+   "loss": "loss_name.softmax"
+  }
+ },
+ "v3": {
+  "name": "GlotLID v3",
+  "source": "https://huggingface.co/cis-lmu/glotlid",
+  "file": "model_v3.bin (also published as model.bin)",
+  "labels_emitted": 2102,
+  "sha256": "a818b6bd42a628ab47d3dfc1578c7ea615c45381f3494c42535e31e8c4cafc9e",
+  "bytes": 1687094687,
+  "fasttext_args": {
+   "dim": 256,
+   "minn": 2,
+   "maxn": 5,
+   "wordNgrams": 1,
+   "loss": "loss_name.softmax"
+  },
+  "repository_revision_read": "85cd6716494360367b75f642b5bc78667605d0b4",
+  "note": "The official metadata read on 13 September 2026 lists model.bin and model_v3.bin with this SHA-256."
+ },
+ "openlid": {
+  "name": "OpenLID (201 labels)",
+  "source": "https://huggingface.co/laurievb/OpenLID",
+  "file": "fastText binary",
+  "labels_emitted": 201,
+  "sha256": "0e2bc6d0d3048b38c4e2e8aa77b4618108670eb91cb72544d3340f605964a78b",
+  "bytes": 1233956788,
+  "fasttext_args": {
+   "dim": 256,
+   "minn": 2,
+   "maxn": 5,
+   "wordNgrams": 1,
+   "loss": "loss_name.softmax"
+  }
+ },
+ "lid176": {
+  "name": "fastText lid.176",
+  "source": "https://fasttext.cc/docs/en/language-identification.html",
+  "file": "lid.176.bin",
+  "labels_emitted": 176,
+  "sha256": "7e69ec5451bc261cc7844e49e4792a85d7f09c06789ec800fc4a44aec362764e",
+  "bytes": 131266198,
+  "fasttext_args": {
+   "dim": 16,
+   "minn": 2,
+   "maxn": 4,
+   "wordNgrams": 1,
+   "loss": "loss_name.hs"
+  }
+ },
+ "cld3": {
+  "name": "CLD3",
+  "source": "https://pypi.org/project/gcld3/",
+  "file": "gcld3 package",
+  "labels_emitted": 109,
+  "package_version": "3.0.13"
+ },
+ "langid": {
+  "name": "langid.py",
+  "source": "https://pypi.org/project/py3langid/",
+  "file": "py3langid package",
+  "labels_emitted": 142,
+  "package_version": "0.4.0"
+ },
+ "openlid_v3": {
+  "name": "OpenLID-v3",
+  "source": "https://huggingface.co/HPLT/OpenLID-v3",
+  "file": "openlid-v3.bin",
+  "repository_revision_read": "6b9560483e17e42f48d86cebf22b4b58dffeaa70",
+  "sha256": "01ec5bbf85975c52673c52b3d8585bc4cc0e4eb4636ad5591467bab56b118821",
+  "bytes": 1232567111,
+  "labels_emitted": 195
+ }
+}
