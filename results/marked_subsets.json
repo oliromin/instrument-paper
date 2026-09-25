@@ -1,0 +1,2133 @@
+{
+ "results": {
+  "hin|L1|langid|all": {
+   "n": 2000,
+   "retention": 0.986,
+   "ci": 0.00514924491551917,
+   "n_lost": 28,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "ne",
+     16
+    ],
+    [
+     "sa",
+     7
+    ],
+    [
+     "mr",
+     4
+    ],
+    [
+     "gom",
+     1
+    ]
+   ]
+  },
+  "hin|L1|lid176|all": {
+   "n": 2000,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "hin|L1|cld3|all": {
+   "n": 2000,
+   "retention": 0.99,
+   "ci": 0.004360724710412252,
+   "n_lost": 20,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "mr",
+     14
+    ],
+    [
+     "ne",
+     6
+    ]
+   ]
+  },
+  "hin|L1|openlid|all": {
+   "n": 2000,
+   "retention": 0.6925,
+   "ci": 0.020224301100408883,
+   "n_lost": 615,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "awa_Deva",
+     511
+    ],
+    [
+     "mag_Deva",
+     44
+    ],
+    [
+     "bho_Deva",
+     34
+    ],
+    [
+     "mai_Deva",
+     18
+    ]
+   ]
+  },
+  "hin|L1|v1|all": {
+   "n": 2000,
+   "retention": 0.9935,
+   "ci": 0.003521937847265324,
+   "n_lost": 13,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "new",
+     4
+    ],
+    [
+     "awa",
+     4
+    ],
+    [
+     "mag",
+     3
+    ],
+    [
+     "bho",
+     2
+    ]
+   ]
+  },
+  "hin|L1|v2|all": {
+   "n": 2000,
+   "retention": 0.9415,
+   "ci": 0.010285589054594783,
+   "n_lost": 117,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "awa_Deva",
+     83
+    ],
+    [
+     "new_Deva",
+     24
+    ],
+    [
+     "mai_Deva",
+     3
+    ],
+    [
+     "mag_Deva",
+     2
+    ]
+   ]
+  },
+  "hin|L1|v3|all": {
+   "n": 2000,
+   "retention": 0.48,
+   "ci": 0.0218959283886297,
+   "n_lost": 1040,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     1015
+    ],
+    [
+     "awa_Deva",
+     13
+    ],
+    [
+     "new_Deva",
+     7
+    ],
+    [
+     "bho_Deva",
+     2
+    ]
+   ]
+  },
+  "hin|L5|langid|all": {
+   "n": 2000,
+   "retention": 0.998,
+   "ci": 0.001958039019018774,
+   "n_lost": 4,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "ne",
+     2
+    ],
+    [
+     "mr",
+     1
+    ],
+    [
+     "sa",
+     1
+    ]
+   ]
+  },
+  "hin|L5|lid176|all": {
+   "n": 2000,
+   "retention": 0.9995,
+   "ci": 0.0009797549693672874,
+   "n_lost": 1,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "mr",
+     1
+    ]
+   ]
+  },
+  "hin|L5|cld3|all": {
+   "n": 2000,
+   "retention": 0.9995,
+   "ci": 0.0009797549693672874,
+   "n_lost": 1,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "mr",
+     1
+    ]
+   ]
+  },
+  "hin|L5|openlid|all": {
+   "n": 2000,
+   "retention": 0.8665,
+   "ci": 0.01490616725385838,
+   "n_lost": 267,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "awa_Deva",
+     264
+    ],
+    [
+     "bho_Deva",
+     1
+    ],
+    [
+     "mar_Deva",
+     1
+    ],
+    [
+     "mag_Deva",
+     1
+    ]
+   ]
+  },
+  "hin|L5|v1|all": {
+   "n": 2000,
+   "retention": 0.9995,
+   "ci": 0.0009797549693672874,
+   "n_lost": 1,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "mar",
+     1
+    ]
+   ]
+  },
+  "hin|L5|v2|all": {
+   "n": 2000,
+   "retention": 0.9975,
+   "ci": 0.002188605720544452,
+   "n_lost": 5,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "new_Deva",
+     3
+    ],
+    [
+     "mar_Deva",
+     1
+    ],
+    [
+     "awa_Deva",
+     1
+    ]
+   ]
+  },
+  "hin|L5|v3|all": {
+   "n": 2000,
+   "retention": 0.5235,
+   "ci": 0.021889249374978575,
+   "n_lost": 953,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     952
+    ],
+    [
+     "mar_Deva",
+     1
+    ]
+   ]
+  },
+  "nep|L1|langid|all": {
+   "n": 2000,
+   "retention": 0.997,
+   "ci": 0.002396896493384728,
+   "n_lost": 6,
+   "hindi_share_of_loss": 0.5,
+   "top_destinations": [
+    [
+     "sa",
+     3
+    ],
+    [
+     "hi",
+     3
+    ]
+   ]
+  },
+  "nep|L1|lid176|all": {
+   "n": 2000,
+   "retention": 0.9845,
+   "ci": 0.005413956760078521,
+   "n_lost": 31,
+   "hindi_share_of_loss": 0.5483870967741935,
+   "top_destinations": [
+    [
+     "hi",
+     17
+    ],
+    [
+     "sa",
+     8
+    ],
+    [
+     "dty",
+     4
+    ],
+    [
+     "mr",
+     2
+    ]
+   ]
+  },
+  "nep|L1|cld3|all": {
+   "n": 2000,
+   "retention": 0.988,
+   "ci": 0.004772106956052014,
+   "n_lost": 24,
+   "hindi_share_of_loss": 0.7083333333333334,
+   "top_destinations": [
+    [
+     "hi",
+     17
+    ],
+    [
+     "mr",
+     7
+    ]
+   ]
+  },
+  "nep|L1|openlid|all": {
+   "n": 2000,
+   "retention": 0.9965,
+   "ci": 0.0025882948441010157,
+   "n_lost": 7,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "awa_Deva",
+     4
+    ],
+    [
+     "mai_Deva",
+     2
+    ],
+    [
+     "san_Deva",
+     1
+    ]
+   ]
+  },
+  "nep|L1|v1|all": {
+   "n": 2000,
+   "retention": 0.9985,
+   "ci": 0.0016961362563190187,
+   "n_lost": 3,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "san",
+     1
+    ],
+    [
+     "new",
+     1
+    ],
+    [
+     "nwx",
+     1
+    ]
+   ]
+  },
+  "nep|L1|v2|all": {
+   "n": 2000,
+   "retention": 0.9985,
+   "ci": 0.0016961362563190187,
+   "n_lost": 3,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "awa_Deva",
+     2
+    ],
+    [
+     "san_Deva",
+     1
+    ]
+   ]
+  },
+  "nep|L1|v3|all": {
+   "n": 2000,
+   "retention": 0.9935,
+   "ci": 0.003521937847265324,
+   "n_lost": 13,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     8
+    ],
+    [
+     "dty_Deva",
+     2
+    ],
+    [
+     "awa_Deva",
+     1
+    ],
+    [
+     "san_Deva",
+     1
+    ]
+   ]
+  },
+  "nep|L5|langid|all": {
+   "n": 2000,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "nep|L5|lid176|all": {
+   "n": 2000,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "nep|L5|cld3|all": {
+   "n": 2000,
+   "retention": 0.9995,
+   "ci": 0.0009797549693672874,
+   "n_lost": 1,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "mr",
+     1
+    ]
+   ]
+  },
+  "nep|L5|openlid|all": {
+   "n": 2000,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "nep|L5|v1|all": {
+   "n": 2000,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "nep|L5|v2|all": {
+   "n": 2000,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "nep|L5|v3|all": {
+   "n": 2000,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mar|L1|langid|all": {
+   "n": 2000,
+   "retention": 0.971,
+   "ci": 0.007354441324805035,
+   "n_lost": 58,
+   "hindi_share_of_loss": 0.13793103448275862,
+   "top_destinations": [
+    [
+     "gom",
+     44
+    ],
+    [
+     "hi",
+     8
+    ],
+    [
+     "ne",
+     3
+    ],
+    [
+     "sa",
+     3
+    ]
+   ]
+  },
+  "mar|L1|lid176|all": {
+   "n": 2000,
+   "retention": 0.998,
+   "ci": 0.001958039019018774,
+   "n_lost": 4,
+   "hindi_share_of_loss": 0.75,
+   "top_destinations": [
+    [
+     "hi",
+     3
+    ],
+    [
+     "gom",
+     1
+    ]
+   ]
+  },
+  "mar|L1|cld3|all": {
+   "n": 2000,
+   "retention": 0.9865,
+   "ci": 0.005057740028906183,
+   "n_lost": 27,
+   "hindi_share_of_loss": 0.5185185185185185,
+   "top_destinations": [
+    [
+     "hi",
+     14
+    ],
+    [
+     "ne",
+     13
+    ]
+   ]
+  },
+  "mar|L1|openlid|all": {
+   "n": 2000,
+   "retention": 0.9975,
+   "ci": 0.002188605720544452,
+   "n_lost": 5,
+   "hindi_share_of_loss": 0.4,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     2
+    ],
+    [
+     "awa_Deva",
+     1
+    ],
+    [
+     "san_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ]
+   ]
+  },
+  "mar|L1|v1|all": {
+   "n": 2000,
+   "retention": 0.999,
+   "ci": 0.0013852361531522348,
+   "n_lost": 2,
+   "hindi_share_of_loss": 0.5,
+   "top_destinations": [
+    [
+     "new",
+     1
+    ],
+    [
+     "hin",
+     1
+    ]
+   ]
+  },
+  "mar|L1|v2|all": {
+   "n": 2000,
+   "retention": 0.997,
+   "ci": 0.002396896493384728,
+   "n_lost": 6,
+   "hindi_share_of_loss": 0.16666666666666666,
+   "top_destinations": [
+    [
+     "new_Deva",
+     4
+    ],
+    [
+     "mai_Deva",
+     1
+    ],
+    [
+     "hin_Deva",
+     1
+    ]
+   ]
+  },
+  "mar|L1|v3|all": {
+   "n": 2000,
+   "retention": 0.9935,
+   "ci": 0.003521937847265324,
+   "n_lost": 13,
+   "hindi_share_of_loss": 0.07692307692307693,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     5
+    ],
+    [
+     "gom_Deva",
+     3
+    ],
+    [
+     "new_Deva",
+     3
+    ],
+    [
+     "npi_Deva",
+     1
+    ]
+   ]
+  },
+  "mar|L5|langid|all": {
+   "n": 1130,
+   "retention": 0.9964601769911504,
+   "ci": 0.00346288123552349,
+   "n_lost": 4,
+   "hindi_share_of_loss": 0.25,
+   "top_destinations": [
+    [
+     "ne",
+     2
+    ],
+    [
+     "hi",
+     1
+    ],
+    [
+     "gom",
+     1
+    ]
+   ]
+  },
+  "mar|L5|lid176|all": {
+   "n": 1130,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mar|L5|cld3|all": {
+   "n": 1130,
+   "retention": 0.9991150442477876,
+   "ci": 0.0017337456207140937,
+   "n_lost": 1,
+   "hindi_share_of_loss": 1.0,
+   "top_destinations": [
+    [
+     "hi",
+     1
+    ]
+   ]
+  },
+  "mar|L5|openlid|all": {
+   "n": 1130,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mar|L5|v1|all": {
+   "n": 1130,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mar|L5|v2|all": {
+   "n": 1130,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mar|L5|v3|all": {
+   "n": 1130,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "san|L1|langid|all": {
+   "n": 2000,
+   "retention": 0.997,
+   "ci": 0.002396896493384728,
+   "n_lost": 6,
+   "hindi_share_of_loss": 0.5,
+   "top_destinations": [
+    [
+     "hi",
+     3
+    ],
+    [
+     "ne",
+     2
+    ],
+    [
+     "mr",
+     1
+    ]
+   ]
+  },
+  "san|L1|lid176|all": {
+   "n": 2000,
+   "retention": 0.9775,
+   "ci": 0.006499661145013633,
+   "n_lost": 45,
+   "hindi_share_of_loss": 0.8444444444444444,
+   "top_destinations": [
+    [
+     "hi",
+     38
+    ],
+    [
+     "ne",
+     6
+    ],
+    [
+     "mr",
+     1
+    ]
+   ]
+  },
+  "san|L1|openlid|all": {
+   "n": 2000,
+   "retention": 0.994,
+   "ci": 0.003384619801395721,
+   "n_lost": 12,
+   "hindi_share_of_loss": 0.16666666666666666,
+   "top_destinations": [
+    [
+     "npi_Deva",
+     5
+    ],
+    [
+     "awa_Deva",
+     3
+    ],
+    [
+     "mai_Deva",
+     2
+    ],
+    [
+     "hin_Deva",
+     2
+    ]
+   ]
+  },
+  "san|L1|v1|all": {
+   "n": 2000,
+   "retention": 0.9975,
+   "ci": 0.002188605720544452,
+   "n_lost": 5,
+   "hindi_share_of_loss": 0.2,
+   "top_destinations": [
+    [
+     "nep",
+     1
+    ],
+    [
+     "awa",
+     1
+    ],
+    [
+     "new",
+     1
+    ],
+    [
+     "npi",
+     1
+    ]
+   ]
+  },
+  "san|L1|v2|all": {
+   "n": 2000,
+   "retention": 0.996,
+   "ci": 0.0027663093102543693,
+   "n_lost": 8,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "awa_Deva",
+     2
+    ],
+    [
+     "mai_Deva",
+     2
+    ],
+    [
+     "npi_Deva",
+     1
+    ],
+    [
+     "mar_Deva",
+     1
+    ]
+   ]
+  },
+  "san|L1|v3|all": {
+   "n": 2000,
+   "retention": 0.9915,
+   "ci": 0.004023434130192753,
+   "n_lost": 17,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     9
+    ],
+    [
+     "awa_Deva",
+     3
+    ],
+    [
+     "mar_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ]
+   ]
+  },
+  "san|L5|langid|all": {
+   "n": 1614,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "san|L5|lid176|all": {
+   "n": 1614,
+   "retention": 0.9981412639405205,
+   "ci": 0.002101402155259383,
+   "n_lost": 3,
+   "hindi_share_of_loss": 1.0,
+   "top_destinations": [
+    [
+     "hi",
+     3
+    ]
+   ]
+  },
+  "san|L5|openlid|all": {
+   "n": 1614,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "san|L5|v1|all": {
+   "n": 1614,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "san|L5|v2|all": {
+   "n": 1614,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "san|L5|v3|all": {
+   "n": 1614,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "new|L1|lid176|all": {
+   "n": 2000,
+   "retention": 0.801,
+   "ci": 0.017497816983841154,
+   "n_lost": 398,
+   "hindi_share_of_loss": 0.5125628140703518,
+   "top_destinations": [
+    [
+     "hi",
+     204
+    ],
+    [
+     "mr",
+     165
+    ],
+    [
+     "ne",
+     18
+    ],
+    [
+     "sa",
+     11
+    ]
+   ]
+  },
+  "new|L1|v1|all": {
+   "n": 2000,
+   "retention": 0.9615,
+   "ci": 0.008432300646917185,
+   "n_lost": 77,
+   "hindi_share_of_loss": 0.8051948051948052,
+   "top_destinations": [
+    [
+     "hin",
+     62
+    ],
+    [
+     "nep",
+     7
+    ],
+    [
+     "mar",
+     4
+    ],
+    [
+     "san",
+     2
+    ]
+   ]
+  },
+  "new|L1|v2|all": {
+   "n": 2000,
+   "retention": 0.9895,
+   "ci": 0.004467284611483794,
+   "n_lost": 21,
+   "hindi_share_of_loss": 0.7619047619047619,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     16
+    ],
+    [
+     "nep_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ],
+    [
+     "mai_Deva",
+     1
+    ]
+   ]
+  },
+  "new|L1|v3|all": {
+   "n": 2000,
+   "retention": 0.9695,
+   "ci": 0.007536416641879611,
+   "n_lost": 61,
+   "hindi_share_of_loss": 0.3114754098360656,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     32
+    ],
+    [
+     "hin_Deva",
+     19
+    ],
+    [
+     "npi_Deva",
+     4
+    ],
+    [
+     "mar_Deva",
+     3
+    ]
+   ]
+  },
+  "new|L5|lid176|all": {
+   "n": 656,
+   "retention": 0.9207317073170732,
+   "ci": 0.020673806800724132,
+   "n_lost": 52,
+   "hindi_share_of_loss": 0.7307692307692307,
+   "top_destinations": [
+    [
+     "hi",
+     38
+    ],
+    [
+     "ne",
+     8
+    ],
+    [
+     "mr",
+     4
+    ],
+    [
+     "sa",
+     2
+    ]
+   ]
+  },
+  "new|L5|v1|all": {
+   "n": 656,
+   "retention": 0.9679878048780488,
+   "ci": 0.013470906516973514,
+   "n_lost": 21,
+   "hindi_share_of_loss": 0.5714285714285714,
+   "top_destinations": [
+    [
+     "hin",
+     12
+    ],
+    [
+     "nep",
+     5
+    ],
+    [
+     "npi",
+     2
+    ],
+    [
+     "mar",
+     2
+    ]
+   ]
+  },
+  "new|L5|v2|all": {
+   "n": 656,
+   "retention": 0.9908536585365854,
+   "ci": 0.007285051324609447,
+   "n_lost": 6,
+   "hindi_share_of_loss": 0.5,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     3
+    ],
+    [
+     "mar_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ],
+    [
+     "nep_Deva",
+     1
+    ]
+   ]
+  },
+  "new|L5|v3|all": {
+   "n": 656,
+   "retention": 0.9771341463414634,
+   "ci": 0.011438654870859561,
+   "n_lost": 15,
+   "hindi_share_of_loss": 0.2,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     8
+    ],
+    [
+     "hin_Deva",
+     3
+    ],
+    [
+     "npi_Deva",
+     3
+    ],
+    [
+     "mar_Deva",
+     1
+    ]
+   ]
+  },
+  "mai|L1|lid176|all": {
+   "n": 2000,
+   "retention": 0.626,
+   "ci": 0.02120625801974502,
+   "n_lost": 748,
+   "hindi_share_of_loss": 0.6737967914438503,
+   "top_destinations": [
+    [
+     "hi",
+     504
+    ],
+    [
+     "ne",
+     186
+    ],
+    [
+     "bh",
+     25
+    ],
+    [
+     "mr",
+     16
+    ]
+   ]
+  },
+  "mai|L1|openlid|all": {
+   "n": 2000,
+   "retention": 0.991,
+   "ci": 0.004139035539832923,
+   "n_lost": 18,
+   "hindi_share_of_loss": 0.3888888888888889,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     7
+    ],
+    [
+     "npi_Deva",
+     4
+    ],
+    [
+     "awa_Deva",
+     3
+    ],
+    [
+     "bho_Deva",
+     2
+    ]
+   ]
+  },
+  "mai|L1|v1|all": {
+   "n": 2000,
+   "retention": 0.992,
+   "ci": 0.0039042885139292677,
+   "n_lost": 16,
+   "hindi_share_of_loss": 0.375,
+   "top_destinations": [
+    [
+     "hin",
+     6
+    ],
+    [
+     "nep",
+     3
+    ],
+    [
+     "mag",
+     2
+    ],
+    [
+     "npi",
+     2
+    ]
+   ]
+  },
+  "mai|L1|v2|all": {
+   "n": 2000,
+   "retention": 0.9975,
+   "ci": 0.002188605720544452,
+   "n_lost": 5,
+   "hindi_share_of_loss": 0.4,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     2
+    ],
+    [
+     "mag_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ],
+    [
+     "awa_Deva",
+     1
+    ]
+   ]
+  },
+  "mai|L1|v3|all": {
+   "n": 2000,
+   "retention": 0.9955,
+   "ci": 0.0029333775413335227,
+   "n_lost": 9,
+   "hindi_share_of_loss": 0.2222222222222222,
+   "top_destinations": [
+    [
+     "npi_Deva",
+     2
+    ],
+    [
+     "anp_Deva",
+     2
+    ],
+    [
+     "hin_Deva",
+     2
+    ],
+    [
+     "mag_Deva",
+     1
+    ]
+   ]
+  },
+  "mai|L5|lid176|all": {
+   "n": 364,
+   "retention": 0.7664835164835165,
+   "ci": 0.043462585733834505,
+   "n_lost": 85,
+   "hindi_share_of_loss": 0.8941176470588236,
+   "top_destinations": [
+    [
+     "hi",
+     76
+    ],
+    [
+     "ne",
+     7
+    ],
+    [
+     "bh",
+     1
+    ],
+    [
+     "sa",
+     1
+    ]
+   ]
+  },
+  "mai|L5|openlid|all": {
+   "n": 364,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mai|L5|v1|all": {
+   "n": 364,
+   "retention": 0.9972527472527473,
+   "ci": 0.005377213847942042,
+   "n_lost": 1,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "san",
+     1
+    ]
+   ]
+  },
+  "mai|L5|v2|all": {
+   "n": 364,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mai|L5|v3|all": {
+   "n": 364,
+   "retention": 0.9972527472527473,
+   "ci": 0.005377213847942042,
+   "n_lost": 1,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "san_Deva",
+     1
+    ]
+   ]
+  },
+  "mai|L1|lid176|target_marked": {
+   "n": 1686,
+   "retention": 0.6844602609727165,
+   "ci": 0.022183416663266987,
+   "n_lost": 532,
+   "hindi_share_of_loss": 0.6992481203007519,
+   "top_destinations": [
+    [
+     "hi",
+     372
+    ],
+    [
+     "ne",
+     119
+    ],
+    [
+     "bh",
+     24
+    ],
+    [
+     "new",
+     11
+    ]
+   ]
+  },
+  "mai|L1|openlid|target_marked": {
+   "n": 1686,
+   "retention": 0.9988137603795967,
+   "ci": 0.00164306883165365,
+   "n_lost": 2,
+   "hindi_share_of_loss": 1.0,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     2
+    ]
+   ]
+  },
+  "mai|L1|v1|target_marked": {
+   "n": 1686,
+   "retention": 0.9994068801897983,
+   "ci": 0.0011621700215727754,
+   "n_lost": 1,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "mag",
+     1
+    ]
+   ]
+  },
+  "mai|L1|v2|target_marked": {
+   "n": 1686,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mai|L1|v3|target_marked": {
+   "n": 1686,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mai|L1|lid176|hindi_marked": {
+   "n": 4,
+   "retention": 0.0,
+   "ci": 0.0,
+   "n_lost": 4,
+   "hindi_share_of_loss": 1.0,
+   "top_destinations": [
+    [
+     "hi",
+     4
+    ]
+   ]
+  },
+  "mai|L1|openlid|hindi_marked": {
+   "n": 4,
+   "retention": 0.25,
+   "ci": 0.4243524478543749,
+   "n_lost": 3,
+   "hindi_share_of_loss": 1.0,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     3
+    ]
+   ]
+  },
+  "mai|L1|v1|hindi_marked": {
+   "n": 4,
+   "retention": 0.25,
+   "ci": 0.4243524478543749,
+   "n_lost": 3,
+   "hindi_share_of_loss": 1.0,
+   "top_destinations": [
+    [
+     "hin",
+     3
+    ]
+   ]
+  },
+  "mai|L1|v2|hindi_marked": {
+   "n": 4,
+   "retention": 0.5,
+   "ci": 0.49,
+   "n_lost": 2,
+   "hindi_share_of_loss": 1.0,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     2
+    ]
+   ]
+  },
+  "mai|L1|v3|hindi_marked": {
+   "n": 4,
+   "retention": 0.25,
+   "ci": 0.4243524478543749,
+   "n_lost": 3,
+   "hindi_share_of_loss": 0.6666666666666666,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     2
+    ],
+    [
+     "anp_Deva",
+     1
+    ]
+   ]
+  },
+  "mai|L1|lid176|neither": {
+   "n": 310,
+   "retention": 0.3161290322580645,
+   "ci": 0.05176002756140102,
+   "n_lost": 212,
+   "hindi_share_of_loss": 0.6037735849056604,
+   "top_destinations": [
+    [
+     "hi",
+     128
+    ],
+    [
+     "ne",
+     67
+    ],
+    [
+     "mr",
+     10
+    ],
+    [
+     "new",
+     4
+    ]
+   ]
+  },
+  "mai|L1|openlid|neither": {
+   "n": 310,
+   "retention": 0.9580645161290322,
+   "ci": 0.022313280830631024,
+   "n_lost": 13,
+   "hindi_share_of_loss": 0.15384615384615385,
+   "top_destinations": [
+    [
+     "npi_Deva",
+     4
+    ],
+    [
+     "awa_Deva",
+     3
+    ],
+    [
+     "bho_Deva",
+     2
+    ],
+    [
+     "hin_Deva",
+     2
+    ]
+   ]
+  },
+  "mai|L1|v1|neither": {
+   "n": 310,
+   "retention": 0.9612903225806452,
+   "ci": 0.021473967212244847,
+   "n_lost": 12,
+   "hindi_share_of_loss": 0.25,
+   "top_destinations": [
+    [
+     "nep",
+     3
+    ],
+    [
+     "hin",
+     3
+    ],
+    [
+     "npi",
+     2
+    ],
+    [
+     "san",
+     1
+    ]
+   ]
+  },
+  "mai|L1|v2|neither": {
+   "n": 310,
+   "retention": 0.9903225806451613,
+   "ci": 0.010897913230169958,
+   "n_lost": 3,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "mag_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ],
+    [
+     "awa_Deva",
+     1
+    ]
+   ]
+  },
+  "mai|L1|v3|neither": {
+   "n": 310,
+   "retention": 0.9806451612903225,
+   "ci": 0.015336489005044368,
+   "n_lost": 6,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "npi_Deva",
+     2
+    ],
+    [
+     "mag_Deva",
+     1
+    ],
+    [
+     "san_Deva",
+     1
+    ],
+    [
+     "anp_Deva",
+     1
+    ]
+   ]
+  },
+  "mai|L5|lid176|target_marked": {
+   "n": 361,
+   "retention": 0.7728531855955678,
+   "ci": 0.04322194400106052,
+   "n_lost": 82,
+   "hindi_share_of_loss": 0.9146341463414634,
+   "top_destinations": [
+    [
+     "hi",
+     75
+    ],
+    [
+     "ne",
+     6
+    ],
+    [
+     "bh",
+     1
+    ]
+   ]
+  },
+  "mai|L5|openlid|target_marked": {
+   "n": 361,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mai|L5|v1|target_marked": {
+   "n": 361,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mai|L5|v2|target_marked": {
+   "n": 361,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mai|L5|v3|target_marked": {
+   "n": 361,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mai|L5|lid176|neither": {
+   "n": 3,
+   "retention": 0.0,
+   "ci": 0.0,
+   "n_lost": 3,
+   "hindi_share_of_loss": 0.3333333333333333,
+   "top_destinations": [
+    [
+     "hi",
+     1
+    ],
+    [
+     "ne",
+     1
+    ],
+    [
+     "sa",
+     1
+    ]
+   ]
+  },
+  "mai|L5|openlid|neither": {
+   "n": 3,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mai|L5|v1|neither": {
+   "n": 3,
+   "retention": 0.6666666666666666,
+   "ci": 0.533444432872781,
+   "n_lost": 1,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "san",
+     1
+    ]
+   ]
+  },
+  "mai|L5|v2|neither": {
+   "n": 3,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "mai|L5|v3|neither": {
+   "n": 3,
+   "retention": 0.6666666666666666,
+   "ci": 0.533444432872781,
+   "n_lost": 1,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "san_Deva",
+     1
+    ]
+   ]
+  },
+  "new|L1|lid176|target_marked": {
+   "n": 1624,
+   "retention": 0.8700738916256158,
+   "ci": 0.01635269522334757,
+   "n_lost": 211,
+   "hindi_share_of_loss": 0.26066350710900477,
+   "top_destinations": [
+    [
+     "mr",
+     153
+    ],
+    [
+     "hi",
+     55
+    ],
+    [
+     "ne",
+     2
+    ],
+    [
+     "sa",
+     1
+    ]
+   ]
+  },
+  "new|L1|v1|target_marked": {
+   "n": 1624,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "new|L1|v2|target_marked": {
+   "n": 1624,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "new|L1|v3|target_marked": {
+   "n": 1624,
+   "retention": 0.999384236453202,
+   "ci": 0.0012065249130543008,
+   "n_lost": 1,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     1
+    ]
+   ]
+  },
+  "new|L1|lid176|hindi_marked": {
+   "n": 38,
+   "retention": 0.0,
+   "ci": 0.0,
+   "n_lost": 38,
+   "hindi_share_of_loss": 0.9736842105263158,
+   "top_destinations": [
+    [
+     "hi",
+     37
+    ],
+    [
+     "ne",
+     1
+    ]
+   ]
+  },
+  "new|L1|v1|hindi_marked": {
+   "n": 38,
+   "retention": 0.07894736842105263,
+   "ci": 0.08573839037898438,
+   "n_lost": 35,
+   "hindi_share_of_loss": 0.9714285714285714,
+   "top_destinations": [
+    [
+     "hin",
+     34
+    ],
+    [
+     "nep",
+     1
+    ]
+   ]
+  },
+  "new|L1|v2|hindi_marked": {
+   "n": 38,
+   "retention": 0.6842105263157895,
+   "ci": 0.14779439819434767,
+   "n_lost": 12,
+   "hindi_share_of_loss": 1.0,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     12
+    ]
+   ]
+  },
+  "new|L1|v3|hindi_marked": {
+   "n": 38,
+   "retention": 0.23684210526315788,
+   "ci": 0.13517641678042,
+   "n_lost": 29,
+   "hindi_share_of_loss": 0.3103448275862069,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     19
+    ],
+    [
+     "hin_Deva",
+     9
+    ],
+    [
+     "npi_Deva",
+     1
+    ]
+   ]
+  },
+  "new|L1|lid176|neither": {
+   "n": 338,
+   "retention": 0.5591715976331361,
+   "ci": 0.05293038552408225,
+   "n_lost": 149,
+   "hindi_share_of_loss": 0.7516778523489933,
+   "top_destinations": [
+    [
+     "hi",
+     112
+    ],
+    [
+     "ne",
+     15
+    ],
+    [
+     "mr",
+     12
+    ],
+    [
+     "sa",
+     10
+    ]
+   ]
+  },
+  "new|L1|v1|neither": {
+   "n": 338,
+   "retention": 0.8757396449704142,
+   "ci": 0.03516831183894125,
+   "n_lost": 42,
+   "hindi_share_of_loss": 0.6666666666666666,
+   "top_destinations": [
+    [
+     "hin",
+     28
+    ],
+    [
+     "nep",
+     6
+    ],
+    [
+     "mar",
+     4
+    ],
+    [
+     "san",
+     2
+    ]
+   ]
+  },
+  "new|L1|v2|neither": {
+   "n": 338,
+   "retention": 0.9733727810650887,
+   "ci": 0.01716327751244386,
+   "n_lost": 9,
+   "hindi_share_of_loss": 0.4444444444444444,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     4
+    ],
+    [
+     "nep_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ],
+    [
+     "mai_Deva",
+     1
+    ]
+   ]
+  },
+  "new|L1|v3|neither": {
+   "n": 338,
+   "retention": 0.908284023668639,
+   "ci": 0.030770252182791825,
+   "n_lost": 31,
+   "hindi_share_of_loss": 0.3225806451612903,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     12
+    ],
+    [
+     "hin_Deva",
+     10
+    ],
+    [
+     "mar_Deva",
+     3
+    ],
+    [
+     "npi_Deva",
+     3
+    ]
+   ]
+  },
+  "new|L5|lid176|target_marked": {
+   "n": 610,
+   "retention": 0.9606557377049181,
+   "ci": 0.015428217321727505,
+   "n_lost": 24,
+   "hindi_share_of_loss": 0.7916666666666666,
+   "top_destinations": [
+    [
+     "hi",
+     19
+    ],
+    [
+     "ne",
+     3
+    ],
+    [
+     "sa",
+     2
+    ]
+   ]
+  },
+  "new|L5|v1|target_marked": {
+   "n": 610,
+   "retention": 0.9918032786885246,
+   "ci": 0.00715523675354813,
+   "n_lost": 5,
+   "hindi_share_of_loss": 0.4,
+   "top_destinations": [
+    [
+     "hin",
+     2
+    ],
+    [
+     "nep",
+     2
+    ],
+    [
+     "npi",
+     1
+    ]
+   ]
+  },
+  "new|L5|v2|target_marked": {
+   "n": 610,
+   "retention": 1.0,
+   "ci": 0.0,
+   "n_lost": 0,
+   "hindi_share_of_loss": NaN,
+   "top_destinations": []
+  },
+  "new|L5|v3|target_marked": {
+   "n": 610,
+   "retention": 0.9950819672131147,
+   "ci": 0.005551576027342428,
+   "n_lost": 3,
+   "hindi_share_of_loss": 0.3333333333333333,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     1
+    ],
+    [
+     "hin_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ]
+   ]
+  },
+  "new|L5|lid176|hindi_marked": {
+   "n": 11,
+   "retention": 0.0,
+   "ci": 0.0,
+   "n_lost": 11,
+   "hindi_share_of_loss": 0.9090909090909091,
+   "top_destinations": [
+    [
+     "hi",
+     10
+    ],
+    [
+     "ne",
+     1
+    ]
+   ]
+  },
+  "new|L5|v1|hindi_marked": {
+   "n": 11,
+   "retention": 0.0,
+   "ci": 0.0,
+   "n_lost": 11,
+   "hindi_share_of_loss": 0.9090909090909091,
+   "top_destinations": [
+    [
+     "hin",
+     10
+    ],
+    [
+     "nep",
+     1
+    ]
+   ]
+  },
+  "new|L5|v2|hindi_marked": {
+   "n": 11,
+   "retention": 0.6363636363636364,
+   "ci": 0.2842798380047696,
+   "n_lost": 4,
+   "hindi_share_of_loss": 0.75,
+   "top_destinations": [
+    [
+     "hin_Deva",
+     3
+    ],
+    [
+     "nep_Deva",
+     1
+    ]
+   ]
+  },
+  "new|L5|v3|hindi_marked": {
+   "n": 11,
+   "retention": 0.09090909090909091,
+   "ci": 0.16988969772012372,
+   "n_lost": 10,
+   "hindi_share_of_loss": 0.2,
+   "top_destinations": [
+    [
+     "anp_Deva",
+     7
+    ],
+    [
+     "hin_Deva",
+     2
+    ],
+    [
+     "npi_Deva",
+     1
+    ]
+   ]
+  },
+  "new|L5|lid176|neither": {
+   "n": 35,
+   "retention": 0.5142857142857142,
+   "ci": 0.16558260778233927,
+   "n_lost": 17,
+   "hindi_share_of_loss": 0.5294117647058824,
+   "top_destinations": [
+    [
+     "hi",
+     9
+    ],
+    [
+     "ne",
+     4
+    ],
+    [
+     "mr",
+     4
+    ]
+   ]
+  },
+  "new|L5|v1|neither": {
+   "n": 35,
+   "retention": 0.8571428571428571,
+   "ci": 0.11593101396951554,
+   "n_lost": 5,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "nep",
+     2
+    ],
+    [
+     "mar",
+     2
+    ],
+    [
+     "npi",
+     1
+    ]
+   ]
+  },
+  "new|L5|v2|neither": {
+   "n": 35,
+   "retention": 0.9428571428571428,
+   "ci": 0.07689993498046667,
+   "n_lost": 2,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "mar_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ]
+   ]
+  },
+  "new|L5|v3|neither": {
+   "n": 35,
+   "retention": 0.9428571428571428,
+   "ci": 0.07689993498046667,
+   "n_lost": 2,
+   "hindi_share_of_loss": 0.0,
+   "top_destinations": [
+    [
+     "mar_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ]
+   ]
+  }
+ },
+ "group_sizes": {
+  "mai|L1": {
+   "target_marked": 1686,
+   "hindi_marked": 4,
+   "neither": 310
+  },
+  "mai|L5": {
+   "target_marked": 361,
+   "hindi_marked": 0,
+   "neither": 3
+  },
+  "new|L1": {
+   "target_marked": 1624,
+   "hindi_marked": 38,
+   "neither": 338
+  },
+  "new|L5": {
+   "target_marked": 610,
+   "hindi_marked": 11,
+   "neither": 35
+  }
+ },
+ "hindi_control": {
+  "n": 1874,
+  "retention": 1.0,
+  "ci": 0.0,
+  "n_lost": 0,
+  "hindi_share_of_loss": NaN,
+  "top_destinations": []
+ }
+}

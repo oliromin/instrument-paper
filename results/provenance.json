@@ -1,0 +1,324 @@
+{
+ "description": "Provenance of each group of reported results: what kind of quantity it is, where it comes from, which script recomputes it and which protocol governs it. Predictions in data/ are the recorded outputs of the identifiers listed in data/model_identities.json; analysis/predict.py reruns any identifier on any unit set and reports agreement with the recorded predictions.",
+ "records": [
+  {
+   "results": "Panel 1 and Panel 2 retention, destinations and paired release contrasts; Hindi-bucket composition on the six-row mixture; script closure; confidence survival",
+   "kind": "designed reference panels",
+   "files": [
+    "results/panel_analysis.json",
+    "results/source_mapping.json"
+   ],
+   "scripts": [
+    "analysis/source_clusters.py",
+    "analysis/panels.py"
+   ],
+   "inputs": [
+    "data/panel1_*",
+    "data/panel2_*",
+    "data/panel1_l20_units.csv",
+    "data/panel_source_clusters.csv.gz",
+    "data/confidence_scores_v3.csv"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "01",
+    "02",
+    "03",
+    "05",
+    "08"
+   ],
+   "uncertainty": "Conditional source-resampling intervals; not estimates for a web population"
+  },
+  {
+   "results": "Angika-labelled released split read by GlotLID v1 and v2, and marker-selected Angika controls",
+   "kind": "census of a released file; marker-selected references",
+   "files": [
+    "results/released_split_analysis.json"
+   ],
+   "scripts": [
+    "analysis/released_splits.py"
+   ],
+   "inputs": [
+    "data/released_split_predictions_*.csv.gz"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "06",
+    "07"
+   ],
+   "uncertainty": "No sampling interval for the census; conditional resampling for the selected references"
+  },
+  {
+   "results": "Angika released split read by langid.py, CLD3 and lid.176, and five-identifier agreement",
+   "kind": "aggregate only",
+   "values": {
+    "lid176_to_hindi": 0.9995,
+    "cld3_to_hindi": 0.9983,
+    "langid_to_hindi": 0.9956,
+    "five_identifier_agreement_on_hindi": 0.9773
+   },
+   "files": [],
+   "scripts": [],
+   "recomputed": false,
+   "protocols": [
+    "07"
+   ],
+   "uncertainty": "Per-document predictions were not kept; the shares survive as recorded aggregates. A later run of the same identifiers on the rebuilt documents gives 0.9995 (lid.176) and 0.9983 (CLD3), matching the recorded values, and 0.9993 (langid.py, py3langid 0.4.0) against the recorded 0.9956."
+  },
+  {
+   "results": "Length characterisation of the Angika comparison; Awadhi released split and ILI references; document-removal fractions (the removal fractions are computed by make_tables.py from data/fineweb2_row_counts.json)",
+   "kind": "hypothesis-informed conditional characterisation; census of released files and metadata",
+   "files": [
+    "results/released_split_analysis.json"
+   ],
+   "scripts": [
+    "analysis/released_splits.py",
+    "analysis/make_tables.py"
+   ],
+   "inputs": [
+    "data/released_split_*",
+    "data/fineweb2_listing.json",
+    "data/fineweb2_row_counts.json"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "08",
+    "09"
+   ],
+   "uncertainty": "Pointwise source-resampling intervals; ILI references have no recoverable source clusters and are descriptive"
+  },
+  {
+   "results": "Lexical groups of the Angika Wikipedia extract and their routing",
+   "kind": "marker-selected reference",
+   "files": [
+    "results/angika_groups.json"
+   ],
+   "scripts": [
+    "analysis/angika_groups.py"
+   ],
+   "inputs": [
+    "data/angika_extract_sentences.csv",
+    "data/angika_markers.json"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "06"
+   ]
+  },
+  {
+   "results": "Reader-sample agreement and reader-confirmed routing",
+   "kind": "existing human judgments reused on their own units",
+   "files": [
+    "results/reader_agreement.json",
+    "results/reader_crosscheck.json",
+    "results/nested_reader_analysis.json"
+   ],
+   "scripts": [
+    "analysis/reader_agreement.py",
+    "analysis/reader_crosscheck.py",
+    "analysis/nested_reader.py"
+   ],
+   "inputs": [
+    "data/reader_sample.csv",
+    "data/reader_sample_predictions_*.csv",
+    "data/openlid_v3_predictions.csv"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "04",
+    "12"
+   ],
+   "uncertainty": "Reader subsets are not representative of all panel inputs"
+  },
+  {
+   "results": "Nested units and source-concentration sensitivities",
+   "kind": "conditional resampling statistics",
+   "files": [
+    "results/nested_construction.json",
+    "results/nested_reader_analysis.json"
+   ],
+   "scripts": [
+    "analysis/nested_construction.py",
+    "analysis/nested_reader.py"
+   ],
+   "inputs": [
+    "data/nested_units.csv",
+    "data/nested_predictions_*.csv",
+    "data/openlid_v3_predictions.csv"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "08",
+    "12"
+   ],
+   "uncertainty": "Paired source resampling, 4,999 replicates, seed 20260913"
+  },
+  {
+   "results": "OpenLID-v3 retention, composition and label coverage",
+   "kind": "designed reference panels",
+   "files": [
+    "results/openlid_v3.json"
+   ],
+   "scripts": [
+    "analysis/openlid_v3.py",
+    "analysis/score_openlid_v3.py"
+   ],
+   "inputs": [
+    "data/openlid_v3_predictions.csv"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "12"
+   ]
+  },
+  {
+   "results": "Hindi-bucket composition with the seventh, Angika, source row",
+   "kind": "designed mixture",
+   "files": [
+    "results/composition.json"
+   ],
+   "scripts": [
+    "analysis/composition.py"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "08",
+    "14"
+   ],
+   "uncertainty": "Row weights held fixed during source resampling; the Angika row is marker-selected"
+  },
+  {
+   "results": "Maithili and Newari marked subsets",
+   "kind": "marker-selected subsets",
+   "files": [
+    "results/marked_subsets.json"
+   ],
+   "scripts": [
+    "analysis/marked_subsets.py"
+   ],
+   "inputs": [
+    "data/maithili_markers.json",
+    "data/newari_markers.json"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "13"
+   ]
+  },
+  {
+   "results": "Published Angika training file: sentence count, marked share and match with the extract",
+   "kind": "census of a published file",
+   "files": [
+    "results/training_file.json"
+   ],
+   "scripts": [
+    "analysis/training_file.py"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "10"
+   ]
+  },
+  {
+   "results": "Published Angika training file read by GlotLID v1 and v2 (0.252 and 0.176 to Hindi)",
+   "kind": "census of a published file",
+   "files": [
+    "results/training_file_identifiers.json"
+   ],
+   "scripts": [
+    "analysis/training_file.py"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "10"
+   ],
+   "uncertainty": "Requires the GlotLID v1 and v2 binaries; analysis/training_file.py --v1 --v2 reruns the read and writes this file"
+  },
+  {
+   "results": "Panel Hindi inside and outside the published Hindi training file",
+   "kind": "sampled panel rates",
+   "files": [
+    "results/overlap.json"
+   ],
+   "scripts": [
+    "analysis/overlap.py"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "08",
+    "10",
+    "11"
+   ]
+  },
+  {
+   "results": "Register instruments and reweighting",
+   "kind": "conditional resampling statistics",
+   "files": [
+    "results/register.json",
+    "results/decomposition.json"
+   ],
+   "scripts": [
+    "analysis/register.py",
+    "analysis/decompose.py"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "15"
+   ]
+  },
+  {
+   "results": "Character n-gram proximity, its reweighting and its length standardisation",
+   "kind": "conditional resampling statistics",
+   "files": [
+    "results/ngram.json",
+    "results/ngram_decomposition.json",
+    "results/ngram_length.json",
+    "results/ngram_units.json"
+   ],
+   "scripts": [
+    "analysis/ngram.py",
+    "analysis/ngram_decompose.py",
+    "analysis/ngram_length.py"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "16"
+   ]
+  },
+  {
+   "results": "Label inventories of GlotLID v2 and v3",
+   "kind": "census of model label sets",
+   "files": [
+    "results/label_diff.json"
+   ],
+   "scripts": [
+    "analysis/label_diff.py"
+   ],
+   "inputs": [
+    "data/model_labels.json",
+    "data/model_identities.json"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "17"
+   ]
+  },
+  {
+   "results": "Runner-up labels and scores of units routed to Angika",
+   "kind": "descriptive, designed reference panel",
+   "files": [
+    "results/runner_up.json"
+   ],
+   "scripts": [
+    "analysis/runner_up.py"
+   ],
+   "inputs": [
+    "data/confidence_scores_v3.csv"
+   ],
+   "recomputed": true,
+   "protocols": [
+    "03"
+   ]
+  }
+ ]
+}

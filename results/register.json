@@ -1,0 +1,215 @@
+{
+ "seed": 20260912,
+ "vocab_size": 10000,
+ "templates": 200,
+ "heldout_sentences": 262659,
+ "published_vocab_types": 546551,
+ "cells": [
+  {
+   "cell": "hin_wikipedia_L1",
+   "n": 2000,
+   "retention": 0.48,
+   "mean_fw_rate": 0.1107240751998017,
+   "mean_fw_hits": 1.884,
+   "zero_fw_share": 0.112,
+   "mean_rtr": 0.11444413027316948,
+   "tpl_share": 0.172,
+   "median_tokens": 16
+  },
+  {
+   "cell": "hin_news_L1",
+   "n": 2000,
+   "retention": 0.805,
+   "mean_fw_rate": 0.10377238242834716,
+   "mean_fw_hits": 1.6585,
+   "zero_fw_share": 0.153,
+   "mean_rtr": 0.1268104277731024,
+   "tpl_share": 0.117,
+   "median_tokens": 15
+  }
+ ],
+ "wikipedia_by_outcome": {
+  "retained": {
+   "cell": "wikipedia:retained",
+   "n": 960,
+   "retention": 1.0,
+   "mean_fw_rate": 0.10021572663486965,
+   "mean_fw_hits": 2.042708333333333,
+   "zero_fw_share": 0.11458333333333333,
+   "mean_rtr": 0.12588690048856158,
+   "tpl_share": 0.1625,
+   "median_tokens": 20
+  },
+  "angika": {
+   "cell": "wikipedia:angika",
+   "n": 1015,
+   "retention": 0.0,
+   "mean_fw_rate": 0.12182904309062782,
+   "mean_fw_hits": 1.7635467980295567,
+   "zero_fw_share": 0.10049261083743842,
+   "mean_rtr": 0.10124244575713995,
+   "tpl_share": 0.1852216748768473,
+   "median_tokens": 13
+  }
+ },
+ "wikipedia_by_fw": {
+  "0": {
+   "n": 224,
+   "retention": 0.49107142857142855,
+   "mean_tokens": 14.133928571428571
+  },
+  "1": {
+   "n": 731,
+   "retention": 0.41450068399452805,
+   "mean_tokens": 13.790697674418604
+  },
+  "2": {
+   "n": 544,
+   "retention": 0.5055147058823529,
+   "mean_tokens": 18.240808823529413
+  },
+  "3": {
+   "n": 264,
+   "retention": 0.48484848484848486,
+   "mean_tokens": 21.91287878787879
+  },
+  "4": {
+   "n": 237,
+   "retention": 0.6075949367088608,
+   "mean_tokens": 28.957805907172997
+  }
+ },
+ "wikipedia_tpl": {
+  "template": {
+   "cell": "wikipedia:tpl",
+   "n": 344,
+   "retention": 0.45348837209302323,
+   "mean_fw_rate": 0.15219084917006934,
+   "mean_fw_hits": 2.616279069767442,
+   "zero_fw_share": 0.014534883720930232,
+   "mean_rtr": 0.0946606802456972,
+   "tpl_share": 1.0,
+   "median_tokens": 17
+  },
+  "other": {
+   "cell": "wikipedia:other",
+   "n": 1656,
+   "retention": 0.4855072463768116,
+   "mean_fw_rate": 0.10211020427844174,
+   "mean_fw_hits": 1.7318840579710144,
+   "zero_fw_share": 0.1322463768115942,
+   "mean_rtr": 0.11855373583443188,
+   "tpl_share": 0.0,
+   "median_tokens": 16
+  }
+ },
+ "news_by_outcome": {
+  "retained": {
+   "cell": "news:retained",
+   "n": 1610,
+   "retention": 1.0,
+   "mean_fw_rate": 0.10454505942299278,
+   "mean_fw_hits": 1.718633540372671,
+   "zero_fw_share": 0.1391304347826087,
+   "mean_rtr": 0.1280926968736197,
+   "tpl_share": 0.11677018633540373,
+   "median_tokens": 16
+  },
+  "angika": {
+   "cell": "news:angika",
+   "n": 364,
+   "retention": 0.0,
+   "mean_fw_rate": 0.10133433505989554,
+   "mean_fw_hits": 1.4478021978021978,
+   "zero_fw_share": 0.20054945054945056,
+   "mean_rtr": 0.11858400093689567,
+   "tpl_share": 0.11813186813186813,
+   "median_tokens": 14
+  }
+ },
+ "news_by_fw": {
+  "0": {
+   "n": 306,
+   "retention": 0.7320261437908496,
+   "mean_tokens": 13.03921568627451
+  },
+  "1": {
+   "n": 736,
+   "retention": 0.7853260869565217,
+   "mean_tokens": 14.730978260869565
+  },
+  "2": {
+   "n": 512,
+   "retention": 0.818359375,
+   "mean_tokens": 16.841796875
+  },
+  "3": {
+   "n": 291,
+   "retention": 0.8694158075601375,
+   "mean_tokens": 20.415807560137456
+  },
+  "4": {
+   "n": 155,
+   "retention": 0.8774193548387097,
+   "mean_tokens": 25.690322580645162
+  }
+ },
+ "news_tpl": {
+  "template": {
+   "cell": "news:tpl",
+   "n": 234,
+   "retention": 0.8034188034188035,
+   "mean_fw_rate": 0.1541765550878893,
+   "mean_fw_hits": 2.6196581196581197,
+   "zero_fw_share": 0.004273504273504274,
+   "mean_rtr": 0.11394517108111048,
+   "tpl_share": 1.0,
+   "median_tokens": 17
+  },
+  "other": {
+   "cell": "news:other",
+   "n": 1766,
+   "retention": 0.8052095130237825,
+   "mean_fw_rate": 0.0970936868437874,
+   "mean_fw_hits": 1.5311438278595697,
+   "zero_fw_share": 0.17270668176670442,
+   "mean_rtr": 0.12851511070964036,
+   "tpl_share": 0.0,
+   "median_tokens": 15
+  }
+ },
+ "decomposition": {
+  "wikipedia_retention": 0.48,
+  "news_retention": 0.805,
+  "raw_gap": 0.32500000000000007,
+  "news_reweighted_to_wikipedia_fw": 0.810354443033509,
+  "residual_gap_after_reweight": 0.330354443033509,
+  "share_of_gap_absorbed": -0.016475209333873808,
+  "wikipedia_reweighted_to_news_fw": 0.4747160071276884,
+  "residual_gap_reverse": 0.33028399287231164,
+  "share_absorbed_reverse": -0.016258439607112596
+ },
+ "wikipedia_tpl_difference_ci": [
+  -0.0909451625485897,
+  0.026871868780454333
+ ],
+ "wikipedia_tpl_difference": -0.03201887428378836,
+ "angika_side": [
+  {
+   "cell": "anp_Deva published training file, filtered sentences",
+   "n": 3970,
+   "mean_fw_rate": 0.019429007646120346,
+   "zero_fw_share": 0.8181360201511335,
+   "mean_rtr": 0.39885561010969944,
+   "tpl_share": 0.03299748110831234
+  },
+  {
+   "cell": "marker-selected Angika control L1",
+   "n": 2000,
+   "mean_fw_rate": 0.0012945784382744736,
+   "zero_fw_share": 0.982,
+   "mean_rtr": 0.4374129982932857,
+   "tpl_share": 0.001
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "sha256": "01ec5bbf85975c52673c52b3d8585bc4cc0e4eb4636ad5591467bab56b118821",
+ "label_count": 195,
+ "carries": {
+  "hin_Deva": true,
+  "npi_Deva": true,
+  "mai_Deva": true,
+  "awa_Deva": true,
+  "anp_Deva": false,
+  "new_Deva": false,
+  "bra_Deva": false
+ },
+ "records": 39646,
+ "by_set": {
+  "panel": 29764,
+  "nested": 9282,
+  "human": 600
+ },
+ "common": {
+  "panel1_hin_L1": 0.965,
+  "news_hin_L1": 0.969,
+  "angika_row_to_hindi": 0.1075,
+  "angika_top": [
+   [
+    "mai_Deva",
+    873
+   ],
+   [
+    "bho_Deva",
+    682
+   ],
+   [
+    "hin_Deva",
+    215
+   ],
+   [
+    "mag_Deva",
+    119
+   ],
+   [
+    "hne_Deva",
+    34
+   ]
+  ],
+  "composition_six": 0.7397470295132235,
+  "composition_seven": 0.68342776203966,
+  "composition_six_no_newari": 0.993309315491508,
+  "composition_seven_no_newari": 0.8943466172381835,
+  "reader_confirmed_hi": {
+   "n": 279,
+   "retained": 271
+  },
+  "reader_confirmed_ne": {
+   "n": 285,
+   "retained": 284
+  },
+  "reader_both_hi": {
+   "n": 86,
+   "retained": 85
+  },
+  "original_cells": {
+   "Wikipedia_L1": {
+    "n": 2000,
+    "retention": 0.965
+   },
+   "Wikipedia_L5": {
+    "n": 2000,
+    "retention": 0.9925
+   },
+   "Wikipedia_L20": {
+    "n": 2000,
+    "retention": 0.999
+   },
+   "News_L1": {
+    "n": 2000,
+    "retention": 0.969
+   },
+   "News_L5": {
+    "n": 2000,
+    "retention": 0.995
+   },
+   "News_L20": {
+    "n": 2000,
+    "retention": 0.999
+   }
+  },
+  "nested": {
+   "Wikipedia_L1": {
+    "n": 1760,
+    "retained": 1715
+   },
+   "Wikipedia_L5": {
+    "n": 1760,
+    "retained": 1753
+   },
+   "Wikipedia_L20": {
+    "n": 1760,
+    "retained": 1758
+   },
+   "News_L1": {
+    "n": 1334,
+    "retained": 1307
+   },
+   "News_L5": {
+    "n": 1334,
+    "retained": 1333
+   },
+   "News_L20": {
+    "n": 1334,
+    "retained": 1332
+   }
+  }
+ },
+ "recommended": {
+  "panel1_hin_L1": 0.957,
+  "news_hin_L1": 0.969,
+  "angika_row_to_hindi": 0.0675,
+  "angika_top": [
+   [
+    "mai_Deva",
+    1144
+   ],
+   [
+    "bho_Deva",
+    400
+   ],
+   [
+    "mag_Deva",
+    188
+   ],
+   [
+    "hin_Deva",
+    135
+   ],
+   [
+    "awa_Deva",
+    70
+   ]
+  ],
+  "composition_six": 0.7535433070866142,
+  "composition_seven": 0.7155140186915888,
+  "composition_six_no_newari": 0.9937694704049844,
+  "composition_seven_no_newari": 0.9286754002911208,
+  "reader_confirmed_hi": {
+   "n": 279,
+   "retained": 266
+  },
+  "reader_confirmed_ne": {
+   "n": 285,
+   "retained": 285
+  },
+  "reader_both_hi": {
+   "n": 86,
+   "retained": 85
+  },
+  "original_cells": {
+   "Wikipedia_L1": {
+    "n": 2000,
+    "retention": 0.957
+   },
+   "Wikipedia_L5": {
+    "n": 2000,
+    "retention": 0.9845
+   },
+   "Wikipedia_L20": {
+    "n": 2000,
+    "retention": 0.9985
+   },
+   "News_L1": {
+    "n": 2000,
+    "retention": 0.969
+   },
+   "News_L5": {
+    "n": 2000,
+    "retention": 0.99
+   },
+   "News_L20": {
+    "n": 2000,
+    "retention": 0.9985
+   }
+  },
+  "nested": {
+   "Wikipedia_L1": {
+    "n": 1760,
+    "retained": 1708
+   },
+   "Wikipedia_L5": {
+    "n": 1760,
+    "retained": 1747
+   },
+   "Wikipedia_L20": {
+    "n": 1760,
+    "retained": 1757
+   },
+   "News_L1": {
+    "n": 1334,
+    "retained": 1301
+   },
+   "News_L5": {
+    "n": 1334,
+    "retained": 1325
+   },
+   "News_L20": {
+    "n": 1334,
+    "retained": 1332
+   }
+  }
+ }
+}

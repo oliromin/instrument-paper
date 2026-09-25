@@ -1,0 +1,46 @@
+{
+ "seed": 20260912,
+ "replicates": 1999,
+ "resampling": "source clusters in both cells",
+ "wikipedia_retention": 0.48,
+ "news_retention": 0.805,
+ "raw_gap": 0.32500000000000007,
+ "observables": {
+  "function_word_count": {
+   "news_reweighted_to_wikipedia": 0.810354443033509,
+   "residual_gap": 0.330354443033509,
+   "share_of_gap_absorbed": -0.016475209333873808,
+   "share_ci": [
+    -0.031327297305919544,
+    -0.00389108417073869
+   ]
+  },
+  "token_count": {
+   "news_reweighted_to_wikipedia": 0.8107870919801309,
+   "residual_gap": 0.3307870919801309,
+   "share_of_gap_absorbed": -0.017806436861941055,
+   "share_ci": [
+    -0.03581520200381472,
+    -0.0008070000620246098
+   ]
+  },
+  "stub_template_match": {
+   "news_reweighted_to_wikipedia": 0.804901510971726,
+   "residual_gap": 0.32490151097172604,
+   "share_of_gap_absorbed": 0.00030304316392004704,
+   "share_ci": [
+    -0.008891456036479672,
+    0.010194179856446994
+   ]
+  },
+  "rare_token_rate": {
+   "news_reweighted_to_wikipedia": 0.8030281801316199,
+   "residual_gap": 0.32302818013161994,
+   "share_of_gap_absorbed": 0.006067138056554233,
+   "share_ci": [
+    -0.0031634301578402635,
+    0.016836906147458586
+   ]
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "buckets": 8,
+ "raw_gap": 0.32500000000000007,
+ "news_reweighted": 0.7685258762714967,
+ "share_of_gap_absorbed": 0.11222807301077953,
+ "share_ci": [
+  0.07045421872400903,
+  0.15945267915421923
+ ],
+ "resampling": "source clusters in both cells",
+ "clusters": {
+  "wikipedia": 1871,
+  "news": 1954
+ },
+ "replicates": 1999,
+ "seed": 20260912
+}

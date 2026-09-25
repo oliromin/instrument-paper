@@ -1,0 +1,133 @@
+{
+ "seed": 20260912,
+ "ngram_range": [
+  3,
+  5
+ ],
+ "angika_chars": 476296,
+ "hindi_sample_chars": 487900,
+ "angika_types": 196708,
+ "hindi_types": 239536,
+ "vocab": 351270,
+ "wikipedia": {
+  "cell": "wikipedia",
+  "n": 2000,
+  "mean": -0.6035073568437337,
+  "mean_routed_to_angika": -0.5820936946174141,
+  "mean_retained": -0.6299190149367179,
+  "within_gap": 0.047825320319303755
+ },
+ "news": {
+  "cell": "news",
+  "n": 2000,
+  "mean": -0.7245792220955802,
+  "mean_routed_to_angika": -0.6614556244455332,
+  "mean_retained": -0.7396898056229517,
+  "within_gap": 0.07823418117741854
+ },
+ "wikipedia_minus_news": 0.12107186525184654,
+ "wikipedia_deciles": [
+  {
+   "mean_score": -1.0150151950906672,
+   "retention": 0.56,
+   "n": 200
+  },
+  {
+   "mean_score": -0.8325066859937453,
+   "retention": 0.5,
+   "n": 200
+  },
+  {
+   "mean_score": -0.7560579022924699,
+   "retention": 0.545,
+   "n": 200
+  },
+  {
+   "mean_score": -0.6937908254633776,
+   "retention": 0.535,
+   "n": 200
+  },
+  {
+   "mean_score": -0.6376298683459285,
+   "retention": 0.465,
+   "n": 200
+  },
+  {
+   "mean_score": -0.5848226692707361,
+   "retention": 0.5,
+   "n": 200
+  },
+  {
+   "mean_score": -0.5250191503335305,
+   "retention": 0.49,
+   "n": 200
+  },
+  {
+   "mean_score": -0.4590399951018233,
+   "retention": 0.44,
+   "n": 200
+  },
+  {
+   "mean_score": -0.36623795421332694,
+   "retention": 0.395,
+   "n": 200
+  },
+  {
+   "mean_score": -0.16495332233173518,
+   "retention": 0.37,
+   "n": 200
+  }
+ ],
+ "news_deciles": [
+  {
+   "mean_score": -1.0838004805150812,
+   "retention": 0.875,
+   "n": 200
+  },
+  {
+   "mean_score": -0.9455980468748436,
+   "retention": 0.835,
+   "n": 200
+  },
+  {
+   "mean_score": -0.869858868953305,
+   "retention": 0.855,
+   "n": 200
+  },
+  {
+   "mean_score": -0.8115382495105236,
+   "retention": 0.835,
+   "n": 200
+  },
+  {
+   "mean_score": -0.7560378897833909,
+   "retention": 0.84,
+   "n": 200
+  },
+  {
+   "mean_score": -0.7047412712896928,
+   "retention": 0.825,
+   "n": 200
+  },
+  {
+   "mean_score": -0.6493877839815879,
+   "retention": 0.84,
+   "n": 200
+  },
+  {
+   "mean_score": -0.584842747652397,
+   "retention": 0.735,
+   "n": 200
+  },
+  {
+   "mean_score": -0.5030247190531337,
+   "retention": 0.715,
+   "n": 200
+  },
+  {
+   "mean_score": -0.3369621633418577,
+   "retention": 0.695,
+   "n": 200
+  }
+ ]
+}

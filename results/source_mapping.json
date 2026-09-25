@@ -1,0 +1,47 @@
+{
+ "hin_news_2022_1M": {
+  "multi_source_L1": 0,
+  "missing_source": 0,
+  "components": 5704
+ },
+ "hin_wikipedia_2021_300K": {
+  "multi_source_L1": 0,
+  "missing_source": 0,
+  "components": 5088
+ },
+ "mai_wikipedia_2021_10K": {
+  "multi_source_L1": 0,
+  "missing_source": 0,
+  "components": 1576
+ },
+ "mar_news_2020_300K": {
+  "multi_source_L1": 0,
+  "missing_source": 0,
+  "components": 5242
+ },
+ "mar_wikipedia_2021_30K": {
+  "multi_source_L1": 0,
+  "missing_source": 0,
+  "components": 2439
+ },
+ "nep_news_2020_300K": {
+  "multi_source_L1": 0,
+  "missing_source": 0,
+  "components": 4876
+ },
+ "nep_wikipedia_2021_100K": {
+  "multi_source_L1": 0,
+  "missing_source": 0,
+  "components": 3538
+ },
+ "new_wikipedia_2021_30K": {
+  "multi_source_L1": 0,
+  "missing_source": 0,
+  "components": 1932
+ },
+ "san_wikipedia_2021_30K": {
+  "multi_source_L1": 0,
+  "missing_source": 0,
+  "components": 1951
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "L1": {
+  "n_angika": 1015,
+  "n_hindi": 960,
+  "runnerup_top": [
+   [
+    "hin_Deva",
+    950
+   ],
+   [
+    "awa_Deva",
+    45
+   ],
+   [
+    "new_Deva",
+    10
+   ],
+   [
+    "mag_Deva",
+    4
+   ]
+  ],
+  "runnerup_is_hindi_share": 0.9359605911330049,
+  "margin_median": 0.8532580435276031,
+  "margin_mean": 0.7317916664755865,
+  "runnerup_median": 0.06900017708539963,
+  "runnerup_mean": 0.12828384192748693,
+  "runnerup_max": 0.49439531564712524,
+  "hindi_score_median": 0.06727173179388046,
+  "hindi_score_mean": 0.12545721353414005,
+  "hindi_score_max": 0.49439531564712524,
+  "share_hindi_ge_0.10": 0.4019704433497537,
+  "share_hindi_ge_0.40": 0.0748768472906404,
+  "share_margin_gt_0.5": 0.7763546798029557,
+  "margin_median_retained": 0.7660481669008732,
+  "runnerup_top_retained": [
+   [
+    "anp_Deva",
+    763
+   ],
+   [
+    "awa_Deva",
+    87
+   ],
+   [
+    "new_Deva",
+    40
+   ],
+   [
+    "bho_Deva",
+    26
+   ]
+  ]
+ },
+ "L5": {
+  "n_angika": 952,
+  "n_hindi": 1047,
+  "runnerup_top": [
+   [
+    "hin_Deva",
+    951
+   ],
+   [
+    "new_Deva",
+    1
+   ]
+  ],
+  "runnerup_is_hindi_share": 0.9989495798319328,
+  "margin_median": 0.6096597239375114,
+  "margin_mean": 0.567030462464259,
+  "runnerup_median": 0.19298651814460754,
+  "runnerup_mean": 0.21387188906239407,
+  "runnerup_max": 0.49548882246017456,
+  "hindi_score_median": 0.19298651814460754,
+  "hindi_score_mean": 0.21383004088664992,
+  "hindi_score_max": 0.49548882246017456,
+  "share_hindi_ge_0.10": 0.6974789915966386,
+  "share_hindi_ge_0.40": 0.15441176470588236,
+  "share_margin_gt_0.5": 0.5892857142857143,
+  "margin_median_retained": 0.5739707350730896,
+  "runnerup_top_retained": [
+   [
+    "anp_Deva",
+    1031
+   ],
+   [
+    "awa_Deva",
+    13
+   ],
+   [
+    "new_Deva",
+    2
+   ],
+   [
+    "bho_Deva",
+    1
+   ]
+  ]
+ }
+}

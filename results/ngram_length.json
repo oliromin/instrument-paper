@@ -1,0 +1,194 @@
+{
+ "seed": 20260912,
+ "replicates": 1999,
+ "ngram_range": [
+  3,
+  5
+ ],
+ "bands": [
+  "<=10",
+  "11-14",
+  "15-19",
+  "20-29",
+  "30+"
+ ],
+ "min_per_band": 10,
+ "cells": {
+  "wikipedia": {
+   "n": 2000,
+   "n_routed": 1015,
+   "n_retained": 960,
+   "median_tokens_routed": 13,
+   "median_tokens_retained": 20.0,
+   "mean_routed": -0.5820936946174147,
+   "mean_retained": -0.6299190149367184,
+   "raw_gap": 0.047825320319303755,
+   "raw_gap_ci": [
+    0.027038222949707164,
+    0.06898245303396043
+   ],
+   "standardised_gap": 0.05363677064140091,
+   "standardised_gap_ci": [
+    0.03166184334528359,
+    0.07661737778888934
+   ],
+   "share_of_raw_gap": 1.1215140909312735,
+   "ols_routed": 0.05436190662927825,
+   "ols_log_tokens": 0.02101408605496004,
+   "by_band": [
+    {
+     "band": "<=10",
+     "n_routed": 318,
+     "n_retained": 123,
+     "gap": 0.0798335302755373
+    },
+    {
+     "band": "11-14",
+     "n_routed": 252,
+     "n_retained": 157,
+     "gap": 0.033360528778685006
+    },
+    {
+     "band": "15-19",
+     "n_routed": 207,
+     "n_retained": 197,
+     "gap": 0.034456391603068126
+    },
+    {
+     "band": "20-29",
+     "n_routed": 167,
+     "n_retained": 313,
+     "gap": 0.05464695530127117
+    },
+    {
+     "band": "30+",
+     "n_routed": 71,
+     "n_retained": 170,
+     "gap": 0.07025169353743976
+    }
+   ],
+   "retention_by_proximity_within_band": [
+    {
+     "band": "<=10",
+     "n": 453,
+     "retention_far": 0.3443708609271523,
+     "retention_near": 0.2251655629139073
+    },
+    {
+     "band": "11-14",
+     "n": 417,
+     "retention_far": 0.4028776978417266,
+     "retention_near": 0.30935251798561153
+    },
+    {
+     "band": "15-19",
+     "n": 405,
+     "retention_far": 0.562962962962963,
+     "retention_near": 0.4444444444444444
+    },
+    {
+     "band": "20-29",
+     "n": 483,
+     "retention_far": 0.7142857142857143,
+     "retention_near": 0.5714285714285714
+    },
+    {
+     "band": "30+",
+     "n": 242,
+     "retention_far": 0.8,
+     "retention_near": 0.6375
+    }
+   ]
+  },
+  "news": {
+   "n": 2000,
+   "n_routed": 364,
+   "n_retained": 1610,
+   "median_tokens_routed": 14.0,
+   "median_tokens_retained": 16.0,
+   "mean_routed": -0.661455624445533,
+   "mean_retained": -0.739689805622952,
+   "raw_gap": 0.07823418117741898,
+   "raw_gap_ci": [
+    0.052306970350377825,
+    0.10459182145276705
+   ],
+   "standardised_gap": 0.0876094814385772,
+   "standardised_gap_ci": [
+    0.060828176936817045,
+    0.11388968260089387
+   ],
+   "share_of_raw_gap": 1.1198363697307316,
+   "ols_routed": 0.08579798921285203,
+   "ols_log_tokens": 0.048702541387841,
+   "by_band": [
+    {
+     "band": "<=10",
+     "n_routed": 100,
+     "n_retained": 307,
+     "gap": 0.062175556340332894
+    },
+    {
+     "band": "11-14",
+     "n_routed": 104,
+     "n_retained": 381,
+     "gap": 0.08767456016303987
+    },
+    {
+     "band": "15-19",
+     "n_routed": 94,
+     "n_retained": 401,
+     "gap": 0.0834980296530714
+    },
+    {
+     "band": "20-29",
+     "n_routed": 50,
+     "n_retained": 391,
+     "gap": 0.10158330220161982
+    },
+    {
+     "band": "30+",
+     "n_routed": 16,
+     "n_retained": 130,
+     "gap": 0.13002563219847174
+    }
+   ],
+   "retention_by_proximity_within_band": [
+    {
+     "band": "<=10",
+     "n": 424,
+     "retention_far": 0.7943262411347518,
+     "retention_near": 0.6595744680851063
+    },
+    {
+     "band": "11-14",
+     "n": 488,
+     "retention_far": 0.8271604938271605,
+     "retention_near": 0.7160493827160493
+    },
+    {
+     "band": "15-19",
+     "n": 501,
+     "retention_far": 0.8323353293413174,
+     "retention_near": 0.718562874251497
+    },
+    {
+     "band": "20-29",
+     "n": 441,
+     "retention_far": 0.9319727891156463,
+     "retention_near": 0.8027210884353742
+    },
+    {
+     "band": "30+",
+     "n": 146,
+     "retention_far": 0.9791666666666666,
+     "retention_near": 0.7708333333333334
+    }
+   ]
+  }
+ },
+ "angika_chars": 476296,
+ "hindi_sample_chars": 487900,
+ "vocab": 351270,
+ "wikipedia_minus_news": 0.12107186525184721
+}

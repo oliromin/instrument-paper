@@ -1,0 +1,18 @@
+{
+ "Wikipedia": {
+  "original_L20_n": 2000,
+  "joint_eligible_sources": 1760,
+  "excluded_by_shorter_filters": 240,
+  "L20_reconstruction_exact": true,
+  "matches_nested_units_file": true,
+  "archive_sha256": "2e9eb19c017197f8094bd75fe7624fda19df1dae89ff6c328cbdc859c02c7d0e"
+ },
+ "News": {
+  "original_L20_n": 2000,
+  "joint_eligible_sources": 1334,
+  "excluded_by_shorter_filters": 666,
+  "L20_reconstruction_exact": true,
+  "matches_nested_units_file": true,
+  "archive_sha256": "4c66f96c4e99e1d4277f183320457acae0597f4d314243e65ec371059eecec63"
+ }
+}

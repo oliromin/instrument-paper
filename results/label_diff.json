@@ -1,0 +1,417 @@
+{
+ "v2_sha256": "7b186ecd9c78dca5b8ee5bcd29f35e0cfbd6258b1512484efddd0a6329c6be38",
+ "v3_sha256": "a818b6bd42a628ab47d3dfc1578c7ea615c45381f3494c42535e31e8c4cafc9e",
+ "v2_count": 1848,
+ "v3_count": 2102,
+ "added": 302,
+ "placeholders_added": 157,
+ "genuine_added": 145,
+ "removed": 48,
+ "genuine_added_by_script": {
+  "Latn": 109,
+  "Cyrl": 11,
+  "Goth": 1,
+  "Cans": 2,
+  "Deva": 7,
+  "Mymr": 2,
+  "Arab": 5,
+  "Nkoo": 1,
+  "Hebr": 1,
+  "Mtei": 1,
+  "Tfng": 1,
+  "Hani": 1,
+  "Java": 1,
+  "Wara": 1,
+  "Grek": 1
+ },
+ "v2_labels_by_script": {
+  "Latn": 1626,
+  "Cyrl": 65,
+  "Arab": 41,
+  "Deva": 26,
+  "Mong": 1,
+  "Beng": 6,
+  "Hebr": 4,
+  "Copt": 1,
+  "Geor": 2,
+  "Zzzz": 1,
+  "Ethi": 12,
+  "Hang": 1,
+  "Knda": 2,
+  "Limb": 1,
+  "Tibt": 5,
+  "Cans": 6,
+  "Taml": 1,
+  "Mymr": 4,
+  "Hani": 6,
+  "Orya": 3,
+  "Guru": 1,
+  "Armn": 2,
+  "Kali": 1,
+  "Thai": 7,
+  "Thaa": 1,
+  "Jpan": 1,
+  "Syrc": 2,
+  "Telu": 3,
+  "Khmr": 2,
+  "Cher": 1,
+  "Laoo": 2,
+  "Gujr": 1,
+  "Grek": 3,
+  "Mlym": 1,
+  "Tfng": 3,
+  "Lisu": 1,
+  "Olck": 1,
+  "Sinh": 1
+ },
+ "genuine_added_devanagari": [
+  "anp_Deva",
+  "brx_Deva",
+  "doi_Deva",
+  "dty_Deva",
+  "gom_Deva",
+  "kex_Deva",
+  "snd_Deva"
+ ],
+ "removed_labels": [
+  "aah_Latn",
+  "acq_Arab",
+  "adx_Tibt",
+  "aka_Latn",
+  "aon_Latn",
+  "ara_Arab",
+  "aym_Latn",
+  "aze_Cyrl",
+  "aze_Latn",
+  "bal_Arab",
+  "ber_Latn",
+  "bik_Latn",
+  "bua_Cyrl",
+  "est_Latn",
+  "grn_Latn",
+  "hbs_Cyrl",
+  "hbs_Latn",
+  "hmn_Latn",
+  "khg_Tibt",
+  "kln_Latn",
+  "kom_Cyrl",
+  "kon_Latn",
+  "lav_Latn",
+  "mlg_Latn",
+  "mon_Cyrl",
+  "msa_Latn",
+  "nep_Deva",
+  "nor_Latn",
+  "oji_Latn",
+  "ori_Orya",
+  "orm_Latn",
+  "pbl_Latn",
+  "pes_Arab",
+  "pez_Latn",
+  "prk_Latn",
+  "prs_Arab",
+  "pus_Arab",
+  "que_Latn",
+  "sqi_Latn",
+  "swa_Latn",
+  "tgl_Latn",
+  "uzb_Cyrl",
+  "uzb_Latn",
+  "wca_Latn",
+  "yid_Hebr",
+  "zho_Hani",
+  "zlm_Latn",
+  "zza_Latn"
+ ],
+ "cells": {
+  "hin_L1": {
+   "n": 2000,
+   "v1": 0.9935,
+   "v2": 0.9415,
+   "v3": 0.48,
+   "v2_to_v3_change": -0.4615,
+   "lost_units": 1040,
+   "lost_to_new_labels": 1015,
+   "share_of_cell_to_new_labels": 0.5075,
+   "destinations": [
+    [
+     "anp_Deva",
+     1015
+    ],
+    [
+     "awa_Deva",
+     13
+    ],
+    [
+     "new_Deva",
+     7
+    ],
+    [
+     "bho_Deva",
+     2
+    ],
+    [
+     "mai_Deva",
+     2
+    ]
+   ]
+  },
+  "nep_L1": {
+   "n": 2000,
+   "v1": 0.9985,
+   "v2": 0.9985,
+   "v3": 0.9935,
+   "v2_to_v3_change": -0.0050000000000000044,
+   "lost_units": 13,
+   "lost_to_new_labels": 10,
+   "share_of_cell_to_new_labels": 0.005,
+   "destinations": [
+    [
+     "anp_Deva",
+     8
+    ],
+    [
+     "dty_Deva",
+     2
+    ],
+    [
+     "awa_Deva",
+     1
+    ],
+    [
+     "san_Deva",
+     1
+    ],
+    [
+     "new_Deva",
+     1
+    ]
+   ]
+  },
+  "mar_L1": {
+   "n": 2000,
+   "v1": 0.999,
+   "v2": 0.997,
+   "v3": 0.9935,
+   "v2_to_v3_change": -0.0034999999999999476,
+   "lost_units": 13,
+   "lost_to_new_labels": 8,
+   "share_of_cell_to_new_labels": 0.004,
+   "destinations": [
+    [
+     "anp_Deva",
+     5
+    ],
+    [
+     "gom_Deva",
+     3
+    ],
+    [
+     "new_Deva",
+     3
+    ],
+    [
+     "npi_Deva",
+     1
+    ],
+    [
+     "hin_Deva",
+     1
+    ]
+   ]
+  },
+  "san_L1": {
+   "n": 2000,
+   "v1": 0.9975,
+   "v2": 0.996,
+   "v3": 0.9915,
+   "v2_to_v3_change": -0.0044999999999999485,
+   "lost_units": 17,
+   "lost_to_new_labels": 9,
+   "share_of_cell_to_new_labels": 0.0045,
+   "destinations": [
+    [
+     "anp_Deva",
+     9
+    ],
+    [
+     "awa_Deva",
+     3
+    ],
+    [
+     "mar_Deva",
+     1
+    ],
+    [
+     "npi_Deva",
+     1
+    ],
+    [
+     "kas_Deva",
+     1
+    ]
+   ]
+  },
+  "new_L1": {
+   "n": 2000,
+   "v1": 0.961,
+   "v2": 0.9895,
+   "v3": 0.9695,
+   "v2_to_v3_change": -0.020000000000000018,
+   "lost_units": 61,
+   "lost_to_new_labels": 32,
+   "share_of_cell_to_new_labels": 0.016,
+   "destinations": [
+    [
+     "anp_Deva",
+     32
+    ],
+    [
+     "hin_Deva",
+     19
+    ],
+    [
+     "npi_Deva",
+     4
+    ],
+    [
+     "mar_Deva",
+     3
+    ],
+    [
+     "san_Deva",
+     2
+    ]
+   ]
+  },
+  "mai_L1": {
+   "n": 2000,
+   "v1": 0.992,
+   "v2": 0.9975,
+   "v3": 0.9955,
+   "v2_to_v3_change": -0.0020000000000000018,
+   "lost_units": 9,
+   "lost_to_new_labels": 2,
+   "share_of_cell_to_new_labels": 0.001,
+   "destinations": [
+    [
+     "npi_Deva",
+     2
+    ],
+    [
+     "anp_Deva",
+     2
+    ],
+    [
+     "hin_Deva",
+     2
+    ],
+    [
+     "mag_Deva",
+     1
+    ],
+    [
+     "san_Deva",
+     1
+    ]
+   ]
+  },
+  "hin_L5": {
+   "n": 2000,
+   "v1": 0.9995,
+   "v2": 0.9975,
+   "v3": 0.5235,
+   "v2_to_v3_change": -0.4740000000000001,
+   "lost_units": 953,
+   "lost_to_new_labels": 952,
+   "share_of_cell_to_new_labels": 0.476,
+   "destinations": [
+    [
+     "anp_Deva",
+     952
+    ],
+    [
+     "mar_Deva",
+     1
+    ]
+   ]
+  },
+  "nep_L5": {
+   "n": 2000,
+   "v1": 1.0,
+   "v2": 1.0,
+   "v3": 1.0,
+   "v2_to_v3_change": 0.0,
+   "lost_units": 0,
+   "lost_to_new_labels": 0,
+   "share_of_cell_to_new_labels": 0.0,
+   "destinations": []
+  },
+  "mar_L5": {
+   "n": 1130,
+   "v1": 1.0,
+   "v2": 1.0,
+   "v3": 1.0,
+   "v2_to_v3_change": 0.0,
+   "lost_units": 0,
+   "lost_to_new_labels": 0,
+   "share_of_cell_to_new_labels": 0.0,
+   "destinations": []
+  },
+  "san_L5": {
+   "n": 1614,
+   "v1": 1.0,
+   "v2": 1.0,
+   "v3": 1.0,
+   "v2_to_v3_change": 0.0,
+   "lost_units": 0,
+   "lost_to_new_labels": 0,
+   "share_of_cell_to_new_labels": 0.0,
+   "destinations": []
+  },
+  "new_L5": {
+   "n": 656,
+   "v1": 0.9679878048780488,
+   "v2": 0.9908536585365854,
+   "v3": 0.9771341463414634,
+   "v2_to_v3_change": -0.013719512195121908,
+   "lost_units": 15,
+   "lost_to_new_labels": 8,
+   "share_of_cell_to_new_labels": 0.012195121951219513,
+   "destinations": [
+    [
+     "anp_Deva",
+     8
+    ],
+    [
+     "hin_Deva",
+     3
+    ],
+    [
+     "npi_Deva",
+     3
+    ],
+    [
+     "mar_Deva",
+     1
+    ]
+   ]
+  },
+  "mai_L5": {
+   "n": 364,
+   "v1": 0.9972527472527473,
+   "v2": 1.0,
+   "v3": 0.9972527472527473,
+   "v2_to_v3_change": -0.0027472527472527375,
+   "lost_units": 1,
+   "lost_to_new_labels": 0,
+   "share_of_cell_to_new_labels": 0.0,
+   "destinations": [
+    [
+     "san_Deva",
+     1
+    ]
+   ]
+  }
+ }
+}

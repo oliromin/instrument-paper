@@ -1,0 +1,2671 @@
+{
+  "human": {
+    "v1|confirmed|hi|ALL": {
+      "n": 279,
+      "retained": 278,
+      "retention": 0.996415770609319,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 278,
+        "bho": 1
+      }
+    },
+    "v1|confirmed|hi|conversation": {
+      "n": 50,
+      "retained": 50,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 50
+      }
+    },
+    "v1|confirmed|hi|extempore": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 48
+      }
+    },
+    "v1|confirmed|hi|formal_written": {
+      "n": 41,
+      "retained": 40,
+      "retention": 0.975609756097561,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 40,
+        "bho": 1
+      }
+    },
+    "v1|confirmed|hi|formal_written_sentence": {
+      "n": 46,
+      "retained": 46,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 46
+      }
+    },
+    "v1|confirmed|hi|read_speech_fleurs": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 48
+      }
+    },
+    "v1|confirmed|hi|read_speech_iv": {
+      "n": 46,
+      "retained": 46,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 46
+      }
+    },
+    "v1|confirmed|ne|ALL": {
+      "n": 285,
+      "retained": 284,
+      "retention": 0.9964912280701754,
+      "to_angika": 0,
+      "destinations": {
+        "nep": 119,
+        "npi": 165,
+        "new": 1
+      }
+    },
+    "v1|confirmed|ne|conversation": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 44,
+        "nep": 4
+      }
+    },
+    "v1|confirmed|ne|extempore": {
+      "n": 49,
+      "retained": 49,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 47,
+        "nep": 2
+      }
+    },
+    "v1|confirmed|ne|formal_written": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "nep": 41,
+        "npi": 6
+      }
+    },
+    "v1|confirmed|ne|formal_written_sentence": {
+      "n": 46,
+      "retained": 45,
+      "retention": 0.9782608695652174,
+      "to_angika": 0,
+      "destinations": {
+        "nep": 34,
+        "npi": 11,
+        "new": 1
+      }
+    },
+    "v1|confirmed|ne|read_speech_fleurs": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "nep": 34,
+        "npi": 13
+      }
+    },
+    "v1|confirmed|ne|read_speech_iv": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 44,
+        "nep": 4
+      }
+    },
+    "v1|both_confirmed|hi|ALL": {
+      "n": 86,
+      "retained": 86,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 86
+      }
+    },
+    "v1|both_confirmed|hi|conversation": {
+      "n": 22,
+      "retained": 22,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 22
+      }
+    },
+    "v1|both_confirmed|hi|extempore": {
+      "n": 12,
+      "retained": 12,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 12
+      }
+    },
+    "v1|both_confirmed|hi|formal_written": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 16
+      }
+    },
+    "v1|both_confirmed|hi|formal_written_sentence": {
+      "n": 7,
+      "retained": 7,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 7
+      }
+    },
+    "v1|both_confirmed|hi|read_speech_fleurs": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 16
+      }
+    },
+    "v1|both_confirmed|hi|read_speech_iv": {
+      "n": 13,
+      "retained": 13,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 13
+      }
+    },
+    "v1|both_confirmed|ne|ALL": {
+      "n": 93,
+      "retained": 92,
+      "retention": 0.989247311827957,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 57,
+        "nep": 35,
+        "new": 1
+      }
+    },
+    "v1|both_confirmed|ne|conversation": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 15,
+        "nep": 1
+      }
+    },
+    "v1|both_confirmed|ne|extempore": {
+      "n": 15,
+      "retained": 15,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 15
+      }
+    },
+    "v1|both_confirmed|ne|formal_written": {
+      "n": 15,
+      "retained": 15,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "nep": 15
+      }
+    },
+    "v1|both_confirmed|ne|formal_written_sentence": {
+      "n": 14,
+      "retained": 13,
+      "retention": 0.9285714285714286,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 4,
+        "nep": 9,
+        "new": 1
+      }
+    },
+    "v1|both_confirmed|ne|read_speech_fleurs": {
+      "n": 13,
+      "retained": 13,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 5,
+        "nep": 8
+      }
+    },
+    "v1|both_confirmed|ne|read_speech_iv": {
+      "n": 20,
+      "retained": 20,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 18,
+        "nep": 2
+      }
+    },
+    "v1|reader_labeled|hi|ALL": {
+      "n": 280,
+      "retained": 279,
+      "retention": 0.9964285714285714,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 279,
+        "bho": 1
+      }
+    },
+    "v1|reader_labeled|hi|conversation": {
+      "n": 50,
+      "retained": 50,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 50
+      }
+    },
+    "v1|reader_labeled|hi|extempore": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 48
+      }
+    },
+    "v1|reader_labeled|hi|formal_written": {
+      "n": 41,
+      "retained": 40,
+      "retention": 0.975609756097561,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 40,
+        "bho": 1
+      }
+    },
+    "v1|reader_labeled|hi|formal_written_sentence": {
+      "n": 46,
+      "retained": 46,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 46
+      }
+    },
+    "v1|reader_labeled|hi|read_speech_fleurs": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 48
+      }
+    },
+    "v1|reader_labeled|hi|read_speech_iv": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin": 47
+      }
+    },
+    "v1|reader_labeled|ne|ALL": {
+      "n": 289,
+      "retained": 284,
+      "retention": 0.9826989619377162,
+      "to_angika": 0,
+      "destinations": {
+        "nep": 119,
+        "npi": 165,
+        "bho": 1,
+        "new": 1,
+        "hin": 3
+      }
+    },
+    "v1|reader_labeled|ne|conversation": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 44,
+        "nep": 4
+      }
+    },
+    "v1|reader_labeled|ne|extempore": {
+      "n": 51,
+      "retained": 49,
+      "retention": 0.9607843137254902,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 47,
+        "bho": 1,
+        "hin": 1,
+        "nep": 2
+      }
+    },
+    "v1|reader_labeled|ne|formal_written": {
+      "n": 48,
+      "retained": 47,
+      "retention": 0.9791666666666666,
+      "to_angika": 0,
+      "destinations": {
+        "nep": 41,
+        "npi": 6,
+        "hin": 1
+      }
+    },
+    "v1|reader_labeled|ne|formal_written_sentence": {
+      "n": 46,
+      "retained": 45,
+      "retention": 0.9782608695652174,
+      "to_angika": 0,
+      "destinations": {
+        "nep": 34,
+        "npi": 11,
+        "new": 1
+      }
+    },
+    "v1|reader_labeled|ne|read_speech_fleurs": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "nep": 34,
+        "npi": 13
+      }
+    },
+    "v1|reader_labeled|ne|read_speech_iv": {
+      "n": 49,
+      "retained": 48,
+      "retention": 0.9795918367346939,
+      "to_angika": 0,
+      "destinations": {
+        "npi": 44,
+        "nep": 4,
+        "hin": 1
+      }
+    },
+    "v2|confirmed|hi|ALL": {
+      "n": 279,
+      "retained": 267,
+      "retention": 0.956989247311828,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 267,
+        "awa_Deva": 7,
+        "mai_Deva": 2,
+        "new_Deva": 1,
+        "bho_Deva": 2
+      }
+    },
+    "v2|confirmed|hi|conversation": {
+      "n": 50,
+      "retained": 50,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 50
+      }
+    },
+    "v2|confirmed|hi|extempore": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 48
+      }
+    },
+    "v2|confirmed|hi|formal_written": {
+      "n": 41,
+      "retained": 33,
+      "retention": 0.8048780487804879,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 33,
+        "awa_Deva": 6,
+        "mai_Deva": 1,
+        "bho_Deva": 1
+      }
+    },
+    "v2|confirmed|hi|formal_written_sentence": {
+      "n": 46,
+      "retained": 42,
+      "retention": 0.9130434782608695,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 42,
+        "new_Deva": 1,
+        "mai_Deva": 1,
+        "awa_Deva": 1,
+        "bho_Deva": 1
+      }
+    },
+    "v2|confirmed|hi|read_speech_fleurs": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 48
+      }
+    },
+    "v2|confirmed|hi|read_speech_iv": {
+      "n": 46,
+      "retained": 46,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 46
+      }
+    },
+    "v2|confirmed|ne|ALL": {
+      "n": 285,
+      "retained": 284,
+      "retention": 0.9964912280701754,
+      "to_angika": 0,
+      "destinations": {
+        "nep_Deva": 81,
+        "npi_Deva": 203,
+        "new_Deva": 1
+      }
+    },
+    "v2|confirmed|ne|conversation": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 41,
+        "nep_Deva": 7
+      }
+    },
+    "v2|confirmed|ne|extempore": {
+      "n": 49,
+      "retained": 49,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 44,
+        "nep_Deva": 5
+      }
+    },
+    "v2|confirmed|ne|formal_written": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "nep_Deva": 23,
+        "npi_Deva": 24
+      }
+    },
+    "v2|confirmed|ne|formal_written_sentence": {
+      "n": 46,
+      "retained": 45,
+      "retention": 0.9782608695652174,
+      "to_angika": 0,
+      "destinations": {
+        "nep_Deva": 27,
+        "npi_Deva": 18,
+        "new_Deva": 1
+      }
+    },
+    "v2|confirmed|ne|read_speech_fleurs": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "nep_Deva": 14,
+        "npi_Deva": 33
+      }
+    },
+    "v2|confirmed|ne|read_speech_iv": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 43,
+        "nep_Deva": 5
+      }
+    },
+    "v2|both_confirmed|hi|ALL": {
+      "n": 86,
+      "retained": 86,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 86
+      }
+    },
+    "v2|both_confirmed|hi|conversation": {
+      "n": 22,
+      "retained": 22,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 22
+      }
+    },
+    "v2|both_confirmed|hi|extempore": {
+      "n": 12,
+      "retained": 12,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 12
+      }
+    },
+    "v2|both_confirmed|hi|formal_written": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 16
+      }
+    },
+    "v2|both_confirmed|hi|formal_written_sentence": {
+      "n": 7,
+      "retained": 7,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 7
+      }
+    },
+    "v2|both_confirmed|hi|read_speech_fleurs": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 16
+      }
+    },
+    "v2|both_confirmed|hi|read_speech_iv": {
+      "n": 13,
+      "retained": 13,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 13
+      }
+    },
+    "v2|both_confirmed|ne|ALL": {
+      "n": 93,
+      "retained": 92,
+      "retention": 0.989247311827957,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 66,
+        "nep_Deva": 26,
+        "new_Deva": 1
+      }
+    },
+    "v2|both_confirmed|ne|conversation": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 15,
+        "nep_Deva": 1
+      }
+    },
+    "v2|both_confirmed|ne|extempore": {
+      "n": 15,
+      "retained": 15,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 14,
+        "nep_Deva": 1
+      }
+    },
+    "v2|both_confirmed|ne|formal_written": {
+      "n": 15,
+      "retained": 15,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "nep_Deva": 9,
+        "npi_Deva": 6
+      }
+    },
+    "v2|both_confirmed|ne|formal_written_sentence": {
+      "n": 14,
+      "retained": 13,
+      "retention": 0.9285714285714286,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 5,
+        "nep_Deva": 8,
+        "new_Deva": 1
+      }
+    },
+    "v2|both_confirmed|ne|read_speech_fleurs": {
+      "n": 13,
+      "retained": 13,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 9,
+        "nep_Deva": 4
+      }
+    },
+    "v2|both_confirmed|ne|read_speech_iv": {
+      "n": 20,
+      "retained": 20,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 17,
+        "nep_Deva": 3
+      }
+    },
+    "v2|reader_labeled|hi|ALL": {
+      "n": 280,
+      "retained": 267,
+      "retention": 0.9535714285714286,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 267,
+        "awa_Deva": 7,
+        "mai_Deva": 3,
+        "new_Deva": 1,
+        "bho_Deva": 2
+      }
+    },
+    "v2|reader_labeled|hi|conversation": {
+      "n": 50,
+      "retained": 50,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 50
+      }
+    },
+    "v2|reader_labeled|hi|extempore": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 48
+      }
+    },
+    "v2|reader_labeled|hi|formal_written": {
+      "n": 41,
+      "retained": 33,
+      "retention": 0.8048780487804879,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 33,
+        "awa_Deva": 6,
+        "mai_Deva": 1,
+        "bho_Deva": 1
+      }
+    },
+    "v2|reader_labeled|hi|formal_written_sentence": {
+      "n": 46,
+      "retained": 42,
+      "retention": 0.9130434782608695,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 42,
+        "new_Deva": 1,
+        "mai_Deva": 1,
+        "awa_Deva": 1,
+        "bho_Deva": 1
+      }
+    },
+    "v2|reader_labeled|hi|read_speech_fleurs": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 48
+      }
+    },
+    "v2|reader_labeled|hi|read_speech_iv": {
+      "n": 47,
+      "retained": 46,
+      "retention": 0.9787234042553191,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 46,
+        "mai_Deva": 1
+      }
+    },
+    "v2|reader_labeled|ne|ALL": {
+      "n": 289,
+      "retained": 284,
+      "retention": 0.9826989619377162,
+      "to_angika": 0,
+      "destinations": {
+        "nep_Deva": 81,
+        "npi_Deva": 203,
+        "mai_Deva": 1,
+        "new_Deva": 1,
+        "hin_Deva": 3
+      }
+    },
+    "v2|reader_labeled|ne|conversation": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 41,
+        "nep_Deva": 7
+      }
+    },
+    "v2|reader_labeled|ne|extempore": {
+      "n": 51,
+      "retained": 49,
+      "retention": 0.9607843137254902,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 44,
+        "mai_Deva": 1,
+        "nep_Deva": 5,
+        "hin_Deva": 1
+      }
+    },
+    "v2|reader_labeled|ne|formal_written": {
+      "n": 48,
+      "retained": 47,
+      "retention": 0.9791666666666666,
+      "to_angika": 0,
+      "destinations": {
+        "nep_Deva": 23,
+        "npi_Deva": 24,
+        "hin_Deva": 1
+      }
+    },
+    "v2|reader_labeled|ne|formal_written_sentence": {
+      "n": 46,
+      "retained": 45,
+      "retention": 0.9782608695652174,
+      "to_angika": 0,
+      "destinations": {
+        "nep_Deva": 27,
+        "npi_Deva": 18,
+        "new_Deva": 1
+      }
+    },
+    "v2|reader_labeled|ne|read_speech_fleurs": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "nep_Deva": 14,
+        "npi_Deva": 33
+      }
+    },
+    "v2|reader_labeled|ne|read_speech_iv": {
+      "n": 49,
+      "retained": 48,
+      "retention": 0.9795918367346939,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 43,
+        "nep_Deva": 5,
+        "hin_Deva": 1
+      }
+    },
+    "v3|confirmed|hi|ALL": {
+      "n": 279,
+      "retained": 216,
+      "retention": 0.7741935483870968,
+      "to_angika": 59,
+      "destinations": {
+        "hin_Deva": 216,
+        "anp_Deva": 59,
+        "awa_Deva": 3,
+        "bho_Deva": 1
+      }
+    },
+    "v3|confirmed|hi|conversation": {
+      "n": 50,
+      "retained": 45,
+      "retention": 0.9,
+      "to_angika": 4,
+      "destinations": {
+        "hin_Deva": 45,
+        "anp_Deva": 4,
+        "bho_Deva": 1
+      }
+    },
+    "v3|confirmed|hi|extempore": {
+      "n": 48,
+      "retained": 45,
+      "retention": 0.9375,
+      "to_angika": 3,
+      "destinations": {
+        "hin_Deva": 45,
+        "anp_Deva": 3
+      }
+    },
+    "v3|confirmed|hi|formal_written": {
+      "n": 41,
+      "retained": 27,
+      "retention": 0.6585365853658537,
+      "to_angika": 11,
+      "destinations": {
+        "hin_Deva": 27,
+        "awa_Deva": 3,
+        "anp_Deva": 11
+      }
+    },
+    "v3|confirmed|hi|formal_written_sentence": {
+      "n": 46,
+      "retained": 18,
+      "retention": 0.391304347826087,
+      "to_angika": 28,
+      "destinations": {
+        "hin_Deva": 18,
+        "anp_Deva": 28
+      }
+    },
+    "v3|confirmed|hi|read_speech_fleurs": {
+      "n": 48,
+      "retained": 37,
+      "retention": 0.7708333333333334,
+      "to_angika": 11,
+      "destinations": {
+        "hin_Deva": 37,
+        "anp_Deva": 11
+      }
+    },
+    "v3|confirmed|hi|read_speech_iv": {
+      "n": 46,
+      "retained": 44,
+      "retention": 0.9565217391304348,
+      "to_angika": 2,
+      "destinations": {
+        "hin_Deva": 44,
+        "anp_Deva": 2
+      }
+    },
+    "v3|confirmed|ne|ALL": {
+      "n": 285,
+      "retained": 279,
+      "retention": 0.9789473684210527,
+      "to_angika": 4,
+      "destinations": {
+        "npi_Deva": 279,
+        "anp_Deva": 4,
+        "new_Deva": 1,
+        "rjs_Deva": 1
+      }
+    },
+    "v3|confirmed|ne|conversation": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 48
+      }
+    },
+    "v3|confirmed|ne|extempore": {
+      "n": 49,
+      "retained": 49,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 49
+      }
+    },
+    "v3|confirmed|ne|formal_written": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47
+      }
+    },
+    "v3|confirmed|ne|formal_written_sentence": {
+      "n": 46,
+      "retained": 44,
+      "retention": 0.9565217391304348,
+      "to_angika": 1,
+      "destinations": {
+        "npi_Deva": 44,
+        "new_Deva": 1,
+        "anp_Deva": 1
+      }
+    },
+    "v3|confirmed|ne|read_speech_fleurs": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47
+      }
+    },
+    "v3|confirmed|ne|read_speech_iv": {
+      "n": 48,
+      "retained": 44,
+      "retention": 0.9166666666666666,
+      "to_angika": 3,
+      "destinations": {
+        "npi_Deva": 44,
+        "anp_Deva": 3,
+        "rjs_Deva": 1
+      }
+    },
+    "v3|both_confirmed|hi|ALL": {
+      "n": 86,
+      "retained": 76,
+      "retention": 0.8837209302325582,
+      "to_angika": 9,
+      "destinations": {
+        "hin_Deva": 76,
+        "anp_Deva": 9,
+        "bho_Deva": 1
+      }
+    },
+    "v3|both_confirmed|hi|conversation": {
+      "n": 22,
+      "retained": 20,
+      "retention": 0.9090909090909091,
+      "to_angika": 1,
+      "destinations": {
+        "hin_Deva": 20,
+        "anp_Deva": 1,
+        "bho_Deva": 1
+      }
+    },
+    "v3|both_confirmed|hi|extempore": {
+      "n": 12,
+      "retained": 12,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 12
+      }
+    },
+    "v3|both_confirmed|hi|formal_written": {
+      "n": 16,
+      "retained": 11,
+      "retention": 0.6875,
+      "to_angika": 5,
+      "destinations": {
+        "hin_Deva": 11,
+        "anp_Deva": 5
+      }
+    },
+    "v3|both_confirmed|hi|formal_written_sentence": {
+      "n": 7,
+      "retained": 5,
+      "retention": 0.7142857142857143,
+      "to_angika": 2,
+      "destinations": {
+        "hin_Deva": 5,
+        "anp_Deva": 2
+      }
+    },
+    "v3|both_confirmed|hi|read_speech_fleurs": {
+      "n": 16,
+      "retained": 15,
+      "retention": 0.9375,
+      "to_angika": 1,
+      "destinations": {
+        "hin_Deva": 15,
+        "anp_Deva": 1
+      }
+    },
+    "v3|both_confirmed|hi|read_speech_iv": {
+      "n": 13,
+      "retained": 13,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 13
+      }
+    },
+    "v3|both_confirmed|ne|ALL": {
+      "n": 93,
+      "retained": 90,
+      "retention": 0.967741935483871,
+      "to_angika": 1,
+      "destinations": {
+        "npi_Deva": 90,
+        "new_Deva": 1,
+        "rjs_Deva": 1,
+        "anp_Deva": 1
+      }
+    },
+    "v3|both_confirmed|ne|conversation": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 16
+      }
+    },
+    "v3|both_confirmed|ne|extempore": {
+      "n": 15,
+      "retained": 15,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 15
+      }
+    },
+    "v3|both_confirmed|ne|formal_written": {
+      "n": 15,
+      "retained": 15,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 15
+      }
+    },
+    "v3|both_confirmed|ne|formal_written_sentence": {
+      "n": 14,
+      "retained": 12,
+      "retention": 0.8571428571428571,
+      "to_angika": 1,
+      "destinations": {
+        "npi_Deva": 12,
+        "new_Deva": 1,
+        "anp_Deva": 1
+      }
+    },
+    "v3|both_confirmed|ne|read_speech_fleurs": {
+      "n": 13,
+      "retained": 13,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 13
+      }
+    },
+    "v3|both_confirmed|ne|read_speech_iv": {
+      "n": 20,
+      "retained": 19,
+      "retention": 0.95,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 19,
+        "rjs_Deva": 1
+      }
+    },
+    "v3|reader_labeled|hi|ALL": {
+      "n": 280,
+      "retained": 216,
+      "retention": 0.7714285714285715,
+      "to_angika": 60,
+      "destinations": {
+        "hin_Deva": 216,
+        "anp_Deva": 60,
+        "awa_Deva": 3,
+        "bho_Deva": 1
+      }
+    },
+    "v3|reader_labeled|hi|conversation": {
+      "n": 50,
+      "retained": 45,
+      "retention": 0.9,
+      "to_angika": 4,
+      "destinations": {
+        "hin_Deva": 45,
+        "anp_Deva": 4,
+        "bho_Deva": 1
+      }
+    },
+    "v3|reader_labeled|hi|extempore": {
+      "n": 48,
+      "retained": 45,
+      "retention": 0.9375,
+      "to_angika": 3,
+      "destinations": {
+        "hin_Deva": 45,
+        "anp_Deva": 3
+      }
+    },
+    "v3|reader_labeled|hi|formal_written": {
+      "n": 41,
+      "retained": 27,
+      "retention": 0.6585365853658537,
+      "to_angika": 11,
+      "destinations": {
+        "hin_Deva": 27,
+        "awa_Deva": 3,
+        "anp_Deva": 11
+      }
+    },
+    "v3|reader_labeled|hi|formal_written_sentence": {
+      "n": 46,
+      "retained": 18,
+      "retention": 0.391304347826087,
+      "to_angika": 28,
+      "destinations": {
+        "hin_Deva": 18,
+        "anp_Deva": 28
+      }
+    },
+    "v3|reader_labeled|hi|read_speech_fleurs": {
+      "n": 48,
+      "retained": 37,
+      "retention": 0.7708333333333334,
+      "to_angika": 11,
+      "destinations": {
+        "hin_Deva": 37,
+        "anp_Deva": 11
+      }
+    },
+    "v3|reader_labeled|hi|read_speech_iv": {
+      "n": 47,
+      "retained": 44,
+      "retention": 0.9361702127659575,
+      "to_angika": 3,
+      "destinations": {
+        "hin_Deva": 44,
+        "anp_Deva": 3
+      }
+    },
+    "v3|reader_labeled|ne|ALL": {
+      "n": 289,
+      "retained": 279,
+      "retention": 0.9653979238754326,
+      "to_angika": 4,
+      "destinations": {
+        "npi_Deva": 279,
+        "mai_Deva": 1,
+        "anp_Deva": 4,
+        "new_Deva": 1,
+        "rjs_Deva": 1,
+        "hin_Deva": 3
+      }
+    },
+    "v3|reader_labeled|ne|conversation": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 48
+      }
+    },
+    "v3|reader_labeled|ne|extempore": {
+      "n": 51,
+      "retained": 49,
+      "retention": 0.9607843137254902,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 49,
+        "mai_Deva": 1,
+        "hin_Deva": 1
+      }
+    },
+    "v3|reader_labeled|ne|formal_written": {
+      "n": 48,
+      "retained": 47,
+      "retention": 0.9791666666666666,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47,
+        "hin_Deva": 1
+      }
+    },
+    "v3|reader_labeled|ne|formal_written_sentence": {
+      "n": 46,
+      "retained": 44,
+      "retention": 0.9565217391304348,
+      "to_angika": 1,
+      "destinations": {
+        "npi_Deva": 44,
+        "new_Deva": 1,
+        "anp_Deva": 1
+      }
+    },
+    "v3|reader_labeled|ne|read_speech_fleurs": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47
+      }
+    },
+    "v3|reader_labeled|ne|read_speech_iv": {
+      "n": 49,
+      "retained": 44,
+      "retention": 0.8979591836734694,
+      "to_angika": 3,
+      "destinations": {
+        "npi_Deva": 44,
+        "anp_Deva": 3,
+        "rjs_Deva": 1,
+        "hin_Deva": 1
+      }
+    },
+    "ol3|confirmed|hi|ALL": {
+      "n": 279,
+      "retained": 271,
+      "retention": 0.9713261648745519,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 271,
+        "awa_Deva": 5,
+        "bho_Deva": 3
+      }
+    },
+    "ol3|confirmed|hi|conversation": {
+      "n": 50,
+      "retained": 49,
+      "retention": 0.98,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 49,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|confirmed|hi|extempore": {
+      "n": 48,
+      "retained": 47,
+      "retention": 0.9791666666666666,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 47,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|confirmed|hi|formal_written": {
+      "n": 41,
+      "retained": 39,
+      "retention": 0.9512195121951219,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 39,
+        "bho_Deva": 2
+      }
+    },
+    "ol3|confirmed|hi|formal_written_sentence": {
+      "n": 46,
+      "retained": 43,
+      "retention": 0.9347826086956522,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 43,
+        "bho_Deva": 1,
+        "awa_Deva": 2
+      }
+    },
+    "ol3|confirmed|hi|read_speech_fleurs": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 48
+      }
+    },
+    "ol3|confirmed|hi|read_speech_iv": {
+      "n": 46,
+      "retained": 45,
+      "retention": 0.9782608695652174,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 45,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|confirmed|ne|ALL": {
+      "n": 285,
+      "retained": 284,
+      "retention": 0.9964912280701754,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 284,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|confirmed|ne|conversation": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 48
+      }
+    },
+    "ol3|confirmed|ne|extempore": {
+      "n": 49,
+      "retained": 49,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 49
+      }
+    },
+    "ol3|confirmed|ne|formal_written": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47
+      }
+    },
+    "ol3|confirmed|ne|formal_written_sentence": {
+      "n": 46,
+      "retained": 45,
+      "retention": 0.9782608695652174,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 45,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|confirmed|ne|read_speech_fleurs": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47
+      }
+    },
+    "ol3|confirmed|ne|read_speech_iv": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 48
+      }
+    },
+    "ol3|both_confirmed|hi|ALL": {
+      "n": 86,
+      "retained": 85,
+      "retention": 0.9883720930232558,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 85,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|both_confirmed|hi|conversation": {
+      "n": 22,
+      "retained": 21,
+      "retention": 0.9545454545454546,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 21,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|both_confirmed|hi|extempore": {
+      "n": 12,
+      "retained": 12,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 12
+      }
+    },
+    "ol3|both_confirmed|hi|formal_written": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 16
+      }
+    },
+    "ol3|both_confirmed|hi|formal_written_sentence": {
+      "n": 7,
+      "retained": 7,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 7
+      }
+    },
+    "ol3|both_confirmed|hi|read_speech_fleurs": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 16
+      }
+    },
+    "ol3|both_confirmed|hi|read_speech_iv": {
+      "n": 13,
+      "retained": 13,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 13
+      }
+    },
+    "ol3|both_confirmed|ne|ALL": {
+      "n": 93,
+      "retained": 92,
+      "retention": 0.989247311827957,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 92,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|both_confirmed|ne|conversation": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 16
+      }
+    },
+    "ol3|both_confirmed|ne|extempore": {
+      "n": 15,
+      "retained": 15,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 15
+      }
+    },
+    "ol3|both_confirmed|ne|formal_written": {
+      "n": 15,
+      "retained": 15,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 15
+      }
+    },
+    "ol3|both_confirmed|ne|formal_written_sentence": {
+      "n": 14,
+      "retained": 13,
+      "retention": 0.9285714285714286,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 13,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|both_confirmed|ne|read_speech_fleurs": {
+      "n": 13,
+      "retained": 13,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 13
+      }
+    },
+    "ol3|both_confirmed|ne|read_speech_iv": {
+      "n": 20,
+      "retained": 20,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 20
+      }
+    },
+    "ol3|reader_labeled|hi|ALL": {
+      "n": 280,
+      "retained": 272,
+      "retention": 0.9714285714285714,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 272,
+        "awa_Deva": 5,
+        "bho_Deva": 3
+      }
+    },
+    "ol3|reader_labeled|hi|conversation": {
+      "n": 50,
+      "retained": 49,
+      "retention": 0.98,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 49,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|reader_labeled|hi|extempore": {
+      "n": 48,
+      "retained": 47,
+      "retention": 0.9791666666666666,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 47,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|reader_labeled|hi|formal_written": {
+      "n": 41,
+      "retained": 39,
+      "retention": 0.9512195121951219,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 39,
+        "bho_Deva": 2
+      }
+    },
+    "ol3|reader_labeled|hi|formal_written_sentence": {
+      "n": 46,
+      "retained": 43,
+      "retention": 0.9347826086956522,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 43,
+        "bho_Deva": 1,
+        "awa_Deva": 2
+      }
+    },
+    "ol3|reader_labeled|hi|read_speech_fleurs": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 48
+      }
+    },
+    "ol3|reader_labeled|hi|read_speech_iv": {
+      "n": 47,
+      "retained": 46,
+      "retention": 0.9787234042553191,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 46,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|reader_labeled|ne|ALL": {
+      "n": 289,
+      "retained": 284,
+      "retention": 0.9826989619377162,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 284,
+        "bho_Deva": 1,
+        "awa_Deva": 1,
+        "hin_Deva": 3
+      }
+    },
+    "ol3|reader_labeled|ne|conversation": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 48
+      }
+    },
+    "ol3|reader_labeled|ne|extempore": {
+      "n": 51,
+      "retained": 49,
+      "retention": 0.9607843137254902,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 49,
+        "bho_Deva": 1,
+        "hin_Deva": 1
+      }
+    },
+    "ol3|reader_labeled|ne|formal_written": {
+      "n": 48,
+      "retained": 47,
+      "retention": 0.9791666666666666,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47,
+        "hin_Deva": 1
+      }
+    },
+    "ol3|reader_labeled|ne|formal_written_sentence": {
+      "n": 46,
+      "retained": 45,
+      "retention": 0.9782608695652174,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 45,
+        "awa_Deva": 1
+      }
+    },
+    "ol3|reader_labeled|ne|read_speech_fleurs": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47
+      }
+    },
+    "ol3|reader_labeled|ne|read_speech_iv": {
+      "n": 49,
+      "retained": 48,
+      "retention": 0.9795918367346939,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 48,
+        "hin_Deva": 1
+      }
+    },
+    "ol3_recommended|confirmed|hi|ALL": {
+      "n": 279,
+      "retained": 266,
+      "retention": 0.953405017921147,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 266,
+        "awa_Deva": 9,
+        "bho_Deva": 3,
+        "mai_Deva": 1
+      }
+    },
+    "ol3_recommended|confirmed|hi|conversation": {
+      "n": 50,
+      "retained": 49,
+      "retention": 0.98,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 49,
+        "awa_Deva": 1
+      }
+    },
+    "ol3_recommended|confirmed|hi|extempore": {
+      "n": 48,
+      "retained": 47,
+      "retention": 0.9791666666666666,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 47,
+        "awa_Deva": 1
+      }
+    },
+    "ol3_recommended|confirmed|hi|formal_written": {
+      "n": 41,
+      "retained": 35,
+      "retention": 0.8536585365853658,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 35,
+        "bho_Deva": 2,
+        "awa_Deva": 4
+      }
+    },
+    "ol3_recommended|confirmed|hi|formal_written_sentence": {
+      "n": 46,
+      "retained": 42,
+      "retention": 0.9130434782608695,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 42,
+        "bho_Deva": 1,
+        "awa_Deva": 2,
+        "mai_Deva": 1
+      }
+    },
+    "ol3_recommended|confirmed|hi|read_speech_fleurs": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 48
+      }
+    },
+    "ol3_recommended|confirmed|hi|read_speech_iv": {
+      "n": 46,
+      "retained": 45,
+      "retention": 0.9782608695652174,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 45,
+        "awa_Deva": 1
+      }
+    },
+    "ol3_recommended|confirmed|ne|ALL": {
+      "n": 285,
+      "retained": 285,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 285
+      }
+    },
+    "ol3_recommended|confirmed|ne|conversation": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 48
+      }
+    },
+    "ol3_recommended|confirmed|ne|extempore": {
+      "n": 49,
+      "retained": 49,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 49
+      }
+    },
+    "ol3_recommended|confirmed|ne|formal_written": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47
+      }
+    },
+    "ol3_recommended|confirmed|ne|formal_written_sentence": {
+      "n": 46,
+      "retained": 46,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 46
+      }
+    },
+    "ol3_recommended|confirmed|ne|read_speech_fleurs": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47
+      }
+    },
+    "ol3_recommended|confirmed|ne|read_speech_iv": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 48
+      }
+    },
+    "ol3_recommended|both_confirmed|hi|ALL": {
+      "n": 86,
+      "retained": 85,
+      "retention": 0.9883720930232558,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 85,
+        "awa_Deva": 1
+      }
+    },
+    "ol3_recommended|both_confirmed|hi|conversation": {
+      "n": 22,
+      "retained": 21,
+      "retention": 0.9545454545454546,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 21,
+        "awa_Deva": 1
+      }
+    },
+    "ol3_recommended|both_confirmed|hi|extempore": {
+      "n": 12,
+      "retained": 12,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 12
+      }
+    },
+    "ol3_recommended|both_confirmed|hi|formal_written": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 16
+      }
+    },
+    "ol3_recommended|both_confirmed|hi|formal_written_sentence": {
+      "n": 7,
+      "retained": 7,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 7
+      }
+    },
+    "ol3_recommended|both_confirmed|hi|read_speech_fleurs": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 16
+      }
+    },
+    "ol3_recommended|both_confirmed|hi|read_speech_iv": {
+      "n": 13,
+      "retained": 13,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 13
+      }
+    },
+    "ol3_recommended|both_confirmed|ne|ALL": {
+      "n": 93,
+      "retained": 93,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 93
+      }
+    },
+    "ol3_recommended|both_confirmed|ne|conversation": {
+      "n": 16,
+      "retained": 16,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 16
+      }
+    },
+    "ol3_recommended|both_confirmed|ne|extempore": {
+      "n": 15,
+      "retained": 15,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 15
+      }
+    },
+    "ol3_recommended|both_confirmed|ne|formal_written": {
+      "n": 15,
+      "retained": 15,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 15
+      }
+    },
+    "ol3_recommended|both_confirmed|ne|formal_written_sentence": {
+      "n": 14,
+      "retained": 14,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 14
+      }
+    },
+    "ol3_recommended|both_confirmed|ne|read_speech_fleurs": {
+      "n": 13,
+      "retained": 13,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 13
+      }
+    },
+    "ol3_recommended|both_confirmed|ne|read_speech_iv": {
+      "n": 20,
+      "retained": 20,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 20
+      }
+    },
+    "ol3_recommended|reader_labeled|hi|ALL": {
+      "n": 280,
+      "retained": 267,
+      "retention": 0.9535714285714286,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 267,
+        "awa_Deva": 9,
+        "bho_Deva": 3,
+        "mai_Deva": 1
+      }
+    },
+    "ol3_recommended|reader_labeled|hi|conversation": {
+      "n": 50,
+      "retained": 49,
+      "retention": 0.98,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 49,
+        "awa_Deva": 1
+      }
+    },
+    "ol3_recommended|reader_labeled|hi|extempore": {
+      "n": 48,
+      "retained": 47,
+      "retention": 0.9791666666666666,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 47,
+        "awa_Deva": 1
+      }
+    },
+    "ol3_recommended|reader_labeled|hi|formal_written": {
+      "n": 41,
+      "retained": 35,
+      "retention": 0.8536585365853658,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 35,
+        "bho_Deva": 2,
+        "awa_Deva": 4
+      }
+    },
+    "ol3_recommended|reader_labeled|hi|formal_written_sentence": {
+      "n": 46,
+      "retained": 42,
+      "retention": 0.9130434782608695,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 42,
+        "bho_Deva": 1,
+        "awa_Deva": 2,
+        "mai_Deva": 1
+      }
+    },
+    "ol3_recommended|reader_labeled|hi|read_speech_fleurs": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 48
+      }
+    },
+    "ol3_recommended|reader_labeled|hi|read_speech_iv": {
+      "n": 47,
+      "retained": 46,
+      "retention": 0.9787234042553191,
+      "to_angika": 0,
+      "destinations": {
+        "hin_Deva": 46,
+        "awa_Deva": 1
+      }
+    },
+    "ol3_recommended|reader_labeled|ne|ALL": {
+      "n": 289,
+      "retained": 285,
+      "retention": 0.986159169550173,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 285,
+        "bho_Deva": 1,
+        "hin_Deva": 3
+      }
+    },
+    "ol3_recommended|reader_labeled|ne|conversation": {
+      "n": 48,
+      "retained": 48,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 48
+      }
+    },
+    "ol3_recommended|reader_labeled|ne|extempore": {
+      "n": 51,
+      "retained": 49,
+      "retention": 0.9607843137254902,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 49,
+        "bho_Deva": 1,
+        "hin_Deva": 1
+      }
+    },
+    "ol3_recommended|reader_labeled|ne|formal_written": {
+      "n": 48,
+      "retained": 47,
+      "retention": 0.9791666666666666,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47,
+        "hin_Deva": 1
+      }
+    },
+    "ol3_recommended|reader_labeled|ne|formal_written_sentence": {
+      "n": 46,
+      "retained": 46,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 46
+      }
+    },
+    "ol3_recommended|reader_labeled|ne|read_speech_fleurs": {
+      "n": 47,
+      "retained": 47,
+      "retention": 1.0,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 47
+      }
+    },
+    "ol3_recommended|reader_labeled|ne|read_speech_iv": {
+      "n": 49,
+      "retained": 48,
+      "retention": 0.9795918367346939,
+      "to_angika": 0,
+      "destinations": {
+        "npi_Deva": 48,
+        "hin_Deva": 1
+      }
+    }
+  },
+  "nested": {
+    "v1|Wikipedia": {
+      "n": 1760,
+      "clusters": 1760,
+      "lengths": {
+        "L1": {
+          "k": 1752,
+          "rate": 0.9954545454545455,
+          "ci": [
+            0.9920454545454546,
+            0.9982954545454545
+          ],
+          "to_angika": 0
+        },
+        "L5": {
+          "k": 1760,
+          "rate": 1.0,
+          "ci": [
+            1.0,
+            1.0
+          ],
+          "to_angika": 0
+        },
+        "L20": {
+          "k": 1760,
+          "rate": 1.0,
+          "ci": [
+            1.0,
+            1.0
+          ],
+          "to_angika": 0
+        }
+      },
+      "L20_minus_L1": {
+        "value": 0.004545454545454545,
+        "ci": [
+          0.0017045454545454586,
+          0.007954545454545436
+        ]
+      }
+    },
+    "v1|News": {
+      "n": 1334,
+      "clusters": 1334,
+      "lengths": {
+        "L1": {
+          "k": 1328,
+          "rate": 0.9955022488755623,
+          "ci": [
+            0.9917541229385307,
+            0.9985007496251874
+          ],
+          "to_angika": 0
+        },
+        "L5": {
+          "k": 1334,
+          "rate": 1.0,
+          "ci": [
+            1.0,
+            1.0
+          ],
+          "to_angika": 0
+        },
+        "L20": {
+          "k": 1334,
+          "rate": 1.0,
+          "ci": [
+            1.0,
+            1.0
+          ],
+          "to_angika": 0
+        }
+      },
+      "L20_minus_L1": {
+        "value": 0.004497751124437781,
+        "ci": [
+          0.0014992503748125774,
+          0.008245877061469287
+        ]
+      }
+    },
+    "v2|Wikipedia": {
+      "n": 1760,
+      "clusters": 1760,
+      "lengths": {
+        "L1": {
+          "k": 1669,
+          "rate": 0.9482954545454545,
+          "ci": [
+            0.9380397727272728,
+            0.9585227272727272
+          ],
+          "to_angika": 0
+        },
+        "L5": {
+          "k": 1757,
+          "rate": 0.9982954545454545,
+          "ci": [
+            0.9960227272727272,
+            1.0
+          ],
+          "to_angika": 0
+        },
+        "L20": {
+          "k": 1758,
+          "rate": 0.9988636363636364,
+          "ci": [
+            0.9971590909090909,
+            1.0
+          ],
+          "to_angika": 0
+        }
+      },
+      "L20_minus_L1": {
+        "value": 0.05056818181818182,
+        "ci": [
+          0.040909090909090895,
+          0.06136363636363629
+        ]
+      }
+    },
+    "v2|News": {
+      "n": 1334,
+      "clusters": 1334,
+      "lengths": {
+        "L1": {
+          "k": 1289,
+          "rate": 0.9662668665667167,
+          "ci": [
+            0.9565217391304348,
+            0.9752623688155923
+          ],
+          "to_angika": 0
+        },
+        "L5": {
+          "k": 1333,
+          "rate": 0.9992503748125937,
+          "ci": [
+            0.9977511244377811,
+            1.0
+          ],
+          "to_angika": 0
+        },
+        "L20": {
+          "k": 1334,
+          "rate": 1.0,
+          "ci": [
+            1.0,
+            1.0
+          ],
+          "to_angika": 0
+        }
+      },
+      "L20_minus_L1": {
+        "value": 0.03373313343328336,
+        "ci": [
+          0.02473763118440775,
+          0.04347826086956519
+        ]
+      }
+    },
+    "v3|Wikipedia": {
+      "n": 1760,
+      "clusters": 1760,
+      "lengths": {
+        "L1": {
+          "k": 920,
+          "rate": 0.5227272727272727,
+          "ci": [
+            0.49886363636363634,
+            0.5460227272727273
+          ],
+          "to_angika": 815
+        },
+        "L5": {
+          "k": 996,
+          "rate": 0.5659090909090909,
+          "ci": [
+            0.5431818181818182,
+            0.5886363636363636
+          ],
+          "to_angika": 763
+        },
+        "L20": {
+          "k": 1055,
+          "rate": 0.5994318181818182,
+          "ci": [
+            0.5755681818181818,
+            0.6210227272727272
+          ],
+          "to_angika": 705
+        }
+      },
+      "L20_minus_L1": {
+        "value": 0.07670454545454546,
+        "ci": [
+          0.048295454545454586,
+          0.1045454545454545
+        ]
+      }
+    },
+    "v3|News": {
+      "n": 1334,
+      "clusters": 1334,
+      "lengths": {
+        "L1": {
+          "k": 1034,
+          "rate": 0.775112443778111,
+          "ci": [
+            0.7533733133433284,
+            0.7983508245877061
+          ],
+          "to_angika": 281
+        },
+        "L5": {
+          "k": 1179,
+          "rate": 0.883808095952024,
+          "ci": [
+            0.8665667166416792,
+            0.9002998500749625
+          ],
+          "to_angika": 155
+        },
+        "L20": {
+          "k": 1234,
+          "rate": 0.9250374812593704,
+          "ci": [
+            0.9107946026986506,
+            0.9385307346326837
+          ],
+          "to_angika": 100
+        }
+      },
+      "L20_minus_L1": {
+        "value": 0.14992503748125938,
+        "ci": [
+          0.12668665667166412,
+          0.171664167916042
+        ]
+      }
+    },
+    "ol3|Wikipedia": {
+      "n": 1760,
+      "clusters": 1760,
+      "lengths": {
+        "L1": {
+          "k": 1715,
+          "rate": 0.9744318181818182,
+          "ci": [
+            0.9664772727272727,
+            0.98125
+          ],
+          "to_angika": 0
+        },
+        "L5": {
+          "k": 1753,
+          "rate": 0.9960227272727272,
+          "ci": [
+            0.9926136363636363,
+            0.9988636363636364
+          ],
+          "to_angika": 0
+        },
+        "L20": {
+          "k": 1758,
+          "rate": 0.9988636363636364,
+          "ci": [
+            0.9971590909090909,
+            1.0
+          ],
+          "to_angika": 0
+        }
+      },
+      "L20_minus_L1": {
+        "value": 0.024431818181818183,
+        "ci": [
+          0.01761363636363633,
+          0.031846590909091047
+        ]
+      }
+    },
+    "ol3|News": {
+      "n": 1334,
+      "clusters": 1334,
+      "lengths": {
+        "L1": {
+          "k": 1307,
+          "rate": 0.97976011994003,
+          "ci": [
+            0.972263868065967,
+            0.9865442278860571
+          ],
+          "to_angika": 0
+        },
+        "L5": {
+          "k": 1333,
+          "rate": 0.9992503748125937,
+          "ci": [
+            0.9977511244377811,
+            1.0
+          ],
+          "to_angika": 0
+        },
+        "L20": {
+          "k": 1332,
+          "rate": 0.9985007496251874,
+          "ci": [
+            0.9962518740629686,
+            1.0
+          ],
+          "to_angika": 0
+        }
+      },
+      "L20_minus_L1": {
+        "value": 0.018740629685157422,
+        "ci": [
+          0.011244377811094441,
+          0.026986506746626726
+        ]
+      }
+    },
+    "ol3_recommended|Wikipedia": {
+      "n": 1760,
+      "clusters": 1760,
+      "lengths": {
+        "L1": {
+          "k": 1708,
+          "rate": 0.9704545454545455,
+          "ci": [
+            0.9619318181818182,
+            0.977840909090909
+          ],
+          "to_angika": 0
+        },
+        "L5": {
+          "k": 1747,
+          "rate": 0.9926136363636363,
+          "ci": [
+            0.9880681818181818,
+            0.9960227272727272
+          ],
+          "to_angika": 0
+        },
+        "L20": {
+          "k": 1757,
+          "rate": 0.9982954545454545,
+          "ci": [
+            0.9960227272727272,
+            1.0
+          ],
+          "to_angika": 0
+        }
+      },
+      "L20_minus_L1": {
+        "value": 0.02784090909090909,
+        "ci": [
+          0.020454545454545392,
+          0.036363636363636376
+        ]
+      }
+    },
+    "ol3_recommended|News": {
+      "n": 1334,
+      "clusters": 1334,
+      "lengths": {
+        "L1": {
+          "k": 1301,
+          "rate": 0.9752623688155923,
+          "ci": [
+            0.9662668665667167,
+            0.9835082458770614
+          ],
+          "to_angika": 0
+        },
+        "L5": {
+          "k": 1325,
+          "rate": 0.9932533733133433,
+          "ci": [
+            0.9887556221889056,
+            0.9970014992503748
+          ],
+          "to_angika": 0
+        },
+        "L20": {
+          "k": 1332,
+          "rate": 0.9985007496251874,
+          "ci": [
+            0.9962518740629686,
+            1.0
+          ],
+          "to_angika": 0
+        }
+      },
+      "L20_minus_L1": {
+        "value": 0.023238380809595203,
+        "ci": [
+          0.014992503748125996,
+          0.03223388305847075
+        ]
+      }
+    }
+  },
+  "source_sensitivity": {
+    "v1|Wikipedia|L1": {
+      "n": 2000,
+      "clusters": 1871,
+      "largest_cluster_n": 4,
+      "unit_rate": 0.9935,
+      "equal_cluster_rate": 0.9930518439337253,
+      "without_largest_rate": 0.9934869739478958,
+      "exact_duplicate_excess": 0
+    },
+    "v1|Wikipedia|L5": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 0.9995,
+      "equal_cluster_rate": 0.9995,
+      "without_largest_rate": 0.9994997498749375,
+      "exact_duplicate_excess": 0
+    },
+    "v1|Wikipedia|L20": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 1.0,
+      "equal_cluster_rate": 1.0,
+      "without_largest_rate": 1.0,
+      "exact_duplicate_excess": 0
+    },
+    "v1|News|L1": {
+      "n": 2000,
+      "clusters": 1954,
+      "largest_cluster_n": 4,
+      "unit_rate": 0.998,
+      "equal_cluster_rate": 0.9982088024564995,
+      "without_largest_rate": 0.9979959919839679,
+      "exact_duplicate_excess": 0
+    },
+    "v1|News|L5": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 1.0,
+      "equal_cluster_rate": 1.0,
+      "without_largest_rate": 1.0,
+      "exact_duplicate_excess": 0
+    },
+    "v1|News|L20": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 1.0,
+      "equal_cluster_rate": 1.0,
+      "without_largest_rate": 1.0,
+      "exact_duplicate_excess": 0
+    },
+    "v2|Wikipedia|L1": {
+      "n": 2000,
+      "clusters": 1871,
+      "largest_cluster_n": 4,
+      "unit_rate": 0.9415,
+      "equal_cluster_rate": 0.9420096205237841,
+      "without_largest_rate": 0.9413827655310621,
+      "exact_duplicate_excess": 0
+    },
+    "v2|Wikipedia|L5": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 0.9975,
+      "equal_cluster_rate": 0.9975,
+      "without_largest_rate": 0.9974987493746873,
+      "exact_duplicate_excess": 0
+    },
+    "v2|Wikipedia|L20": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 0.999,
+      "equal_cluster_rate": 0.999,
+      "without_largest_rate": 0.9989994997498749,
+      "exact_duplicate_excess": 0
+    },
+    "v2|News|L1": {
+      "n": 2000,
+      "clusters": 1954,
+      "largest_cluster_n": 4,
+      "unit_rate": 0.9695,
+      "equal_cluster_rate": 0.9699761173660867,
+      "without_largest_rate": 0.9694388777555111,
+      "exact_duplicate_excess": 0
+    },
+    "v2|News|L5": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 1.0,
+      "equal_cluster_rate": 1.0,
+      "without_largest_rate": 1.0,
+      "exact_duplicate_excess": 0
+    },
+    "v2|News|L20": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 1.0,
+      "equal_cluster_rate": 1.0,
+      "without_largest_rate": 1.0,
+      "exact_duplicate_excess": 0
+    },
+    "v3|Wikipedia|L1": {
+      "n": 2000,
+      "clusters": 1871,
+      "largest_cluster_n": 4,
+      "unit_rate": 0.48,
+      "equal_cluster_rate": 0.4733654017459469,
+      "without_largest_rate": 0.4804609218436874,
+      "exact_duplicate_excess": 0
+    },
+    "v3|Wikipedia|L5": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 0.5235,
+      "equal_cluster_rate": 0.5235,
+      "without_largest_rate": 0.5232616308154077,
+      "exact_duplicate_excess": 0
+    },
+    "v3|Wikipedia|L20": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 0.6115,
+      "equal_cluster_rate": 0.6115,
+      "without_largest_rate": 0.6113056528264132,
+      "exact_duplicate_excess": 0
+    },
+    "v3|News|L1": {
+      "n": 2000,
+      "clusters": 1954,
+      "largest_cluster_n": 4,
+      "unit_rate": 0.805,
+      "equal_cluster_rate": 0.8060388945752303,
+      "without_largest_rate": 0.8051102204408818,
+      "exact_duplicate_excess": 0
+    },
+    "v3|News|L5": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 0.9065,
+      "equal_cluster_rate": 0.9065,
+      "without_largest_rate": 0.9064532266133066,
+      "exact_duplicate_excess": 0
+    },
+    "v3|News|L20": {
+      "n": 2000,
+      "clusters": 2000,
+      "largest_cluster_n": 1,
+      "unit_rate": 0.926,
+      "equal_cluster_rate": 0.926,
+      "without_largest_rate": 0.9259629814907454,
+      "exact_duplicate_excess": 0
+    }
+  },
+  "bootstrap": {
+    "replicates": 4999,
+    "seed": 20260913,
+    "nested_pairing": "same source multiplicities across L1/L5/L20 within model"
+  }
+}

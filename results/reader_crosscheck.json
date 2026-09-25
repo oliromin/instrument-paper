@@ -1,0 +1,52 @@
+{
+ "reader1_confirmed_hindi": 279,
+ "retained": {
+  "v1": 278,
+  "v2": 267,
+  "v3": 216
+ },
+ "v3_to_angika": 59,
+ "of_those_hindi_under": {
+  "v1": 58,
+  "v2": 52
+ },
+ "of_those_labels_under": {
+  "v1": [
+   [
+    "hin",
+    58
+   ],
+   [
+    "bho",
+    1
+   ]
+  ],
+  "v2": [
+   [
+    "hin_Deva",
+    52
+   ],
+   [
+    "awa_Deva",
+    3
+   ],
+   [
+    "bho_Deva",
+    2
+   ],
+   [
+    "new_Deva",
+    1
+   ],
+   [
+    "mai_Deva",
+    1
+   ]
+  ]
+ },
+ "both_readers_v3_to_angika": 9,
+ "both_readers_hindi_under": {
+  "v1": 9,
+  "v2": 9
+ }
+}

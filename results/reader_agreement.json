@@ -1,0 +1,16 @@
+{
+ "reader1_categories": {
+  "Hindi": 280,
+  "Nepali": 289,
+  "Both or code-switched": 20,
+  "Cannot tell": 4,
+  "blank": 7
+ },
+ "provenance_agreement_n": 569,
+ "provenance_agreement_k": 564,
+ "inter_reader_n": 198,
+ "inter_reader_k": 183,
+ "both_confirmed": 179,
+ "panel_text_matches": 0,
+ "stage1_n": 600
+}

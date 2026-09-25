@@ -1,0 +1,15 @@
+{
+ "file": "anp_Deva_wikipedia.txt",
+ "sentences": 3970,
+ "angika_marked": 3120,
+ "angika_marked_share": 0.7858942065491183,
+ "extract_match": 1135,
+ "extract_match_share": 0.2858942065491184,
+ "extract_sentences": 4823,
+ "extract_angika_marked_one_sided": 3251,
+ "extract_angika_marked_one_sided_share": 0.6740617872693344,
+ "reference_to_hindi_stored": {
+  "v1": 0.10890180483328235,
+  "v2": 0.02018966044661976
+ }
+}

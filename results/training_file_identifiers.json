@@ -1,0 +1,16 @@
+{
+ "v1": {
+  "reference_n": 3269,
+  "reference_to_hindi": 0.10890180483328235,
+  "reference_reproduced": true,
+  "file_to_hindi": 0.25239294710327453,
+  "excess_over_reference": 0.14349114226999218
+ },
+ "v2": {
+  "reference_n": 3269,
+  "reference_to_hindi": 0.02018966044661976,
+  "reference_reproduced": true,
+  "file_to_hindi": 0.17581863979848866,
+  "excess_over_reference": 0.1556289793518689
+ }
+}

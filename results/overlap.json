@@ -1,0 +1,24 @@
+{
+ "n_present": 1554,
+ "n_absent": 446,
+ "retained_present": 0.47812097812097815,
+ "retained_absent": 0.48654708520179374,
+ "angika_present": 0.5077220077220077,
+ "angika_absent": 0.5067264573991032,
+ "difference": -0.008426107080815592,
+ "clusters": 1871,
+ "mixed_clusters": 40,
+ "ci_retained_present": [
+  0.4522417153996101,
+  0.5032722513089005
+ ],
+ "ci_retained_absent": [
+  0.4410480349344978,
+  0.5334821428571429
+ ],
+ "ci_difference": [
+  -0.06290291584409224,
+  0.04311390998122955
+ ],
+ "replicates_used": 4999
+}
