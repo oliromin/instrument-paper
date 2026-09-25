@@ -1,0 +1,651 @@
+{
+ "retrieved_utc": "2026-09-12T09:32:38.752000+00:00",
+ "repository": "HuggingFaceFW/fineweb-2",
+ "revision": "af9c13333eb981300149d5ca60a8e9d659b276b9",
+ "listings": {
+  "anp_Deva": [
+   {
+    "type": "file",
+    "oid": "22cdbba8f2e9843649038b3789ce7a201c4e1c67",
+    "size": 84196283,
+    "lfs": {
+     "oid": "e0cad8593b49065a745aab9b125ce38d65c40decd09aefda0801d1d0951abcfc",
+     "size": 84196283,
+     "pointerSize": 133
+    },
+    "xetHash": "7b2c6bf6526a30fcf11f2b43c66b562144e29472a98e829ac2acb4c246b22c77",
+    "path": "data/anp_Deva/train/000_00000.parquet"
+   }
+  ],
+  "anp_Deva_removed": [
+   {
+    "type": "file",
+    "oid": "0e2ec17753498d3276d728c1562180123424baf2",
+    "size": 4852303194,
+    "lfs": {
+     "oid": "47956a92c7b2062af2c68cbe781db763d4191e5950ac4be8b81ab07dc58c9db3",
+     "size": 4852303194,
+     "pointerSize": 135
+    },
+    "xetHash": "897a22198bef4740848069c3acd9d2b66f42104a8fbe51ff601815218631a661",
+    "path": "data/anp_Deva_removed/train/000_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "e3c9802ad61ec2f64e92c05701ad98802ea1c7f8",
+    "size": 4851967158,
+    "lfs": {
+     "oid": "164d3e75ac79a5c1ec23753856ba28c2d219b6aba0d1011f998dc7d298107ed4",
+     "size": 4851967158,
+     "pointerSize": 135
+    },
+    "xetHash": "f63e9298bc6232f406b7adcfe807170048aff4495b48b82f19921989ea337ecb",
+    "path": "data/anp_Deva_removed/train/000_00001.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "d21e25fd19f70cad601b30b61d15bc93fae7b980",
+    "size": 4851919631,
+    "lfs": {
+     "oid": "6c003c7f0399d6ace2a52763687d81a498b80c00fbb06aa1352b715aa8c7c8a0",
+     "size": 4851919631,
+     "pointerSize": 135
+    },
+    "xetHash": "ede1fdb72a650d24fcf2a1feb8cb4d0c1bd694066be9c6d7f2d203620e7902f7",
+    "path": "data/anp_Deva_removed/train/000_00002.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "2ceea6382085c2f19c3006c973c8e236ed630b81",
+    "size": 4851857619,
+    "lfs": {
+     "oid": "545eaa447439869824b46f0b4f2bf783308d348cdb6b71e7e2124cf4749e37b4",
+     "size": 4851857619,
+     "pointerSize": 135
+    },
+    "xetHash": "0082278774fd87f1772ba0488d8410d81ad1ac9381e98869320810be1b66501c",
+    "path": "data/anp_Deva_removed/train/000_00003.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "180c5b68caa11381f0ef680e35b8d976dbb4b079",
+    "size": 4851955335,
+    "lfs": {
+     "oid": "53793065cc698f14e5a9c6a65d591280be7b97d1e21fa8d3f628df5856d8c046",
+     "size": 4851955335,
+     "pointerSize": 135
+    },
+    "xetHash": "b685b131853c596de03e3d81fd50a60c296f32afc502a08eeeef36d9aa232958",
+    "path": "data/anp_Deva_removed/train/000_00004.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "12dbb8013aedb1cd5225b9ff5221721258e95d1a",
+    "size": 4851424343,
+    "lfs": {
+     "oid": "9e16dabd15fe2d6520c3fc99ca7a223927c68b749bacac0b8a07de0f2020edf8",
+     "size": 4851424343,
+     "pointerSize": 135
+    },
+    "xetHash": "8d0250eadaa8f9a82739b0254f622cf7eef179e9e82c39e114e5cb8d96e7674c",
+    "path": "data/anp_Deva_removed/train/000_00005.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "965536ae3506e7e7892f85140d996063165be0bd",
+    "size": 4851904920,
+    "lfs": {
+     "oid": "f9a1184801cc8d15175e2186e2a17899123cfb28b82d1b743ee36043154f94ae",
+     "size": 4851904920,
+     "pointerSize": 135
+    },
+    "xetHash": "c963fb2fbf391c23bd33806d5a041d21a2d87dc6763ef0810d43a58afcf75188",
+    "path": "data/anp_Deva_removed/train/000_00006.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "c1008a9344cbe96f39af17f8128dd06ffef7039b",
+    "size": 4852287328,
+    "lfs": {
+     "oid": "e139c1d8c0914e4006e0f3344e1964bf76a260612a0985f0a45ab35604bdf83f",
+     "size": 4852287328,
+     "pointerSize": 135
+    },
+    "xetHash": "cdd4b0e52d7e694a0fe5dca2a34040fbcc96a0e771f74b264cc00d90b2f7fc85",
+    "path": "data/anp_Deva_removed/train/000_00007.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "8735c2c5970657b675c861d329f86bec429a5d88",
+    "size": 4854852191,
+    "lfs": {
+     "oid": "b1ded8143259bc5a432e18dbdbb6ff4875b64efe1c87819cae4ba27a77a05cd4",
+     "size": 4854852191,
+     "pointerSize": 135
+    },
+    "xetHash": "a6354cf5aa9cc95005660375c0068a17476614e606a7af9e73056357254fe1e1",
+    "path": "data/anp_Deva_removed/train/001_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "fdbcb62b5f979040938df117397e46dae8f28dc2",
+    "size": 4854081935,
+    "lfs": {
+     "oid": "8709766e987e60ec7ccbe1d2d4d08196a50a63a1f1770f7c0661864edd1cb2fb",
+     "size": 4854081935,
+     "pointerSize": 135
+    },
+    "xetHash": "33efca61a6f6087e881a92d656555cc27c105045dca6268d851921027de416ec",
+    "path": "data/anp_Deva_removed/train/001_00001.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "886ead5f05de70cbe6943ee038b900151593c1ae",
+    "size": 4855040880,
+    "lfs": {
+     "oid": "0fb426956604922cf774a7273d0799e495938caecb5fcd9060e0ac5ec6cd7e54",
+     "size": 4855040880,
+     "pointerSize": 135
+    },
+    "xetHash": "36f0f08d085bce325077af6a90e0c474958aa5b3a2fb59138e764428fbc3c58a",
+    "path": "data/anp_Deva_removed/train/001_00002.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "a89ee500c3b1e11c66fc9cc12d69f0fbcad4037c",
+    "size": 4853556931,
+    "lfs": {
+     "oid": "961550c2a65d3e7f6ffa174af87bac957aaa494d74c0ef6be071c9c9cacf81c5",
+     "size": 4853556931,
+     "pointerSize": 135
+    },
+    "xetHash": "4380008933dceea88cb1a5f60bbf7670d7bb6fbf6b3a838733d22e7bda55a1a9",
+    "path": "data/anp_Deva_removed/train/001_00003.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "c4dbdeb80caf7768b1f9ab3d94f762dc2d110206",
+    "size": 4853827279,
+    "lfs": {
+     "oid": "2653ec59a484f77229c432dd352ddcd61047eeba76cc7668b25934ec72ebfa05",
+     "size": 4853827279,
+     "pointerSize": 135
+    },
+    "xetHash": "8d05415f061e923e3216ae6f32edeec26e0a41779443c315c4fcb489a25d8dbd",
+    "path": "data/anp_Deva_removed/train/001_00004.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "856ddcb2b6516569b91aeaac81fc0361b985c453",
+    "size": 4854078182,
+    "lfs": {
+     "oid": "90c980a719e3549cafc341a23bc6686f21ae151390ec1ee06179b0ac0c28cc48",
+     "size": 4854078182,
+     "pointerSize": 135
+    },
+    "xetHash": "aa2aae388c9beef4d502453f3e121bd59dde84c9bcf1f4a9497d6c8f5628fd22",
+    "path": "data/anp_Deva_removed/train/001_00005.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "df8b33b224106ea73272b042ab85c76929a7761c",
+    "size": 4853801174,
+    "lfs": {
+     "oid": "bc64264fc6cabdc014cacc3d57dec3409c4188f41df0b123f18a145f4baf30e3",
+     "size": 4853801174,
+     "pointerSize": 135
+    },
+    "xetHash": "a65a3e8131b8042acb0175f8129cc00d240579acc4730c7eaaf0182d794e4a8f",
+    "path": "data/anp_Deva_removed/train/001_00006.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "0aed5ace96baa32a79bf1c969dcab0db0954edff",
+    "size": 4853762352,
+    "lfs": {
+     "oid": "df5387f86126b59a220e42c1e064c318eefdca444b27ceb003442671d2770774",
+     "size": 4853762352,
+     "pointerSize": 135
+    },
+    "xetHash": "7818fad5497bd6192ea6d95379d4b38b7987ee9138789a594c1a85f4150e1640",
+    "path": "data/anp_Deva_removed/train/001_00007.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "d01782092447bbe41c254397bd5f6f22bba4db55",
+    "size": 4843113140,
+    "lfs": {
+     "oid": "5feedb918f1aaf1c520eeac41f36314875a74f4d4bd5feaf43611edcba717882",
+     "size": 4843113140,
+     "pointerSize": 135
+    },
+    "xetHash": "6768486202f1931c0ee607686ca02e25db3c07e3dd49bd5d83d531afaba8478a",
+    "path": "data/anp_Deva_removed/train/002_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "4b0bd2eff4fbf9a4114479fbcdec1d4fe63a6f89",
+    "size": 4843262208,
+    "lfs": {
+     "oid": "a3d105ac53d5a42e14f30188c65f83bdb918d6b74f120861225bec9a5838f567",
+     "size": 4843262208,
+     "pointerSize": 135
+    },
+    "xetHash": "da34cdb04db0cfaf381e8e76b1a54c7f514f5f2006a0cdc1cf0dc96f6de3b378",
+    "path": "data/anp_Deva_removed/train/002_00001.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "9695b35ec39c7b87ebffa6a47c16367949fdba93",
+    "size": 4843108473,
+    "lfs": {
+     "oid": "34f5615fb34d1416f83c5b55a3dca02ebd759a801f9f5f70a6f7e5859c657265",
+     "size": 4843108473,
+     "pointerSize": 135
+    },
+    "xetHash": "a1db92a087cf60263865112c785a16d1d47402808cfb60a49b0ffd07882bbfb6",
+    "path": "data/anp_Deva_removed/train/002_00002.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "e901b71c8ee1649031b517948376fabf016a673a",
+    "size": 4842621831,
+    "lfs": {
+     "oid": "150f9c160748174ea7ac28f4e1b98da9688f4659216290e26366cbe0e8e731b5",
+     "size": 4842621831,
+     "pointerSize": 135
+    },
+    "xetHash": "1cf4dd8b6a03401f7866521e21d868a1cfd98816b44da6a0932d3a89c359970f",
+    "path": "data/anp_Deva_removed/train/002_00003.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "c9d47ab3dec33bf7cb73fe439c2d1a2dae25d19a",
+    "size": 4844627691,
+    "lfs": {
+     "oid": "60a90c4d557dc00dd98faa20a3c20323cf939ed60de5380bb3c8d39dacff4347",
+     "size": 4844627691,
+     "pointerSize": 135
+    },
+    "xetHash": "5a3932bf86ca3ff3de311c017260ed48db483d82c6f9c804dedf234b11085f49",
+    "path": "data/anp_Deva_removed/train/002_00004.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "1a6cdac186479e6e1e75290f978546212b4101f9",
+    "size": 4843287559,
+    "lfs": {
+     "oid": "fb435a6ba40fa0faa8d7b573ca2622e38eccd9c0dbccdd436c11375b3184d310",
+     "size": 4843287559,
+     "pointerSize": 135
+    },
+    "xetHash": "6d60d050839a445245abb2c3210d68315b711aa04775afff0e052f6ef8621201",
+    "path": "data/anp_Deva_removed/train/002_00005.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "39db7df989cc7713440b045af3606d81be02773a",
+    "size": 4846761749,
+    "lfs": {
+     "oid": "1679b07830fddc82127c17f3e3535e4a0473fdb0a24c59e212893c03cdb7e849",
+     "size": 4846761749,
+     "pointerSize": 135
+    },
+    "xetHash": "cd7af646fabbbee5be099d43eaa26f6fc10a9168e56d638d4eee98205674f06a",
+    "path": "data/anp_Deva_removed/train/002_00006.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "e377f5e204acae018067f9b0f9617c008b3783db",
+    "size": 4842195557,
+    "lfs": {
+     "oid": "89673719f633d218e23cfbf571b3699f1c3f0fa6284ac12280b7a059cec2a014",
+     "size": 4842195557,
+     "pointerSize": 135
+    },
+    "xetHash": "3731ea4eb98850531cf582f1e42735a514d445906bfbeae67fc26bbfbf4045aa",
+    "path": "data/anp_Deva_removed/train/002_00007.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "e17e996939efc2af316b32ed5a568dc7cb10b26f",
+    "size": 3003754536,
+    "lfs": {
+     "oid": "156fae7902dff8ce15702c33570bb42ac548c2be81badd67e8aa4907f8df11a3",
+     "size": 3003754536,
+     "pointerSize": 135
+    },
+    "xetHash": "5aedde0f110f5ac06034fa68552f449fda58e52b1f650b7fdd0bb91bb571dc3f",
+    "path": "data/anp_Deva_removed/train/003_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "1f83ce5ba837a34a91e7a067a3e4e1104b49d98e",
+    "size": 2959139427,
+    "lfs": {
+     "oid": "4c2dd223983b2d2decdf9d4645df34e516110cc45f6a96358329de95f5cfaadd",
+     "size": 2959139427,
+     "pointerSize": 135
+    },
+    "xetHash": "264cb62b2fe36d0164ab4b14e24c826e7139a6a6e75a4ce8d9d45310a6740ca9",
+    "path": "data/anp_Deva_removed/train/003_00001.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "958970fac4c90f70d84a8484b42232401d86d4d8",
+    "size": 2898731395,
+    "lfs": {
+     "oid": "8010467f9f70554743c79d1d085a09f15a1e68ca91ef74ea4989daae8f177697",
+     "size": 2898731395,
+     "pointerSize": 135
+    },
+    "xetHash": "e8e85a17e39ab7f3b37f2b133d60c2cd8820f1b451e744ca4995eef61cc499f2",
+    "path": "data/anp_Deva_removed/train/003_00002.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "9352c23aa9fb53cd1b9682defdeb9df46824b175",
+    "size": 2901071178,
+    "lfs": {
+     "oid": "b94b91ca7e7d787df581f4b0d13ff5c1a999f404a884439280e028a55272971e",
+     "size": 2901071178,
+     "pointerSize": 135
+    },
+    "xetHash": "5a2b2616d5b01764329c83752e425650601d06df14a0a4437db999785abae059",
+    "path": "data/anp_Deva_removed/train/003_00003.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "f69b37553788df0093a55046c06cfd7735268ccc",
+    "size": 2859743678,
+    "lfs": {
+     "oid": "33231e4fde5d49e203128bf7955755150594c9c1f6861f78af80519c38d63706",
+     "size": 2859743678,
+     "pointerSize": 135
+    },
+    "xetHash": "3eabf72fb30fbbae3051b8e8e5004745966d058ec7e948f86b04683a83a9587f",
+    "path": "data/anp_Deva_removed/train/003_00004.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "5385f45d1b25eeef1e150d899ee94cf6fdd1bf09",
+    "size": 2824828022,
+    "lfs": {
+     "oid": "957a420f05b7857656023535f13d284165df997d637523ef864add3fd9aa12c5",
+     "size": 2824828022,
+     "pointerSize": 135
+    },
+    "xetHash": "bf3e8a8bd3ec6df2d496d2d32a61da7effeee53953c3d5d27987b5f85e09172d",
+    "path": "data/anp_Deva_removed/train/003_00005.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "aff367bb22e536e6959b5bdcbbf0fb54d5517ebd",
+    "size": 2797789839,
+    "lfs": {
+     "oid": "5580286df015ba708f39f7aa4d72433516ff03527a4b0c72f2307f9fc664c43a",
+     "size": 2797789839,
+     "pointerSize": 135
+    },
+    "xetHash": "14a1403f261fd89a4cc2fc9781394051de795b20f5447661a7291ecee2a44e67",
+    "path": "data/anp_Deva_removed/train/003_00006.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "5e9aa77edaf6c03b8e4f0a245ba20f7e0751a672",
+    "size": 2769227426,
+    "lfs": {
+     "oid": "b128f9f4266106d331196c33660eebfb4ce790f064bf594ad2adb47b3d50155e",
+     "size": 2769227426,
+     "pointerSize": 135
+    },
+    "xetHash": "30ba6de9961548c8a2729bf9dbf37f60fd0fb930414b97b07901363b0fef5a1b",
+    "path": "data/anp_Deva_removed/train/003_00007.parquet"
+   }
+  ],
+  "awa_Deva": [
+   {
+    "type": "file",
+    "oid": "18a157ca9d7f11d4bce5050a2aef183738904bb2",
+    "size": 3092247,
+    "lfs": {
+     "oid": "d9e0c1f35f5ba285738e81bb7d36208b9752896db68576c01b5b4447d704e35a",
+     "size": 3092247,
+     "pointerSize": 132
+    },
+    "xetHash": "e1b4e4f814b20badf02d228bef7e98d4b71aedfd5be8a3f677002d86cb603cab",
+    "path": "data/awa_Deva/train/000_00000.parquet"
+   }
+  ],
+  "awa_Deva_removed": [
+   {
+    "type": "file",
+    "oid": "57398788a99fe6b881f6e5b62dfe51437e337d5f",
+    "size": 1661800837,
+    "lfs": {
+     "oid": "a9e7cbe0176637b3795effde7e863bea043e176cdcb23e4bc75bbb04bcbe5926",
+     "size": 1661800837,
+     "pointerSize": 135
+    },
+    "xetHash": "cae5b3e0f8ca61f57336e9cedf0c56ed6139688903d5bdc6be463f0309cc4273",
+    "path": "data/awa_Deva_removed/train/000_00000.parquet"
+   }
+  ],
+  "bho_Deva": [
+   {
+    "type": "file",
+    "oid": "8e1fd84b39915dbc15b1b41619605c2c3d333fed",
+    "size": 25417218,
+    "lfs": {
+     "oid": "30693990c57bf6e950403f2fd0c50bb74a3a4d8adcb4a9746055d20a3b95f5d1",
+     "size": 25417218,
+     "pointerSize": 133
+    },
+    "xetHash": "1425f9613c3472725103e8557a12d10ddb9002f9c218d7a24503daa4194dcfbe",
+    "path": "data/bho_Deva/train/000_00000.parquet"
+   }
+  ],
+  "bho_Deva_removed": [
+   {
+    "type": "file",
+    "oid": "e9f74335531c75253b73c9fa12e5049f84a6f904",
+    "size": 167519464,
+    "lfs": {
+     "oid": "0a737536c9c0f2ad284fd4c0f83b56e2908ea0086007d388017073d0fea89ade",
+     "size": 167519464,
+     "pointerSize": 134
+    },
+    "xetHash": "82532ac242816c931ac25c316cfe2211979b127bf3b21988f1ba15eaa6f755c9",
+    "path": "data/bho_Deva_removed/train/000_00000.parquet"
+   }
+  ],
+  "mai_Deva": [
+   {
+    "type": "file",
+    "oid": "5f016b81fbebfcac5c856153f77f9b2a08cb810b",
+    "size": 47074596,
+    "lfs": {
+     "oid": "d8540a1a56964d20793db7ebc7085a8e466a7c9270bdd455ab4ed9bc615f6a3f",
+     "size": 47074596,
+     "pointerSize": 133
+    },
+    "xetHash": "f939ad10a85bd1910fbc7db7c19a6da7db1e579fc646e9fe9bf4d19e68776e2e",
+    "path": "data/mai_Deva/train/000_00000.parquet"
+   }
+  ],
+  "mai_Deva_removed": [
+   {
+    "type": "file",
+    "oid": "79cac96cb761cb8ea5eb40a40a7250f05dea6d21",
+    "size": 103620824,
+    "lfs": {
+     "oid": "64185dc8f5fda6d3c1f93c2c69a9886f5f4dbc602fa720363fca56594ee2d733",
+     "size": 103620824,
+     "pointerSize": 134
+    },
+    "xetHash": "5be3abd955bfa41e388facd8e92c710a8158e9fd8ca4189599179c2ed70edb77",
+    "path": "data/mai_Deva_removed/train/000_00000.parquet"
+   }
+  ],
+  "hin_Deva": [
+   {
+    "type": "file",
+    "oid": "c06909d5c371d3981c51b11641062453afeb8633",
+    "size": 4841503429,
+    "lfs": {
+     "oid": "071a6d4cc4b5a21fed9531b2de1bdc8b4be16d38fc35dde41f73b0bd7263adad",
+     "size": 4841503429,
+     "pointerSize": 135
+    },
+    "xetHash": "426edb3590d8c10915cbc906ae195e71e176a8ff76e8199ef8d0933002449fb3",
+    "path": "data/hin_Deva/train/000_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "466e9718dfac7128ca751a88e6ea389aa9ef9e03",
+    "size": 4842875999,
+    "lfs": {
+     "oid": "10d86a072f18c9aff3e2ae074e596b679f2367b17b3123630f46cbfa5e79a8ab",
+     "size": 4842875999,
+     "pointerSize": 135
+    },
+    "xetHash": "a3e55f97d6dccb60e700c104b586ee1f63f2fcbb65c9825891919aece2a0a527",
+    "path": "data/hin_Deva/train/001_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "aeedecef84787ae15c86378046aeaef238f65d59",
+    "size": 4842697318,
+    "lfs": {
+     "oid": "91cdda0e838d74d96f47a26c8c3ca2c9f7db5cc8dca4c47aa03517f2cbea9313",
+     "size": 4842697318,
+     "pointerSize": 135
+    },
+    "xetHash": "d8b7541ff7e02da9fb3ae0d851ab744b696043137da6934ddb0c2e2ced4dc957",
+    "path": "data/hin_Deva/train/002_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "407d69726b7887e4181053223fcb72c95e6c1172",
+    "size": 4843415205,
+    "lfs": {
+     "oid": "71fa95960b105446047ccd1e6166f761d1d41be0da00bf0a27767f84d90d4851",
+     "size": 4843415205,
+     "pointerSize": 135
+    },
+    "xetHash": "00a04aa73791ffb40f59caea6b1ca9893a01b0620a9149d47de8c36cc7971588",
+    "path": "data/hin_Deva/train/003_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "e8c350ff4847e106d727fbec817dcbbc7b67776f",
+    "size": 4842882177,
+    "lfs": {
+     "oid": "2ddb5b674ffda7b4576231ebf18d1f5fb1d34d37d3eb4703ff8fd57656516a5d",
+     "size": 4842882177,
+     "pointerSize": 135
+    },
+    "xetHash": "754cbf61471feb1031658b673839a2e524c8c33a991072bed07dfde757480021",
+    "path": "data/hin_Deva/train/004_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "9f6985a3646c66c6a7a02f4d2999b960ccda10a6",
+    "size": 4843441900,
+    "lfs": {
+     "oid": "d32df7050cde7f4f50e07c933e9ec08467eade43c6ed3c8da457af3e9e4f0a11",
+     "size": 4843441900,
+     "pointerSize": 135
+    },
+    "xetHash": "e454bfc149c574f8f5c65ea36127a40e0aa653575d4c3dd2b28c11d445611e62",
+    "path": "data/hin_Deva/train/005_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "e918e8d0dcc596c0e76ca26a789b94772eae1764",
+    "size": 4844220906,
+    "lfs": {
+     "oid": "3015d4e47055c89edb46b2ec1c5233609a5200d94e6f3c0fad712ee18b12c923",
+     "size": 4844220906,
+     "pointerSize": 135
+    },
+    "xetHash": "34cde9189cf666e8afe0306251c94c45f51ff086cfd5b094b647bd71b3067524",
+    "path": "data/hin_Deva/train/006_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "3c25826fb3c872852e793503270362f4ac4baad0",
+    "size": 371931782,
+    "lfs": {
+     "oid": "ebfeaaebb55fa2cfd9ec362029782c7b65dc2a1e1c1382a00e55f36811c762fb",
+     "size": 371931782,
+     "pointerSize": 134
+    },
+    "xetHash": "59cffa4330f62383828e3b7e7010a90b955ecc38d928776317dec94daf4821f7",
+    "path": "data/hin_Deva/train/007_00000.parquet"
+   }
+  ],
+  "hin_Deva_removed": [
+   {
+    "type": "file",
+    "oid": "201a0ddcc2873f90c6d6be05173278cf41dde37c",
+    "size": 4850233828,
+    "lfs": {
+     "oid": "a90557d74e5fa15d3acb8cb35fd692a150501bc87284c16569d327756895acf4",
+     "size": 4850233828,
+     "pointerSize": 135
+    },
+    "xetHash": "743458acde0b309a23a0fad0ca320184bf791f9a59ed81d96a6cbf1e4b2b0755",
+    "path": "data/hin_Deva_removed/train/000_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "8e571e69ad2cc595cc7bb3c30f3cd0ea994e228a",
+    "size": 4850163508,
+    "lfs": {
+     "oid": "aca559c96d3b1a0d4d9ac9e64d832387bf43cd89aa2d55dd3d9ce10f97490357",
+     "size": 4850163508,
+     "pointerSize": 135
+    },
+    "xetHash": "fc8dfb0630f083eb005b80e0cbb836b4baf8bb6ec03d5e5217277a0b222306d6",
+    "path": "data/hin_Deva_removed/train/001_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "77478e63b49d39e304b63e021c16381718a1cc98",
+    "size": 4846127704,
+    "lfs": {
+     "oid": "9dfdf9dc0628cb558e8b2e9a073f37cc6026d6bb7c22b07535506b28a5d9c163",
+     "size": 4846127704,
+     "pointerSize": 135
+    },
+    "xetHash": "f6df2b1599a3d99293f2f019753c05ab039db3bea23301e1a26f0a0daaa0726a",
+    "path": "data/hin_Deva_removed/train/002_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "d3ae26e27543701588ed0d853e6c66f43a1befbf",
+    "size": 4845203091,
+    "lfs": {
+     "oid": "74addb436075df4ad3193ac2865f80265bcef59a3a79f942c8947b066559bb0a",
+     "size": 4845203091,
+     "pointerSize": 135
+    },
+    "xetHash": "347deb2ecbccafef04f4b24606256427a01194a16440bb1d0055111acbb6d380",
+    "path": "data/hin_Deva_removed/train/003_00000.parquet"
+   },
+   {
+    "type": "file",
+    "oid": "aa1b2045f57ff7524c26140cf1a11bd41a5fbaf6",
+    "size": 2067638005,
+    "lfs": {
+     "oid": "f2fda1040c93d179b95198178eddd7f8f22f952f4f3ba397b2fe49f147b76e62",
+     "size": 2067638005,
+     "pointerSize": 135
+    },
+    "xetHash": "9d5b58dba6d900e890868e17ce719999d77bd174711a4ed48b1ea7edb422914b",
+    "path": "data/hin_Deva_removed/train/004_00000.parquet"
+   }
+  ]
+ }
+}
