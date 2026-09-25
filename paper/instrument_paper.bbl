@@ -1,0 +1,284 @@
+\begin{thebibliography}{32}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Bapna et~al.(2022)Bapna, Caswell, Kreutzer, Firat, van Esch, Siddhant
+  et~al.}]{bapna2022building}
+Bapna, Ankur, Isaac Caswell, Julia Kreutzer, Orhan Firat, Daan van Esch, Aditya
+  Siddhant, et~al. 2022.
+\newblock Building machine translation systems for the next thousand languages.
+\newblock \url{https://arxiv.org/abs/2205.03983}.
+\newblock ArXiv:2205.03983.
+
+\bibitem[{Blevins and Zettlemoyer(2022)}]{blevins-zettlemoyer-2022-language}
+Blevins, Terra and Luke Zettlemoyer. 2022.
+\newblock Language contamination helps explain the cross-lingual capabilities
+  of {E}nglish pretrained models.
+\newblock In \emph{Proceedings of the 2022 Conference on Empirical Methods in
+  Natural Language Processing}, pages 3563--3574, Association for Computational
+  Linguistics, Abu Dhabi, United Arab Emirates.
+
+\bibitem[{Burchell et~al.(2023)Burchell, Birch, Bogoychev, and
+  Heafield}]{burchell-etal-2023-open}
+Burchell, Laurie, Alexandra Birch, Nikolay Bogoychev, and Kenneth Heafield.
+  2023.
+\newblock An open dataset and model for language identification.
+\newblock In \emph{Proceedings of the 61st Annual Meeting of the Association
+  for Computational Linguistics (Volume 2: Short Papers)}, pages 865--879,
+  Association for Computational Linguistics, Toronto, Canada.
+
+\bibitem[{Caswell et~al.(2020)Caswell, Breiner, van Esch, and
+  Bapna}]{caswell-etal-2020-language}
+Caswell, Isaac, Theresa Breiner, Daan van Esch, and Ankur Bapna. 2020.
+\newblock Language {ID} in the wild: Unexpected challenges on the path to a
+  thousand-language web text corpus.
+\newblock In \emph{Proceedings of the 28th International Conference on
+  Computational Linguistics}, pages 6588--6608, International Committee on
+  Computational Linguistics, Barcelona, Spain (Online).
+
+\bibitem[{{CIS, LMU Munich}(2026)}]{glotlidmodelcard}
+{CIS, LMU Munich}. 2026.
+\newblock {GlotLID}: Released models and version metadata.
+\newblock \url{https://huggingface.co/cis-lmu/glotlid}.
+\newblock Repository metadata read 13 September 2026.
+
+\bibitem[{Conneau et~al.(2022)Conneau, Ma, Khanuja, Zhang, Axelrod, Dalmia,
+  Riesa, Rivera, and Bapna}]{conneau2022fleurs}
+Conneau, Alexis, Min Ma, Simran Khanuja, Yu~Zhang, Vera Axelrod, Siddharth
+  Dalmia, Jason Riesa, Clara Rivera, and Ankur Bapna. 2022.
+\newblock {FLEURS}: Few-shot learning evaluation of universal representations
+  of speech.
+\newblock \url{https://arxiv.org/abs/2205.12446}.
+\newblock ArXiv:2205.12446.
+
+\bibitem[{Dent et~al.(2025)Dent, Ortiz~Suarez, Cl{\'e}rice, and
+  Sagot}]{dent-etal-2025-identifying}
+Dent, Rasul, Pedro Ortiz~Suarez, Thibault Cl{\'e}rice, and Beno{\^i}t Sagot.
+  2025.
+\newblock Identifying rare languages in {C}ommon {C}rawl data is a
+  needles-in-a-haystack problem.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2025}, pages 1460--1473, Association for Computational Linguistics,
+  Suzhou, China.
+
+\bibitem[{Dror et~al.(2018)Dror, Baumer, Shlomov, and
+  Reichart}]{dror-etal-2018-hitchhiker}
+Dror, Rotem, Gili Baumer, Segev Shlomov, and Roi Reichart. 2018.
+\newblock The hitchhiker's guide to testing statistical significance in natural
+  language processing.
+\newblock In \emph{Proceedings of the 56th Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pages 1383--1392,
+  Association for Computational Linguistics.
+
+\bibitem[{Fedorova et~al.(2026)Fedorova, Arefyev, Buljan, Helcl, Oepen,
+  R{\o}nningstad, and Scherrer}]{fedorova-etal-2026-openlid}
+Fedorova, Mariia, Nikolay Arefyev, Maja Buljan, Jind{\v{r}}ich Helcl, Stephan
+  Oepen, Egil R{\o}nningstad, and Yves Scherrer. 2026.
+\newblock {O}pen{LID}-v3: Improving the precision of closely related language
+  identification --- an experience report.
+\newblock In \emph{Proceedings of the Thirteenth Workshop on {NLP} for Similar
+  Languages, Varieties and Dialects ({V}ar{D}ial 2026)}, pages 275--292,
+  Association for Computational Linguistics, Rabat, Morocco.
+\newblock ArXiv:2602.13139.
+
+\bibitem[{Goldhahn, Eckart, and Quasthoff(2012)}]{goldhahn-etal-2012-building}
+Goldhahn, Dirk, Thomas Eckart, and Uwe Quasthoff. 2012.
+\newblock Building large monolingual dictionaries at the {L}eipzig corpora
+  collection: From 100 to 200 languages.
+\newblock In \emph{Proceedings of the Eighth International Conference on
+  Language Resources and Evaluation (LREC'12)}, pages 759--765, European
+  Language Resources Association (ELRA), Istanbul, Turkey.
+
+\bibitem[{{Google}(2020)}]{cld3}
+{Google}. 2020.
+\newblock {CLD3}: Compact language detector v3.
+\newblock \url{https://github.com/google/cld3}.
+\newblock Software.
+
+\bibitem[{{HPLT}(2026)}]{hpltopenlidv3model}
+{HPLT}. 2026.
+\newblock {OpenLID-v3}: Released model and recommended preprocessing.
+\newblock \url{https://huggingface.co/HPLT/OpenLID-v3}.
+\newblock Frozen repository revision and SHA-256 in the accompanying
+  repository; accessed 13 September 2026.
+
+\bibitem[{{Hugging Face}(2026)}]{finewebpipeline}
+{Hugging Face}. 2026.
+\newblock {FineWeb-2}: Released pipeline configuration.
+\newblock
+  \url{https://github.com/huggingface/fineweb-2/blob/main/fineweb-2-pipeline.py}.
+\newblock Inspected 13 September 2026; not a production model checksum.
+
+\bibitem[{{HuggingFaceFW}(2025)}]{fineweb2-dataset}
+{HuggingFaceFW}. 2025.
+\newblock {FineWeb-2}: Dataset card and released data.
+\newblock \url{https://huggingface.co/datasets/HuggingFaceFW/fineweb-2}.
+\newblock Revision af9c13333eb981300149d5ca60a8e9d659b276b9; metadata read 12
+  September 2026.
+
+\bibitem[{Jauhiainen, Jauhiainen, and
+  Lind{\'e}n(2018)}]{jauhiainen-etal-2018-iterative}
+Jauhiainen, Tommi, Heidi Jauhiainen, and Krister Lind{\'e}n. 2018.
+\newblock Iterative language model adaptation for {I}ndo-{A}ryan language
+  identification.
+\newblock In \emph{Proceedings of the Fifth Workshop on {NLP} for Similar
+  Languages, Varieties and Dialects ({V}ar{D}ial 2018)}, pages 66--75,
+  Association for Computational Linguistics, Santa Fe, New Mexico, USA.
+
+\bibitem[{Jauhiainen et~al.(2019)Jauhiainen, Lui, Zampieri, Baldwin, and
+  Lind{\'e}n}]{jauhiainen-etal-2019-automatic}
+Jauhiainen, Tommi, Marco Lui, Marcos Zampieri, Timothy Baldwin, and Krister
+  Lind{\'e}n. 2019.
+\newblock Automatic language identification in texts: A survey.
+\newblock \emph{Journal of Artificial Intelligence Research}, 65:675--782.
+
+\bibitem[{Javed et~al.(2024)Javed, Nawale, George, Joshi, Bhogale
+  et~al.}]{javed2024indicvoices}
+Javed, Tahir, Janki~Atul Nawale, Eldho~Ittan George, Sakshi Joshi,
+  Kaushal~Santosh Bhogale, et~al. 2024.
+\newblock {IndicVoices}: Towards building an inclusive multilingual speech
+  dataset for {I}ndian languages.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  ACL 2024}, pages 10740--10782.
+
+\bibitem[{Joulin et~al.(2016{\natexlab{a}})Joulin, Grave, Bojanowski, Douze,
+  J{\'e}gou, and Mikolov}]{joulin2016fasttextzip}
+Joulin, Armand, Edouard Grave, Piotr Bojanowski, Matthijs Douze, Herv{\'e}
+  J{\'e}gou, and Tomas Mikolov. 2016{\natexlab{a}}.
+\newblock {FastText.zip}: Compressing text classification models.
+\newblock \url{https://arxiv.org/abs/1612.03651}.
+\newblock ArXiv:1612.03651.
+
+\bibitem[{Joulin et~al.(2016{\natexlab{b}})Joulin, Grave, Bojanowski, and
+  Mikolov}]{joulin2016bag}
+Joulin, Armand, Edouard Grave, Piotr Bojanowski, and Tomas Mikolov.
+  2016{\natexlab{b}}.
+\newblock Bag of tricks for efficient text classification.
+\newblock \url{https://arxiv.org/abs/1607.01759}.
+\newblock ArXiv:1607.01759.
+
+\bibitem[{Kargaran et~al.(2023)Kargaran, Imani, Yvon, and
+  Sch{\"u}tze}]{kargaran-etal-2023-glotlid}
+Kargaran, Amir~Hossein, Ayyoob Imani, Fran{\c{c}}ois Yvon, and Hinrich
+  Sch{\"u}tze. 2023.
+\newblock {G}lot{LID}: Language identification for low-resource languages.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2023}, pages 6155--6218, Association for Computational Linguistics,
+  Singapore.
+
+\bibitem[{Kargaran et~al.(2025)Kargaran, Imani, Yvon, and
+  Sch{\"u}tze}]{glotlid-corpus-v31}
+Kargaran, Amir~Hossein, Ayyoob Imani, Fran{\c{c}}ois Yvon, and Hinrich
+  Sch{\"u}tze. 2025.
+\newblock {G}lot{LID} corpus, version 3.1.
+\newblock \url{https://huggingface.co/datasets/cis-lmu/glotlid-corpus}.
+\newblock ``The collection of data used to train GlotLID v3, with some edits
+  (v3.1).'' Access granted and the \texttt{anp\_Deva} and \texttt{hin\_Deva}
+  files read on 16 September 2026.
+
+\bibitem[{Kargaran, Yvon, and Sch{\"u}tze(2024)}]{kargaran-etal-2024-glotcc}
+Kargaran, Amir~Hossein, Fran{\c{c}}ois Yvon, and Hinrich Sch{\"u}tze. 2024.
+\newblock {G}lot{CC}: An open broad-coverage {C}ommon{C}rawl corpus and
+  pipeline for minority languages.
+\newblock In \emph{Advances in Neural Information Processing Systems 37:
+  Datasets and Benchmarks Track}.
+\newblock ArXiv:2410.23825.
+
+\bibitem[{Kreutzer et~al.(2022)Kreutzer, Caswell, Wang
+  et~al.}]{kreutzer-etal-2022-quality}
+Kreutzer, Julia, Isaac Caswell, Lisa Wang, et~al. 2022.
+\newblock Quality at a glance: An audit of web-crawled multilingual datasets.
+\newblock \emph{Transactions of the Association for Computational Linguistics},
+  10:50--72.
+
+\bibitem[{Kudugunta et~al.(2023)Kudugunta, Caswell, Zhang, Garcia,
+  Choquette-Choo, Lee, Xin, Kusupati, Stella, Bapna, and
+  Firat}]{kudugunta-etal-2023-madlad}
+Kudugunta, Sneha, Isaac Caswell, Biao Zhang, Xavier Garcia, Christopher~A.
+  Choquette-Choo, Katherine Lee, Derrick Xin, Aditya Kusupati, Romi Stella,
+  Ankur Bapna, and Orhan Firat. 2023.
+\newblock {MADLAD}-400: A multilingual and document-level large audited
+  dataset.
+\newblock In \emph{Advances in Neural Information Processing Systems 36:
+  Datasets and Benchmarks Track}.
+\newblock ArXiv:2309.04662.
+
+\bibitem[{Kumar, Lahiri, and Jain(2018)}]{vardial2018-ili-data}
+Kumar, Ritesh, Bornini Lahiri, and Mayank Jain. 2018.
+\newblock {V}ar{D}ial 2018 {I}ndo-{A}ryan language identification shared task
+  data.
+\newblock \url{https://github.com/kmi-linguistics/vardial2018}.
+\newblock Apache-2.0. Hindi, Awadhi, Bhojpuri, Braj and Magahi; train,
+  development and test files, one sentence per line with a tab-separated label.
+
+\bibitem[{Lui and Baldwin(2012)}]{lui-baldwin-2012-langid}
+Lui, Marco and Timothy Baldwin. 2012.
+\newblock langid.py: An off-the-shelf language identification tool.
+\newblock In \emph{Proceedings of the ACL 2012 System Demonstrations}, pages
+  25--30, Association for Computational Linguistics, Jeju Island, Korea.
+
+\bibitem[{Meister et~al.(2026)Meister, Yavuz, Lesci, and
+  Pimentel}]{meister-etal-2026-language}
+Meister, Clara, Ahmetcan Yavuz, Pietro Lesci, and Tiago Pimentel. 2026.
+\newblock What language is this? {A}sk your tokenizer.
+\newblock In \emph{Proceedings of the 43rd International Conference on Machine
+  Learning}, volume 306 of \emph{Proceedings of Machine Learning Research},
+  Seoul, South Korea.
+\newblock ArXiv:2602.17655.
+
+\bibitem[{Ortiz~Suarez et~al.(2026)Ortiz~Suarez, Burchell, Arnett, Mosquera,
+  Hincapi{\'e}~Monsalve et~al.}]{ortizsuarez-etal-2026-commonlid}
+Ortiz~Suarez, Pedro, Laurie Burchell, Catherine Arnett, Rafael Mosquera, Sara
+  Hincapi{\'e}~Monsalve, et~al. 2026.
+\newblock {CommonLID}: Re-evaluating state-of-the-art language identification
+  performance on web data.
+\newblock In \emph{Proceedings of the 64th Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pages 33063--33080,
+  Association for Computational Linguistics, San Diego, California, United
+  States.
+
+\bibitem[{Penedo et~al.(2025)Penedo, Kydl{\'\i}{\v{c}}ek, Sabol{\v{c}}ec,
+  Messmer, Foroutan, Kargaran, Raffel, Jaggi, Von~Werra, and
+  Wolf}]{penedo2025fineweb2}
+Penedo, Guilherme, Hynek Kydl{\'\i}{\v{c}}ek, Vinko Sabol{\v{c}}ec, Bettina
+  Messmer, Negar Foroutan, Amir~Hossein Kargaran, Colin Raffel, Martin Jaggi,
+  Leandro Von~Werra, and Thomas Wolf. 2025.
+\newblock {FineWeb2}: One pipeline to scale them all --- adapting pre-training
+  data processing to every language.
+\newblock In \emph{Second Conference on Language Modeling (COLM 2025)}.
+\newblock ArXiv:2506.20920.
+
+\bibitem[{van Strien(2025)}]{vanstrien2025fineweb}
+van Strien, Daniel. 2025.
+\newblock How fine is {F}ine{W}eb2?
+\newblock Analysis of the FineWeb-C community annotations.
+\newblock
+  \url{https://danielvanstrien.xyz/posts/2025/FineWeb-c/how-fine-is-fineweb2.html}.
+
+\bibitem[{Tatariya et~al.(2026)Tatariya, Kulmizev, Poelman, Ploeger, Bollmann,
+  Bjerva, Luo, Lent, and de~Lhoneux}]{tatariya-etal-2026-good}
+Tatariya, Kushal, Artur Kulmizev, Wessel Poelman, Esther Ploeger, Marcel
+  Bollmann, Johannes Bjerva, Jiaming Luo, Heather Lent, and Miryam de~Lhoneux.
+  2026.
+\newblock How good is your {W}ikipedia? {A}uditing data quality for
+  low-resource and multilingual {NLP}.
+\newblock In \emph{Proceedings of the 64th Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pages 29754--29774,
+  Association for Computational Linguistics, San Diego, California, United
+  States.
+
+\bibitem[{Zampieri et~al.(2018)Zampieri, Malmasi, Nakov, Ali, Shon, Glass,
+  Scherrer, Samard{\v{z}}i{\'c}, Ljube{\v{s}}i{\'c}, Tiedemann, van~der Lee,
+  Grondelaers, Oostdijk, Speelman, van~den Bosch, Kumar, Lahiri, and
+  Jain}]{zampieri-etal-2018-language}
+Zampieri, Marcos, Shervin Malmasi, Preslav Nakov, Ahmed Ali, Suwon Shon, James
+  Glass, Yves Scherrer, Tanja Samard{\v{z}}i{\'c}, Nikola Ljube{\v{s}}i{\'c},
+  J{\"o}rg Tiedemann, Chris van~der Lee, Stefan Grondelaers, Nelleke Oostdijk,
+  Dirk Speelman, Antal van~den Bosch, Ritesh Kumar, Bornini Lahiri, and Mayank
+  Jain. 2018.
+\newblock Language identification and morphosyntactic tagging: The second
+  {V}ar{D}ial evaluation campaign.
+\newblock In \emph{Proceedings of the Fifth Workshop on {NLP} for Similar
+  Languages, Varieties and Dialects ({V}ar{D}ial 2018)}, pages 1--17,
+  Association for Computational Linguistics, Santa Fe, New Mexico, USA.
+
+\end{thebibliography}

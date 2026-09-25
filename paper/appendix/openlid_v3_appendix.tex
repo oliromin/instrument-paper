@@ -1,0 +1,7 @@
+
+\begin{table}[htbp]\centering\small\exhibit{openlid_v3_retention}
+\caption{OpenLID-v3 Hindi retention on the original reference cells under two preprocessing conditions. The later nested-source experiment has separate denominators.}\label{tab:modern}
+\end{table}
+OpenLID-v3's published recommended preprocessing strips surrounding whitespace, replaces newlines with spaces, lowercases, squeezes repeated whitespace, and removes non-word/non-space characters and digits using its Unicode-aware regular expression. We execute that order exactly. Common preprocessing replaces newlines with spaces only. The two results are retained without selecting the better condition per cell. Top-1 scores and the number below 0.5 are available in the output records; a precision/coverage comparison after abstention is not claimed. Every OpenLID-v3 figure in this paper is derived from one set of per-unit records produced by the published binary, whose SHA-256 is checked before any unit is scored; the accompanying repository carries those records and the derivation.
+
+The full mixture used for destination composition is Panel 1 at the stated length. The Hindi-only news and Wikipedia-L20 extension cells cannot estimate destination precision against other source languages; only retention is reported for them. OpenLID-v3 output coverage is read from the actual binary rather than inferred from the model name. Because it lacks Angika, its outputs are not used to certify the language composition of the Angika-labelled artifact.

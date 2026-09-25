@@ -1,0 +1,12 @@
+
+The nested-source and reader-sample runs add 600 previously human-judged units and 9,282 nested units (3,094 sources at three lengths). Each GlotLID release has 9,882 new prediction records. OpenLID-v3 scores 29,764 panel units---the original panel cells together with the 2,000-unit Angika row of Section~\ref{sec:seven}---and the same 9,882 nested and reader-sample units, yielding 39,646 per-unit records, each with the top-1 label and score under common and recommended preprocessing. The existing human-unit v3 labels reproduce exactly on all 600 records. Hashes bind the texts, model binaries and stored outputs.
+
+OpenLID-v3 is read from \lab{HPLT/OpenLID-v3}, repository revision
+\begin{center}\footnotesize\nolinkurl{6b9560483e17e42f48d86cebf22b4b58dffeaa70}\end{center}
+with SHA-256
+\begin{center}\footnotesize\nolinkurl{01ec5bbf85975c52673c52b3d8585bc4cc0e4eb4636ad5591467bab56b118821}\end{center}
+The official GlotLID metadata read on 13 September 2026 identifies \lab{model.bin} and \lab{model\_v3.bin} with the same SHA-256 as the evaluated v3 \citep{glotlidmodelcard}. The inspected repository revision is
+\begin{center}\footnotesize\nolinkurl{85cd6716494360367b75f642b5bc78667605d0b4}\end{center}
+This establishes the current published artifact's identity, not the identity of every earlier corpus-production model. CommonLID's use of the name v4 cannot be reconciled to a distinct published binary through the inspected official listing; we identify our evaluated artifacts by hash.
+
+The public FineWeb-2 pipeline uses a GlotLID backend and an inclusive score comparison against a language-specific threshold \citep{finewebpipeline}. Its displayed configuration does not bind that backend to the evaluated model hash. We therefore retain the production-lineage boundary. Source listings, declared pipelines, and current model metadata are recorded as different kinds of evidence.
